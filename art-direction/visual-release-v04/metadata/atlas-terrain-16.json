@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-16",
+  "actor": "atlas-terrain-16",
+  "title": "Torres · Escada",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-16.png",
+  "aseprite": "aseprite/atlas-terrain-16.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      6,
+      92,
+      60
+    ]
+  ],
+  "sha256": "489fb9fa57dd8570725bc122ded367ed5e8ee4957bf24b721913207a0bbd2d62",
+  "events": []
+}

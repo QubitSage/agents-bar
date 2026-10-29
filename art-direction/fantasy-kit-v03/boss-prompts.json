@@ -1,0 +1,53 @@
+{
+  "mode": "built-in imagegen + Aseprite batch production",
+  "assets": [
+    {
+      "id": "boss-04-furnace-executioner",
+      "title": "O Carrasco das Mil Forjas",
+      "width": 192,
+      "height": 192,
+      "category": "bosses",
+      "prompt": "Use case: stylized-concept. Asset: single polished pixel art fantasy boss for Agents Bar, following the supplied compact silver-blue knight and plated boss STYLE REFERENCES only. Original imaginative creature design. Genuine chunky pixel clusters and sharp stepped contours, restrained 32-color-looking ramps, clear strong silhouette readable at 192px tall. Medieval silver-blue armor with gold/copper accents, high craft. No smooth painterly rendering, no grain or microtexture. Full creature including every extremity fully inside canvas with 12% transparent margin, no ground or background, no lettering, no frame. Three-quarter side view facing left, light from upper left. This is a boss sprite, not a poster. Transparent background, no ambient haze outside the silhouette.\nSubject: Escalation tier 1. Enormous hunchback armored furnace executioner with one giant cleaver-shaped arm and one articulated iron hand, chained bell shoulders, squat weight-bearing legs, glowing amber furnace maw in chest, tiny crowned helmet sunk into shoulders. Asymmetric brutal readable silhouette, copper pipes, blue steel plate. Terrifying without gore."
+    },
+    {
+      "id": "boss-05-living-cathedral",
+      "title": "A Catedral Faminta",
+      "width": 224,
+      "height": 224,
+      "category": "bosses",
+      "prompt": "Use case: stylized-concept. Asset: single polished pixel art fantasy boss for Agents Bar, following the supplied compact silver-blue knight and plated boss STYLE REFERENCES only. Original imaginative creature design. Genuine chunky pixel clusters and sharp stepped contours, restrained 32-color-looking ramps, clear strong silhouette readable at 192px tall. Medieval silver-blue armor with gold/copper accents, high craft. No smooth painterly rendering, no grain or microtexture. Full creature including every extremity fully inside canvas with 12% transparent margin, no ground or background, no lettering, no frame. Three-quarter side view facing left, light from upper left. This is a boss sprite, not a poster. Transparent background, no ambient haze outside the silhouette.\nSubject: Escalation tier 2. A monstrous walking gothic cathedral fused with a giant armored crab. Four huge angular buttress legs, blue-silver chapel roof carapace, stained-glass amber rib windows, circular rose-window eye in frontal arch, two oversized stone pincers, tall broken steeples. Main body visibly creature-like and mobile, no ground. Architecture becomes anatomy, bizarre yet clear."
+    },
+    {
+      "id": "boss-06-stained-glass-hydra",
+      "title": "A Hidra dos Sete Juramentos",
+      "width": 256,
+      "height": 224,
+      "category": "bosses",
+      "prompt": "Use case: stylized-concept. Asset: single polished pixel art fantasy boss for Agents Bar, following the supplied compact silver-blue knight and plated boss STYLE REFERENCES only. Original imaginative creature design. Genuine chunky pixel clusters and sharp stepped contours, restrained 32-color-looking ramps, clear strong silhouette readable at 192px tall. Medieval silver-blue armor with gold/copper accents, high craft. No smooth painterly rendering, no grain or microtexture. Full creature including every extremity fully inside canvas with 12% transparent margin, no ground or background, no lettering, no frame. Three-quarter side view facing left, light from upper left. This is a boss sprite, not a poster. Transparent background, no ambient haze outside the silhouette.\nSubject: Escalation tier 3. Impossible hydra made of silver armor and luminous stained glass: seven distinctly separated serpentine necks ending in different broken knight helmets around one massive reptilian plated body, coiled tail, two powerful clawed legs. Jewel turquoise emerald violet ruby panes contained inside neck armor. Seven heads clearly separated against transparency, no overlapping clutter, ceremonial gold ribs."
+    },
+    {
+      "id": "boss-07-bell-seraph",
+      "title": "O Serafim do Último Sino",
+      "width": 256,
+      "height": 256,
+      "category": "bosses",
+      "prompt": "Use case: stylized-concept. Asset: single polished pixel art fantasy boss for Agents Bar, following the supplied compact silver-blue knight and plated boss STYLE REFERENCES only. Original imaginative creature design. Genuine chunky pixel clusters and sharp stepped contours, restrained 32-color-looking ramps, clear strong silhouette readable at 192px tall. Medieval silver-blue armor with gold/copper accents, high craft. No smooth painterly rendering, no grain or microtexture. Full creature including every extremity fully inside canvas with 12% transparent margin, no ground or background, no lettering, no frame. Three-quarter side view facing left, light from upper left. This is a boss sprite, not a poster. Transparent background, no ambient haze outside the silhouette.\nSubject: Escalation tier 4. An eldritch armored seraph of bells, NO human face: huge single closed dark bell torso containing one luminous cyan eye, six gigantic fanlike wings made of cathedral organ pipes and segmented silver blades, three orbiting broken gold halo rings, two long clawed armored hands, narrow hanging chain feet. Strong radial silhouette, abyssal indigo and antique gold, a ritual machine creature, disturbing and majestic without gore."
+    },
+    {
+      "id": "boss-08-moon-devourer",
+      "title": "O Devorador de Luas",
+      "width": 288,
+      "height": 256,
+      "category": "bosses",
+      "prompt": "Use case: stylized-concept. Asset: single polished pixel art fantasy boss for Agents Bar, following the supplied compact silver-blue knight and plated boss STYLE REFERENCES only. Original imaginative creature design. Genuine chunky pixel clusters and sharp stepped contours, restrained 32-color-looking ramps, clear strong silhouette readable at 192px tall. Medieval silver-blue armor with gold/copper accents, high craft. No smooth painterly rendering, no grain or microtexture. Full creature including every extremity fully inside canvas with 12% transparent margin, no ground or background, no lettering, no frame. Three-quarter side view facing left, light from upper left. This is a boss sprite, not a poster. Transparent background, no ambient haze outside the silhouette.\nSubject: Escalation tier 5. A cosmic leviathan knight, anatomically impossible: enormous crescent-shaped armored jaw opening vertically around a trapped tiny pale moon, long serpentine torso loop with segmented silver battlements, three sets of huge articulated claw arms, floating broken crown above the moon, tail ending in a dark-blue knight helmet. Keep dominant maw readable, negative space around the moon, violet energy confined to cracks. More absurd and massive than any ordinary dungeon boss. Whole coiled creature visible."
+    },
+    {
+      "id": "world-boss-09-azhor",
+      "title": "AZHOR · A Cidade que Devora Deuses",
+      "width": 384,
+      "height": 288,
+      "category": "world-boss",
+      "prompt": "Use case: stylized-concept. Asset: single polished pixel art fantasy boss for Agents Bar, following the supplied compact silver-blue knight and plated boss STYLE REFERENCES only. Original imaginative creature design. Genuine chunky pixel clusters and sharp stepped contours, restrained 32-color-looking ramps, clear strong silhouette readable at 192px tall. Medieval silver-blue armor with gold/copper accents, high craft. No smooth painterly rendering, no grain or microtexture. Full creature including every extremity fully inside canvas with 12% transparent margin, no ground or background, no lettering, no frame. Three-quarter side view facing left, light from upper left. This is a boss sprite, not a poster. Transparent background, no ambient haze outside the silhouette.\nSubject: World boss ultimate escalation. A vast ancient cosmic tortoise/leviathan carrying an ENTIRE ruined medieval city grown into its armored back, cathedral towers and bridges emerging from blue-silver shell, gigantic frontal circular toothed portal maw with miniature eclipsed sun at its center, six colossal pillar legs, branching antler crown supporting a fractured orbital gold ring, huge segmented tail curling behind the city. Architecture and creature fused into one coherent impossible organism. Tiny towers clearly establish huge scale; no other separate characters. Extremely bizarre yet memorable silhouette, asymmetric skyline, midnight blue silver antique gold with controlled magenta and cyan cracks. Landscape composition 4:3, entire world creature contained."
+    }
+  ]
+}

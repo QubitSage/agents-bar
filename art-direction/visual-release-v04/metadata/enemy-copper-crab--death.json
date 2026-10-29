@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-copper-crab",
+  "aseprite": "aseprite/enemy-copper-crab--death.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-copper-crab--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-copper-crab--death.png",
+  "source": "sources/enemy-copper-crab--motion.png",
+  "state": "death",
+  "title": "Caranguejo de cobre",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      44,
+      110,
+      155,
+      181
+    ],
+    [
+      42,
+      116,
+      154,
+      181
+    ],
+    [
+      37,
+      136,
+      155,
+      181
+    ],
+    [
+      38,
+      145,
+      152,
+      181
+    ]
+  ],
+  "sha256": "7b0bc4338dea408e79f86b69e3fbcadeebe22a1061a38169d224273c7af6c934",
+  "gif": "previews/enemy-copper-crab--death.gif"
+}

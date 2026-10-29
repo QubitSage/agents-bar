@@ -1,0 +1,73 @@
+{
+  "actor": "scene-garden-1",
+  "aseprite": "aseprite/scene-garden-1.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-garden-1",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-wild--foliage",
+      110,
+      88,
+      42,
+      35
+    ],
+    [
+      "environment-wild--fireflies",
+      170,
+      14,
+      140,
+      90
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-garden-1.png",
+  "state": "ambient",
+  "title": "Sementes de luz",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "0ca1b206ae53a06744da18938e29522e09a2f1a126d55ce52f97f68c43375afb",
+  "events": [],
+  "gif": "previews/scene-garden-1.gif"
+}

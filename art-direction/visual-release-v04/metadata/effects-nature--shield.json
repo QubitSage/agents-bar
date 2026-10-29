@@ -1,0 +1,57 @@
+{
+  "actor": "effects-nature",
+  "aseprite": "aseprite/effects-nature--shield.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-nature--shield",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-nature--shield.png",
+  "source": "sources/effects--nature.png",
+  "state": "shield",
+  "title": "Combate · natureza",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      41,
+      32,
+      64,
+      60
+    ],
+    [
+      22,
+      21,
+      74,
+      73
+    ],
+    [
+      16,
+      20,
+      79,
+      72
+    ],
+    [
+      20,
+      22,
+      80,
+      72
+    ]
+  ],
+  "sha256": "f93efd4347b97932449aafaa0fee24cc72153bb6a76bb11fb341b6281ecca337",
+  "gif": "previews/effects-nature--shield.gif"
+}

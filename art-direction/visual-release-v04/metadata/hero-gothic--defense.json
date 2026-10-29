@@ -1,0 +1,66 @@
+{
+  "actor": "hero-gothic",
+  "aseprite": "aseprite/hero-gothic--defense.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-gothic--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-gothic--defense.png",
+  "source": "sources/hero-gothic--combat.png",
+  "state": "defense",
+  "title": "Cavaleiro sombrio",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      63,
+      84,
+      140,
+      181
+    ],
+    [
+      58,
+      94,
+      138,
+      181
+    ],
+    [
+      47,
+      99,
+      147,
+      181
+    ],
+    [
+      51,
+      84,
+      127,
+      181
+    ]
+  ],
+  "sha256": "abd294c10288a07967f647b0f19d1a57fe05eb869d9d1f022fb0cfc17d1d4ccb",
+  "gif": "previews/hero-gothic--defense.gif"
+}

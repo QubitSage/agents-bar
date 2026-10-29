@@ -1,0 +1,66 @@
+{
+  "actor": "boss-sylvan-heart",
+  "aseprite": "aseprite/boss-sylvan-heart--defense.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-sylvan-heart--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-sylvan-heart--defense.png",
+  "source": "sources/boss-sylvan-heart--combat.png",
+  "state": "defense",
+  "title": "Coração Silvestre",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      69,
+      104,
+      231,
+      271
+    ],
+    [
+      54,
+      128,
+      231,
+      271
+    ],
+    [
+      53,
+      110,
+      235,
+      271
+    ],
+    [
+      71,
+      100,
+      234,
+      271
+    ]
+  ],
+  "sha256": "484b889c365f7d9c2d201e0d15af074fb6da29db22af0bfe9f5c9b0479150bba",
+  "gif": "previews/boss-sylvan-heart--defense.gif"
+}

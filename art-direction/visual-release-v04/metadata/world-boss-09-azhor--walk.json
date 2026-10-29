@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--walk.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 152,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--walk.png",
+  "source": "sources/azhor--motion.png",
+  "state": "walk",
+  "title": "AZHOR",
+  "width": 304,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      41,
+      102,
+      274,
+      271
+    ],
+    [
+      40,
+      100,
+      269,
+      271
+    ],
+    [
+      38,
+      102,
+      269,
+      271
+    ],
+    [
+      35,
+      104,
+      266,
+      271
+    ]
+  ],
+  "sha256": "7066f410b4d83644ac6f444dab4341dd0069f81b4566b037c2c0dcf125dc6238",
+  "gif": "previews/world-boss-09-azhor--walk.gif"
+}

@@ -1,0 +1,73 @@
+{
+  "actor": "scene-storm-1",
+  "aseprite": "aseprite/scene-storm-1.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-storm-1",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-wild--storm",
+      245,
+      0,
+      100,
+      92
+    ],
+    [
+      "environment-forge--beacon",
+      387,
+      28,
+      32,
+      48
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-storm-1.png",
+  "state": "ambient",
+  "title": "Entre relâmpagos",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "5af285e7af0e174dd9de674559e1151068a8a98383c1cbafd2eecd38cd61301f",
+  "events": [],
+  "gif": "previews/scene-storm-1.gif"
+}

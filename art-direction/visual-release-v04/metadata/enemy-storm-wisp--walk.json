@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-wisp",
+  "aseprite": "aseprite/enemy-storm-wisp--walk.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-wisp--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-wisp--walk.png",
+  "source": "sources/enemy-storm-wisp--motion.png",
+  "state": "walk",
+  "title": "Centelha",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      65,
+      100,
+      158,
+      181
+    ],
+    [
+      61,
+      102,
+      148,
+      181
+    ],
+    [
+      46,
+      101,
+      136,
+      181
+    ],
+    [
+      34,
+      102,
+      126,
+      181
+    ]
+  ],
+  "sha256": "159a2b5aa196ef72df019bf10a1066ea70ac207b464003d2cfa59037c8f78ce8",
+  "gif": "previews/enemy-storm-wisp--walk.gif"
+}

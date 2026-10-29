@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-storm-sentinel",
+  "aseprite": "aseprite/enemy-storm-sentinel--attack.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-sentinel--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 128,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-sentinel--attack.png",
+  "source": "sources/enemy-storm-sentinel--combat.png",
+  "state": "attack",
+  "title": "Sentinela da tempestade",
+  "width": 256,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      73,
+      54,
+      191,
+      181
+    ],
+    [
+      50,
+      77,
+      189,
+      181
+    ],
+    [
+      63,
+      93,
+      196,
+      181
+    ],
+    [
+      31,
+      85,
+      215,
+      181
+    ]
+  ],
+  "sha256": "49a94d5dc270875d363c5a8f6b02afafa4f9bdcefeba963ddaac9f941062b860",
+  "gif": "previews/enemy-storm-sentinel--attack.gif"
+}

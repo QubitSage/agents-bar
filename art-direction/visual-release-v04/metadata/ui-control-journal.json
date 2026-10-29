@@ -1,0 +1,67 @@
+{
+  "actor": "ui-control-journal",
+  "aseprite": "aseprite/ui-control-journal.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 40,
+  "id": "ui-control-journal",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": false,
+  "preview": "static/ui-control-journal.png",
+  "rows": 1,
+  "sheet": "sheets/ui-control-journal.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Diário",
+  "width": 40,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ]
+  ],
+  "sha256": "771ecd7985159421b07db6e19473106090b1fd6e34775c00e3de03fd817cfba5",
+  "events": []
+}

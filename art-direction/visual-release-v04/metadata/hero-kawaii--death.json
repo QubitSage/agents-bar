@@ -1,0 +1,62 @@
+{
+  "actor": "hero-kawaii",
+  "aseprite": "aseprite/hero-kawaii--death.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-kawaii--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-kawaii--death.png",
+  "source": "sources/hero-kawaii--motion.png",
+  "state": "death",
+  "title": "Cavaleiro estelar",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      60,
+      97,
+      155,
+      181
+    ],
+    [
+      57,
+      112,
+      145,
+      181
+    ],
+    [
+      41,
+      139,
+      150,
+      181
+    ],
+    [
+      42,
+      149,
+      144,
+      181
+    ]
+  ],
+  "sha256": "f4c67ca8272f515aa6a510b28c2d9a9b72f45332a72863fa7c074e19e4392dce",
+  "gif": "previews/hero-kawaii--death.gif"
+}

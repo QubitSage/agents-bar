@@ -1,0 +1,57 @@
+{
+  "actor": "hero-gothic",
+  "aseprite": "aseprite/hero-gothic--victory.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-gothic--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-gothic--victory.png",
+  "source": "sources/hero-gothic--combat.png",
+  "state": "victory",
+  "title": "Cavaleiro sombrio",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      109,
+      147,
+      181
+    ],
+    [
+      55,
+      67,
+      143,
+      181
+    ],
+    [
+      58,
+      59,
+      145,
+      181
+    ],
+    [
+      59,
+      85,
+      136,
+      181
+    ]
+  ],
+  "sha256": "7f39035fa1873388a6635eb5a9e1959c965d6d3db95c8102dd63e6bc85ef1510",
+  "gif": "previews/hero-gothic--victory.gif"
+}

@@ -1,0 +1,66 @@
+{
+  "actor": "hero-kawaii",
+  "aseprite": "aseprite/hero-kawaii--defense.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-kawaii--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-kawaii--defense.png",
+  "source": "sources/hero-kawaii--combat.png",
+  "state": "defense",
+  "title": "Cavaleiro estelar",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      57,
+      91,
+      132,
+      181
+    ],
+    [
+      59,
+      94,
+      134,
+      181
+    ],
+    [
+      50,
+      91,
+      146,
+      181
+    ],
+    [
+      62,
+      89,
+      134,
+      181
+    ]
+  ],
+  "sha256": "c29fc1da0420a8dba88b2b7d303fa28ba961db54646e0fd8971f4c5e102103a3",
+  "gif": "previews/hero-kawaii--defense.gif"
+}

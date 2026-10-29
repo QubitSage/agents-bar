@@ -1,0 +1,57 @@
+{
+  "actor": "boss-07-bell-seraph",
+  "aseprite": "aseprite/boss-07-bell-seraph--hurt.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-07-bell-seraph--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-07-bell-seraph--hurt.png",
+  "source": "sources/boss-07-bell-seraph--motion.png",
+  "state": "hurt",
+  "title": "Serafim do Último Sino",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      55,
+      104,
+      236,
+      271
+    ],
+    [
+      64,
+      126,
+      230,
+      271
+    ],
+    [
+      53,
+      114,
+      229,
+      271
+    ],
+    [
+      55,
+      111,
+      232,
+      271
+    ]
+  ],
+  "sha256": "b6d87c1476bc2702faa7f107bf8d046a3e737c45c540be2667842689fff05ffe",
+  "gif": "previews/boss-07-bell-seraph--hurt.gif"
+}

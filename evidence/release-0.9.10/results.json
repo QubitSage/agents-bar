@@ -1,0 +1,19 @@
+{
+  "version": "0.9.10",
+  "pythonTests": 71,
+  "backendTests": 12,
+  "godotLogicChecks": 3936,
+  "isolatedHudChecksPerRun": 48,
+  "hudModes": [
+    "disconnected",
+    "demo",
+    "azhor"
+  ],
+  "sourceAndPackagePassed": true,
+  "installerPayloadVerified": true,
+  "manifestFilesVerified": 366,
+  "visibleWindowOpened": false,
+  "realSessionsUsed": false,
+  "personalSaveUsed": false,
+  "visualAcceptance": "pending user test"
+}

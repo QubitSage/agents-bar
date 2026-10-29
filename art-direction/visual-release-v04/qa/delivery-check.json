@@ -1,0 +1,263 @@
+{
+  "nativeComparisons": 51,
+  "allNativePixelsMatch": true,
+  "gifFilesChecked": 226,
+  "errors": [],
+  "comparisons": [
+    {
+      "id": "atlas-terrain-01",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "boss-04-furnace-executioner--special",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "boss-04-furnace-executioner--special",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "boss-04-furnace-executioner--special",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "boss-04-furnace-executioner--special",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "effects-steel--slash",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "effects-steel--slash",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "effects-steel--slash",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "effects-steel--slash",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "environment-wild--foliage",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "environment-wild--foliage",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "environment-wild--foliage",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "environment-wild--foliage",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "hero-classic--attack",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "hero-classic--attack",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "hero-classic--attack",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "hero-classic--attack",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "npc-artisan--work",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "npc-artisan--work",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "npc-artisan--work",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "npc-artisan--work",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "scene-garden-1",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "scene-garden-1",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "scene-garden-1",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "scene-garden-1",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "ui-bar-health",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "ui-bar-health",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "ui-bar-health",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "ui-bar-health",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "ui-bar-health",
+      "frame": 5,
+      "equal": true
+    },
+    {
+      "id": "ui-control-close",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "ui-control-close",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "ui-control-close",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "ui-control-close",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "ui-control-close",
+      "frame": 5,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 5,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 6,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 7,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--death",
+      "frame": 8,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 1,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 2,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 3,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 4,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 5,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 6,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 7,
+      "equal": true
+    },
+    {
+      "id": "world-boss-09-azhor--ultimate",
+      "frame": 8,
+      "equal": true
+    }
+  ]
+}

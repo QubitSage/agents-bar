@@ -1,0 +1,62 @@
+{
+  "actor": "boss-05-living-cathedral",
+  "aseprite": "aseprite/boss-05-living-cathedral--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-05-living-cathedral--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-05-living-cathedral--death.png",
+  "source": "sources/boss-05-living-cathedral--motion.png",
+  "state": "death",
+  "title": "Catedral Faminta",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      55,
+      118,
+      247,
+      271
+    ],
+    [
+      55,
+      123,
+      242,
+      271
+    ],
+    [
+      48,
+      189,
+      238,
+      271
+    ],
+    [
+      46,
+      209,
+      238,
+      271
+    ]
+  ],
+  "sha256": "29edd60d529b0694e2ca5439acee02aecb76f2f69f1f3efe14b5abbcc4525e57",
+  "gif": "previews/boss-05-living-cathedral--death.gif"
+}

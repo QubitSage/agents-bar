@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--chew.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    220,
+    180,
+    160,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--chew",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--chew.png",
+  "source": "sources/azhor--ambient.png",
+  "state": "chew",
+  "title": "AZHOR",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      28,
+      98,
+      270,
+      271
+    ],
+    [
+      44,
+      99,
+      265,
+      271
+    ],
+    [
+      44,
+      97,
+      263,
+      271
+    ],
+    [
+      42,
+      97,
+      262,
+      271
+    ]
+  ],
+  "sha256": "a77905fd4d2b53015c8fb067591bd134ea93a2081b2c820ca4a05b0715ef330a",
+  "gif": "previews/world-boss-09-azhor--chew.gif"
+}

@@ -1,0 +1,62 @@
+{
+  "actor": "boss-sylvan-heart",
+  "aseprite": "aseprite/boss-sylvan-heart--attack.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-sylvan-heart--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-sylvan-heart--attack.png",
+  "source": "sources/boss-sylvan-heart--combat.png",
+  "state": "attack",
+  "title": "Coração Silvestre",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      76,
+      226,
+      271
+    ],
+    [
+      56,
+      89,
+      248,
+      271
+    ],
+    [
+      31,
+      126,
+      257,
+      271
+    ],
+    [
+      49,
+      111,
+      237,
+      271
+    ]
+  ],
+  "sha256": "fbc1e448be25808ec2dae80e2dfe7f72e04b9d8afd6205ff36c27721e0146797",
+  "gif": "previews/boss-sylvan-heart--attack.gif"
+}

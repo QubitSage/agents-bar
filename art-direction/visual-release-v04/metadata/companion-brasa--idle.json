@@ -1,0 +1,57 @@
+{
+  "actor": "companion-brasa",
+  "aseprite": "aseprite/companion-brasa--idle.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-brasa--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-brasa--idle.png",
+  "source": "sources/companion-brasa--motion.png",
+  "state": "idle",
+  "title": "Brasa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      50,
+      85,
+      152,
+      181
+    ],
+    [
+      50,
+      84,
+      153,
+      181
+    ],
+    [
+      52,
+      85,
+      148,
+      181
+    ],
+    [
+      51,
+      84,
+      148,
+      181
+    ]
+  ],
+  "sha256": "77ff41dd9af54f3965f3eb1e27979a5b914088c20eb30353d5f5f8407a4cc9d1",
+  "gif": "previews/companion-brasa--idle.gif"
+}

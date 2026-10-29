@@ -1,0 +1,73 @@
+{
+  "actor": "scene-scrap-3",
+  "aseprite": "aseprite/scene-scrap-3.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-scrap-3",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-forge--smoke",
+      342,
+      18,
+      30,
+      52
+    ],
+    [
+      "environment-forge--beacon",
+      25,
+      52,
+      22,
+      40
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-scrap-3.png",
+  "state": "ambient",
+  "title": "A última doca",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "14a245a586bbd2cf661262002b6b2047e7e7572675039be6a6a1f7f716f1324f",
+  "events": [],
+  "gif": "previews/scene-scrap-3.gif"
+}

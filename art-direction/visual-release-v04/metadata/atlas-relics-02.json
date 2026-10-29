@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-02",
+  "actor": "atlas-relics-02",
+  "title": "Placa de proteção",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-02.png",
+  "aseprite": "aseprite/atlas-relics-02.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      9,
+      44,
+      44
+    ]
+  ],
+  "sha256": "f17201912da6c8e2214500b642352c021cf063bfb4b37423cc4a32a03b3a38c8",
+  "events": []
+}

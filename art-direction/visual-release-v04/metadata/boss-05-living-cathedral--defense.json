@@ -1,0 +1,66 @@
+{
+  "actor": "boss-05-living-cathedral",
+  "aseprite": "aseprite/boss-05-living-cathedral--defense.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-05-living-cathedral--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-05-living-cathedral--defense.png",
+  "source": "sources/boss-05-living-cathedral--combat.png",
+  "state": "defense",
+  "title": "Catedral Faminta",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      50,
+      109,
+      246,
+      271
+    ],
+    [
+      57,
+      127,
+      243,
+      271
+    ],
+    [
+      51,
+      123,
+      245,
+      271
+    ],
+    [
+      53,
+      109,
+      238,
+      271
+    ]
+  ],
+  "sha256": "ee9015ca02785dae71fb0b786756fa007f71717bffc9eaabdd850168bde8bcef",
+  "gif": "previews/boss-05-living-cathedral--defense.gif"
+}

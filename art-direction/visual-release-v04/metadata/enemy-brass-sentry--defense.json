@@ -1,0 +1,66 @@
+{
+  "actor": "enemy-brass-sentry",
+  "aseprite": "aseprite/enemy-brass-sentry--defense.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-brass-sentry--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-brass-sentry--defense.png",
+  "source": "sources/enemy-brass-sentry--combat.png",
+  "state": "defense",
+  "title": "Vigia de latão",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      48,
+      82,
+      152,
+      181
+    ],
+    [
+      59,
+      96,
+      145,
+      181
+    ],
+    [
+      54,
+      82,
+      145,
+      181
+    ],
+    [
+      48,
+      82,
+      150,
+      181
+    ]
+  ],
+  "sha256": "a2662f055f70c09c629d13a6bbd1c3976f5f10e719355d0e896048ff93c8d21d",
+  "gif": "previews/enemy-brass-sentry--defense.gif"
+}

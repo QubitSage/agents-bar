@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-04",
+  "actor": "atlas-props-04",
+  "title": "Estandarte",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-04.png",
+  "aseprite": "aseprite/atlas-props-04.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      14,
+      4,
+      50,
+      60
+    ]
+  ],
+  "sha256": "216dfdcb0e5465b542cf50067f966aedec04bfe734009e200a59fcf38e4955ac",
+  "events": []
+}

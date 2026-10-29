@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--watch.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    250,
+    300,
+    300,
+    250
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--watch",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--watch.png",
+  "source": "sources/azhor--ambient.png",
+  "state": "watch",
+  "title": "AZHOR",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      46,
+      103,
+      267,
+      271
+    ],
+    [
+      26,
+      108,
+      271,
+      271
+    ],
+    [
+      46,
+      99,
+      260,
+      271
+    ],
+    [
+      44,
+      104,
+      260,
+      271
+    ]
+  ],
+  "sha256": "226f50541fa54e45bee416d8f23af226b3656b89402eee97be434fa53b48966a",
+  "gif": "previews/world-boss-09-azhor--watch.gif"
+}

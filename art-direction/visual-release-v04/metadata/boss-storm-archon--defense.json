@@ -1,0 +1,66 @@
+{
+  "actor": "boss-storm-archon",
+  "aseprite": "aseprite/boss-storm-archon--defense.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-storm-archon--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 160,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-storm-archon--defense.png",
+  "source": "sources/boss-storm-archon--combat.png",
+  "state": "defense",
+  "title": "Arconte da Tempestade",
+  "width": 320,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      83,
+      109,
+      242,
+      271
+    ],
+    [
+      61,
+      139,
+      258,
+      271
+    ],
+    [
+      59,
+      142,
+      265,
+      271
+    ],
+    [
+      106,
+      109,
+      267,
+      271
+    ]
+  ],
+  "sha256": "14ef268153210892e7c9e427ac404e04d0a1f4b9f8f7dd69eeafff33fb4d6a77",
+  "gif": "previews/boss-storm-archon--defense.gif"
+}

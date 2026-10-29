@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--idle.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 152,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--idle.png",
+  "source": "sources/azhor--motion.png",
+  "state": "idle",
+  "title": "AZHOR",
+  "width": 304,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      41,
+      96,
+      272,
+      271
+    ],
+    [
+      46,
+      96,
+      274,
+      271
+    ],
+    [
+      48,
+      95,
+      274,
+      271
+    ],
+    [
+      41,
+      95,
+      270,
+      271
+    ]
+  ],
+  "sha256": "970a96b104a6b73347ed89ac0822408fbf62c82e5d2d5fa04db2093e47b2e173",
+  "gif": "previews/world-boss-09-azhor--idle.gif"
+}

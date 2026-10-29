@@ -1,0 +1,452 @@
+{
+  "status": "static-generation-complete-production-pending",
+  "assets": [
+    {
+      "id": "hero-classic",
+      "title": "Herói · clássico",
+      "category": "heroes",
+      "file": "heroes/hero-classic.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "hero-gothic",
+      "title": "Herói · sombrio",
+      "category": "heroes",
+      "file": "heroes/hero-gothic.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "hero-kawaii",
+      "title": "Herói · kawaii",
+      "category": "heroes",
+      "file": "heroes/hero-kawaii.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "hero-persian",
+      "title": "Herói · aventureiro persa",
+      "category": "heroes",
+      "file": "heroes/hero-persian.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "companion-brasa",
+      "title": "Brasa · guardião",
+      "category": "companions",
+      "file": "companions/companion-brasa.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "companion-luma",
+      "title": "Luma · botânica",
+      "category": "companions",
+      "file": "companions/companion-luma.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "npc-cartographer",
+      "title": "NPC · cartógrafo",
+      "category": "npcs",
+      "file": "npcs/npc-cartographer.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "npc-artisan",
+      "title": "NPC · artesã",
+      "category": "npcs",
+      "file": "npcs/npc-artisan.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "npc-collector",
+      "title": "NPC · colecionadora",
+      "category": "npcs",
+      "file": "npcs/npc-collector.png",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "enemy-brass-sentry",
+      "title": "Vigia de latão",
+      "category": "enemies",
+      "file": "enemies/enemy-brass-sentry.png",
+      "gameId": "scrap-drone",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "enemy-copper-crab",
+      "title": "Caranguejo de cobre",
+      "category": "enemies",
+      "file": "enemies/enemy-copper-crab.png",
+      "gameId": "scrap-crab",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "enemy-sporeling",
+      "title": "Esporídeo",
+      "category": "enemies",
+      "file": "enemies/enemy-sporeling.png",
+      "gameId": "garden-spore",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "enemy-root-warden",
+      "title": "Guardião de raízes",
+      "category": "enemies",
+      "file": "enemies/enemy-root-warden.png",
+      "gameId": "garden-vine",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "enemy-storm-wisp",
+      "title": "Centelha",
+      "category": "enemies",
+      "file": "enemies/enemy-storm-wisp.png",
+      "gameId": "storm-spark",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "enemy-storm-sentinel",
+      "title": "Sentinela da tempestade",
+      "category": "enemies",
+      "file": "enemies/enemy-storm-sentinel.png",
+      "gameId": "storm-warden",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "boss-rebocador",
+      "title": "O Rebocador",
+      "category": "bosses",
+      "file": "bosses/boss-rebocador.png",
+      "gameId": "scrap-boss",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "boss-sylvan-heart",
+      "title": "Coração Silvestre",
+      "category": "bosses",
+      "file": "bosses/boss-sylvan-heart.png",
+      "gameId": "garden-boss",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "boss-storm-archon",
+      "title": "Arconte da Tempestade",
+      "category": "bosses",
+      "file": "bosses/boss-storm-archon-framed.png",
+      "gameId": "storm-boss",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-scrap-1",
+      "title": "Primeiro sinal · entrada da forja",
+      "category": "scenes",
+      "file": "scenes/scene-scrap-1.png",
+      "mission": "scrap-1",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-scrap-2",
+      "title": "Ponte de cobre",
+      "category": "scenes",
+      "file": "scenes/scene-scrap-2.png",
+      "mission": "scrap-2",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-scrap-3",
+      "title": "A última doca · arena",
+      "category": "scenes",
+      "file": "scenes/scene-scrap-3.png",
+      "mission": "scrap-3",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-garden-1",
+      "title": "Sementes de luz",
+      "category": "scenes",
+      "file": "scenes/scene-garden-1.png",
+      "mission": "garden-1",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-garden-2",
+      "title": "Raízes profundas",
+      "category": "scenes",
+      "file": "scenes/scene-garden-2.png",
+      "mission": "garden-2",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-garden-3",
+      "title": "Coração da estufa · arena",
+      "category": "scenes",
+      "file": "scenes/scene-garden-3.png",
+      "mission": "garden-3",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-storm-1",
+      "title": "Entre relâmpagos",
+      "category": "scenes",
+      "file": "scenes/scene-storm-1.png",
+      "mission": "storm-1",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-storm-2",
+      "title": "Farol partido",
+      "category": "scenes",
+      "file": "scenes/scene-storm-2.png",
+      "mission": "storm-2",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "scene-storm-3",
+      "title": "Um novo horizonte · arena",
+      "category": "scenes",
+      "file": "scenes/scene-storm-3.png",
+      "mission": "storm-3",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "station-background",
+      "title": "Estação Zero · base medieval",
+      "category": "station",
+      "file": "station/station-background.png",
+      "mission": null,
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "building-core",
+      "title": "Núcleo · salão da guilda",
+      "category": "buildings",
+      "file": "buildings/building-core.png",
+      "gameId": "core",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "building-workshop",
+      "title": "Oficina · forja",
+      "category": "buildings",
+      "file": "buildings/building-workshop.png",
+      "gameId": "workshop",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "building-greenhouse",
+      "title": "Estufa · jardim medicinal",
+      "category": "buildings",
+      "file": "buildings/building-greenhouse.png",
+      "gameId": "greenhouse",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "building-observatory",
+      "title": "Observatório · torre celeste",
+      "category": "buildings",
+      "file": "buildings/building-observatory.png",
+      "gameId": "observatory",
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "atlas-relics",
+      "title": "Relíquias e recursos",
+      "category": "atlases",
+      "file": "atlases/atlas-relics.png",
+      "items": [
+        "Lente de análise",
+        "Placa de proteção",
+        "Semente vítrea",
+        "Broto ancestral",
+        "Bobina de tempestade",
+        "Farol portátil",
+        "Sucata",
+        "Núcleo",
+        "Sementes"
+      ],
+      "grid": {
+        "columns": 3,
+        "rows": 3
+      },
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "atlas-props",
+      "title": "Objetos de cenário",
+      "category": "atlases",
+      "file": "atlases/atlas-props.png",
+      "items": [
+        "Baú",
+        "Barril",
+        "Caixote",
+        "Estandarte",
+        "Lanterna",
+        "Banco",
+        "Bigorna",
+        "Mapa",
+        "Vaso medicinal",
+        "Cristal",
+        "Coluna quebrada",
+        "Placa de rota"
+      ],
+      "grid": {
+        "columns": 4,
+        "rows": 3
+      },
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "atlas-hud",
+      "title": "Molduras e HUD",
+      "category": "atlases",
+      "file": "atlases/atlas-hud.png",
+      "items": [
+        "Vida",
+        "Escudo",
+        "Experiência",
+        "Vida inimiga",
+        "Painel",
+        "Retrato circular",
+        "Slot",
+        "Tooltip",
+        "Botão normal",
+        "Botão destacado",
+        "Botão pressionado",
+        "Botão desativado"
+      ],
+      "grid": {
+        "columns": 4,
+        "rows": 3
+      },
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "atlas-controls",
+      "title": "Ícones de navegação e estado",
+      "category": "atlases",
+      "file": "atlases/atlas-controls.png",
+      "items": [
+        "Jogar",
+        "Pausar",
+        "Recolher",
+        "Fechar",
+        "Mapa",
+        "Equipe",
+        "Estação",
+        "Diário",
+        "Vitória",
+        "Atenção",
+        "Desconectado",
+        "Som"
+      ],
+      "grid": {
+        "columns": 4,
+        "rows": 3
+      },
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "atlas-effects",
+      "title": "Efeitos de batalha",
+      "category": "atlases",
+      "file": "atlases/atlas-effects.png",
+      "items": [
+        "Corte",
+        "Impacto",
+        "Bloqueio",
+        "Dano",
+        "Cura",
+        "Folha",
+        "Escudo",
+        "Análise",
+        "Raio",
+        "Esporos",
+        "Recompensa",
+        "Derrota"
+      ],
+      "grid": {
+        "columns": 4,
+        "rows": 3
+      },
+      "status": "static-master",
+      "frames": 1
+    },
+    {
+      "id": "atlas-terrain",
+      "title": "Peças de terreno",
+      "category": "atlases",
+      "file": "atlases/atlas-terrain.png",
+      "items": [
+        "Forja · piso",
+        "Forja · borda esquerda",
+        "Forja · borda direita",
+        "Forja · escada",
+        "Forja · pilar",
+        "Forja · ruína",
+        "Jardim · piso",
+        "Jardim · borda esquerda",
+        "Jardim · borda direita",
+        "Jardim · escada",
+        "Jardim · pilar",
+        "Jardim · ruína",
+        "Torres · piso",
+        "Torres · borda esquerda",
+        "Torres · borda direita",
+        "Torres · escada",
+        "Torres · pilar",
+        "Torres · ruína"
+      ],
+      "grid": {
+        "columns": 6,
+        "rows": 3
+      },
+      "status": "static-master",
+      "frames": 1
+    }
+  ],
+  "pending": [
+    "Limpeza e grade",
+    "Paleta",
+    "Recortes de atlas",
+    "Pivôs",
+    "Animações",
+    "Integração Godot",
+    "Aceitação visual"
+  ]
+}

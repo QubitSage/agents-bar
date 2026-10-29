@@ -1,0 +1,62 @@
+{
+  "actor": "boss-05-living-cathedral",
+  "aseprite": "aseprite/boss-05-living-cathedral--attack.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-05-living-cathedral--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-05-living-cathedral--attack.png",
+  "source": "sources/boss-05-living-cathedral--combat.png",
+  "state": "attack",
+  "title": "Catedral Faminta",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      62,
+      113,
+      244,
+      271
+    ],
+    [
+      52,
+      111,
+      250,
+      271
+    ],
+    [
+      50,
+      115,
+      253,
+      271
+    ],
+    [
+      47,
+      111,
+      238,
+      271
+    ]
+  ],
+  "sha256": "d64ab0ceb51b7e152f8db444ae469ed54a9819e7c0e010c5a229bc170a235ee1",
+  "gif": "previews/boss-05-living-cathedral--attack.gif"
+}

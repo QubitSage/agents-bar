@@ -1,0 +1,66 @@
+{
+  "actor": "building-observatory",
+  "aseprite": "aseprite/building-observatory.aseprite",
+  "category": "buildings",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "building-observatory",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-forge--beacon",
+      54,
+      0,
+      48,
+      56
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/building-observatory.png",
+  "state": "ambient",
+  "title": "Observatório",
+  "visualGroundY": 148,
+  "width": 160,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      11,
+      4,
+      148,
+      156
+    ],
+    [
+      11,
+      4,
+      148,
+      156
+    ],
+    [
+      11,
+      4,
+      148,
+      156
+    ],
+    [
+      11,
+      4,
+      148,
+      156
+    ]
+  ],
+  "sha256": "a259d126ec3c5dd6006f834c575e5015d6706254098dd8c62bdfe19a76a1eb2b",
+  "events": [],
+  "gif": "previews/building-observatory.gif"
+}

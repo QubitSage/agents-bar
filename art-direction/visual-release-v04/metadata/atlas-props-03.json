@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-03",
+  "actor": "atlas-props-03",
+  "title": "Caixote",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-03.png",
+  "aseprite": "aseprite/atlas-props-03.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      6,
+      4,
+      58,
+      60
+    ]
+  ],
+  "sha256": "77dacd440a0adc52b6917f91880b1d86d0608c4ab304a2f78b4656ad003a01ef",
+  "events": []
+}

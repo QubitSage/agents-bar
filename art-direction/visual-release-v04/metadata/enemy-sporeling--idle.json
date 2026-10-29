@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-sporeling",
+  "aseprite": "aseprite/enemy-sporeling--idle.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-sporeling--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-sporeling--idle.png",
+  "source": "sources/enemy-sporeling--motion.png",
+  "state": "idle",
+  "title": "Esporídeo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      64,
+      109,
+      134,
+      181
+    ],
+    [
+      63,
+      104,
+      134,
+      181
+    ],
+    [
+      60,
+      111,
+      131,
+      181
+    ],
+    [
+      61,
+      109,
+      131,
+      181
+    ]
+  ],
+  "sha256": "ddec23cb01837542e3f050612b63a37221870eb1d799b6dc8edf85703dcc4260",
+  "gif": "previews/enemy-sporeling--idle.gif"
+}

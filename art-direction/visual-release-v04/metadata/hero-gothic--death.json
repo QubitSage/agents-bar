@@ -1,0 +1,62 @@
+{
+  "actor": "hero-gothic",
+  "aseprite": "aseprite/hero-gothic--death.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-gothic--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-gothic--death.png",
+  "source": "sources/hero-gothic--motion.png",
+  "state": "death",
+  "title": "Cavaleiro sombrio",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      90,
+      140,
+      181
+    ],
+    [
+      60,
+      111,
+      132,
+      181
+    ],
+    [
+      40,
+      143,
+      147,
+      181
+    ],
+    [
+      40,
+      151,
+      144,
+      181
+    ]
+  ],
+  "sha256": "04666020833cea50a54cc765a3d1f718234d289d82580eeee654f27036f25da7",
+  "gif": "previews/hero-gothic--death.gif"
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "boss-rebocador",
+  "aseprite": "aseprite/boss-rebocador--rage.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    180,
+    180,
+    250,
+    250
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 304,
+  "id": "boss-rebocador--rage",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 285
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-rebocador--rage.png",
+  "source": "sources/boss-rebocador--combat.png",
+  "state": "rage",
+  "title": "Rebocador",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      64,
+      177,
+      261,
+      286
+    ],
+    [
+      52,
+      90,
+      242,
+      286
+    ],
+    [
+      63,
+      77,
+      233,
+      286
+    ],
+    [
+      34,
+      137,
+      242,
+      286
+    ]
+  ],
+  "sha256": "6fb0596bac981c97fd63dba40daf8b129fc0c19ad820935b4c6272ffcf936308",
+  "gif": "previews/boss-rebocador--rage.gif"
+}

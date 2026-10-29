@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-copper-crab",
+  "aseprite": "aseprite/enemy-copper-crab--attack.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-copper-crab--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 104,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-copper-crab--attack.png",
+  "source": "sources/enemy-copper-crab--combat.png",
+  "state": "attack",
+  "title": "Caranguejo de cobre",
+  "width": 208,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      47,
+      83,
+      168,
+      181
+    ],
+    [
+      33,
+      109,
+      178,
+      181
+    ],
+    [
+      41,
+      113,
+      173,
+      181
+    ],
+    [
+      46,
+      109,
+      167,
+      181
+    ]
+  ],
+  "sha256": "731025403c4a650f96fe488d58939bf5848e33f5e1e50e4f0c1a8cc75d0f44e5",
+  "gif": "previews/enemy-copper-crab--attack.gif"
+}

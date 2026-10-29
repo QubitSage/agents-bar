@@ -1,0 +1,90 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--attack_04_barrage.aseprite",
+  "category": "world-boss",
+  "columns": 8,
+  "durations": [
+    180,
+    150,
+    130,
+    110,
+    100,
+    140,
+    170,
+    280
+  ],
+  "events": [
+    {
+      "frame": 5,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 8,
+  "height": 288,
+  "id": "world-boss-09-azhor--attack_04_barrage",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--attack_04_barrage.png",
+  "source": "sources/azhor--attack_04_barrage.png",
+  "state": "attack_04_barrage",
+  "title": "AZHOR",
+  "width": 288,
+  "uniqueFrames": 8,
+  "alphaBounds": [
+    [
+      45,
+      96,
+      264,
+      271
+    ],
+    [
+      28,
+      117,
+      273,
+      271
+    ],
+    [
+      35,
+      103,
+      263,
+      271
+    ],
+    [
+      28,
+      117,
+      255,
+      271
+    ],
+    [
+      39,
+      121,
+      273,
+      271
+    ],
+    [
+      44,
+      111,
+      271,
+      271
+    ],
+    [
+      39,
+      112,
+      261,
+      271
+    ],
+    [
+      43,
+      113,
+      254,
+      271
+    ]
+  ],
+  "sha256": "cd2319a749521e71a976022c7c3d124cd2eab62c3e3d3e30e5c4287e2b55e3fb",
+  "gif": "previews/world-boss-09-azhor--attack_04_barrage.gif"
+}

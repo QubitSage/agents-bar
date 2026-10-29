@@ -1,0 +1,30 @@
+{
+  "windows_visual": {
+    "status": "pending",
+    "evidence": ""
+  },
+  "windows_install_upgrade": {
+    "status": "pending",
+    "evidence": ""
+  },
+  "real_providers": {
+    "status": "pending",
+    "evidence": ""
+  },
+  "stripe_test_mode": {
+    "status": "pending",
+    "evidence": ""
+  },
+  "cloud_deployment": {
+    "status": "pending",
+    "evidence": ""
+  },
+  "publisher_signing": {
+    "status": "pending",
+    "evidence": ""
+  },
+  "commercial_content": {
+    "status": "pending",
+    "evidence": ""
+  }
+}

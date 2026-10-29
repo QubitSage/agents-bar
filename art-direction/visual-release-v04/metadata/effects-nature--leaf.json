@@ -1,0 +1,57 @@
+{
+  "actor": "effects-nature",
+  "aseprite": "aseprite/effects-nature--leaf.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-nature--leaf",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-nature--leaf.png",
+  "source": "sources/effects--nature.png",
+  "state": "leaf",
+  "title": "Combate · natureza",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      25,
+      33,
+      76,
+      78
+    ],
+    [
+      12,
+      25,
+      87,
+      74
+    ],
+    [
+      15,
+      23,
+      82,
+      76
+    ],
+    [
+      20,
+      24,
+      81,
+      75
+    ]
+  ],
+  "sha256": "38721d6be59584e58be734e22bfae57796b7933a9f2715c639e265b6faefa711",
+  "gif": "previews/effects-nature--leaf.gif"
+}

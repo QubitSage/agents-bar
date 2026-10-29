@@ -1,0 +1,66 @@
+{
+  "actor": "enemy-storm-wisp",
+  "aseprite": "aseprite/enemy-storm-wisp--defense.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-wisp--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-wisp--defense.png",
+  "source": "sources/enemy-storm-wisp--combat.png",
+  "state": "defense",
+  "title": "Centelha",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      50,
+      101,
+      145,
+      181
+    ],
+    [
+      59,
+      104,
+      119,
+      181
+    ],
+    [
+      47,
+      104,
+      144,
+      181
+    ],
+    [
+      53,
+      104,
+      141,
+      181
+    ]
+  ],
+  "sha256": "15aa4e1b89392b77448b54865d9c36aa514862651748ded2879e9e477c7a5ade",
+  "gif": "previews/enemy-storm-wisp--defense.gif"
+}

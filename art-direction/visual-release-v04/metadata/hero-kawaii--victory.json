@@ -1,0 +1,57 @@
+{
+  "actor": "hero-kawaii",
+  "aseprite": "aseprite/hero-kawaii--victory.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-kawaii--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-kawaii--victory.png",
+  "source": "sources/hero-kawaii--combat.png",
+  "state": "victory",
+  "title": "Cavaleiro estelar",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      108,
+      133,
+      181
+    ],
+    [
+      53,
+      89,
+      137,
+      181
+    ],
+    [
+      52,
+      72,
+      146,
+      181
+    ],
+    [
+      64,
+      90,
+      136,
+      181
+    ]
+  ],
+  "sha256": "780acd5b2a40d8217087bc106d8f3d9bef073da5ec36fb2a3d807d0e9dc6f6db",
+  "gif": "previews/hero-kawaii--victory.gif"
+}

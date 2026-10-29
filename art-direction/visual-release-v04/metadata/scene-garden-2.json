@@ -1,0 +1,73 @@
+{
+  "actor": "scene-garden-2",
+  "aseprite": "aseprite/scene-garden-2.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-garden-2",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-wild--foliage",
+      110,
+      88,
+      42,
+      35
+    ],
+    [
+      "environment-wild--fireflies",
+      170,
+      14,
+      140,
+      90
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-garden-2.png",
+  "state": "ambient",
+  "title": "Raízes profundas",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "b207d42f7a834d7e3ad9a3e8e1776c00d9ee33a513bf026cff4de96d306ab204",
+  "events": [],
+  "gif": "previews/scene-garden-2.gif"
+}

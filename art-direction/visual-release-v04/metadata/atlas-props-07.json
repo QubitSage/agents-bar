@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-07",
+  "actor": "atlas-props-07",
+  "title": "Bigorna",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-07.png",
+  "aseprite": "aseprite/atlas-props-07.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      5,
+      60,
+      60
+    ]
+  ],
+  "sha256": "91a6f82c469369beae5181c54fa5ebba91a55094c971776186e7e06349696593",
+  "events": []
+}

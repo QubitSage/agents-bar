@@ -1,0 +1,57 @@
+{
+  "actor": "effects-arcane",
+  "aseprite": "aseprite/effects-arcane--defeat.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-arcane--defeat",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-arcane--defeat.png",
+  "source": "sources/effects--arcane.png",
+  "state": "defeat",
+  "title": "Combate · arcano",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      37,
+      30,
+      61,
+      54
+    ],
+    [
+      13,
+      13,
+      79,
+      75
+    ],
+    [
+      10,
+      14,
+      82,
+      78
+    ],
+    [
+      23,
+      20,
+      72,
+      71
+    ]
+  ],
+  "sha256": "f8443c23f2149be0bca3d16c94dea64d387829c0fcc2994451cb98191980fdc0",
+  "gif": "previews/effects-arcane--defeat.gif"
+}

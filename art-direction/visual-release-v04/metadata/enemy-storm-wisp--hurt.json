@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-wisp",
+  "aseprite": "aseprite/enemy-storm-wisp--hurt.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-wisp--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-wisp--hurt.png",
+  "source": "sources/enemy-storm-wisp--motion.png",
+  "state": "hurt",
+  "title": "Centelha",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      68,
+      105,
+      156,
+      181
+    ],
+    [
+      70,
+      111,
+      141,
+      181
+    ],
+    [
+      48,
+      105,
+      137,
+      181
+    ],
+    [
+      38,
+      104,
+      129,
+      181
+    ]
+  ],
+  "sha256": "edafa1ed163932c5bc7e7c852223885cca89b146961c6b36ee847f5c40be076d",
+  "gif": "previews/enemy-storm-wisp--hurt.gif"
+}

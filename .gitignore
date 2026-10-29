@@ -1,0 +1,16 @@
+tools/godot/
+tools/*.zip
+schemas/
+runtime/
+game/.godot/
+*.tmp
+__pycache__/
+release/
+tests/scratch/*
+!tests/scratch/.gitkeep
+
+handoff/
+art-direction/*.zip
+integrations/
+*.bak
+site-build/

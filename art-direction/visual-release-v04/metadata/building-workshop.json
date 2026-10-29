@@ -1,0 +1,73 @@
+{
+  "actor": "building-workshop",
+  "aseprite": "aseprite/building-workshop.aseprite",
+  "category": "buildings",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "building-workshop",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-forge--smoke",
+      92,
+      5,
+      24,
+      48
+    ],
+    [
+      "environment-forge--flame",
+      65,
+      103,
+      20,
+      28
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/building-workshop.png",
+  "state": "ambient",
+  "title": "Forja",
+  "visualGroundY": 148,
+  "width": 160,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      4,
+      7,
+      156,
+      156
+    ],
+    [
+      4,
+      7,
+      156,
+      156
+    ],
+    [
+      4,
+      7,
+      156,
+      156
+    ],
+    [
+      4,
+      7,
+      156,
+      156
+    ]
+  ],
+  "sha256": "780ac196d7e261941dd7e1c59d658a40f343480ec727e22c2079a747dae827a7",
+  "events": [],
+  "gif": "previews/building-workshop.gif"
+}

@@ -1,0 +1,67 @@
+{
+  "actor": "ui-control-close",
+  "aseprite": "aseprite/ui-control-close.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 40,
+  "id": "ui-control-close",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": false,
+  "preview": "static/ui-control-close.png",
+  "rows": 1,
+  "sheet": "sheets/ui-control-close.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Fechar",
+  "width": 40,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ]
+  ],
+  "sha256": "94e52ebe6babfb1b333f05c777a94b6f2779f4823e6296be3ff0fe1ccad77739",
+  "events": []
+}

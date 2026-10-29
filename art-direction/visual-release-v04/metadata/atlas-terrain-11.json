@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-11",
+  "actor": "atlas-terrain-11",
+  "title": "Jardim · Pilar",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-11.png",
+  "aseprite": "aseprite/atlas-terrain-11.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      29,
+      4,
+      66,
+      60
+    ]
+  ],
+  "sha256": "b673f986db6b275224ddd7989e8fa41397973db8c68922b5a6889c507ce3756d",
+  "events": []
+}

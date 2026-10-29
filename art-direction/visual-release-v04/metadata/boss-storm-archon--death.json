@@ -1,0 +1,62 @@
+{
+  "actor": "boss-storm-archon",
+  "aseprite": "aseprite/boss-storm-archon--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-storm-archon--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-storm-archon--death.png",
+  "source": "sources/boss-storm-archon--motion.png",
+  "state": "death",
+  "title": "Arconte da Tempestade",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      125,
+      238,
+      271
+    ],
+    [
+      91,
+      121,
+      237,
+      271
+    ],
+    [
+      60,
+      205,
+      238,
+      271
+    ],
+    [
+      57,
+      216,
+      232,
+      271
+    ]
+  ],
+  "sha256": "c1a05b3e5db9cbdf4d7915bd89b958adb05cfce8dc51970afdfa81ed586dce1c",
+  "gif": "previews/boss-storm-archon--death.gif"
+}

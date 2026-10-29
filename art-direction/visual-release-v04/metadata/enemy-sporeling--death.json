@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-sporeling",
+  "aseprite": "aseprite/enemy-sporeling--death.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-sporeling--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-sporeling--death.png",
+  "source": "sources/enemy-sporeling--motion.png",
+  "state": "death",
+  "title": "Esporídeo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      63,
+      107,
+      135,
+      181
+    ],
+    [
+      56,
+      120,
+      128,
+      181
+    ],
+    [
+      51,
+      133,
+      136,
+      181
+    ],
+    [
+      47,
+      146,
+      135,
+      181
+    ]
+  ],
+  "sha256": "6c0dcf8ddbb765dcc8cc646b164c44740bb1bffcaeff428403670c72c8ca16ef",
+  "gif": "previews/enemy-sporeling--death.gif"
+}

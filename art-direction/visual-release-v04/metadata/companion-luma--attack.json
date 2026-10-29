@@ -1,0 +1,62 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--attack.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 128,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--attack.png",
+  "source": "sources/companion-luma--combat.png",
+  "state": "attack",
+  "title": "Luma",
+  "width": 256,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      82,
+      91,
+      178,
+      181
+    ],
+    [
+      84,
+      47,
+      183,
+      181
+    ],
+    [
+      70,
+      35,
+      173,
+      181
+    ],
+    [
+      97,
+      85,
+      172,
+      181
+    ]
+  ],
+  "sha256": "ce632c6ef617982415c19981ae0d8be71e451fa609c08fd14c18fab25a85f435",
+  "gif": "previews/companion-luma--attack.gif"
+}

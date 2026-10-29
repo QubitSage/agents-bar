@@ -1,0 +1,57 @@
+{
+  "actor": "boss-rebocador",
+  "aseprite": "aseprite/boss-rebocador--walk.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-rebocador--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-rebocador--walk.png",
+  "source": "sources/boss-rebocador--motion.png",
+  "state": "walk",
+  "title": "Rebocador",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      58,
+      108,
+      248,
+      271
+    ],
+    [
+      61,
+      104,
+      232,
+      271
+    ],
+    [
+      49,
+      109,
+      239,
+      271
+    ],
+    [
+      63,
+      107,
+      233,
+      271
+    ]
+  ],
+  "sha256": "60c0fbc4b859f1e249f8b7d01bc2af5701c7c2a843bf199da1aa8f8d69d632a9",
+  "gif": "previews/boss-rebocador--walk.gif"
+}

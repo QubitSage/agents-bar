@@ -1,0 +1,3274 @@
+{
+  "version": "v03",
+  "tool": "Aseprite 1.3.18.6",
+  "paletteColors": 64,
+  "assets": [
+    {
+      "id": "atlas-controls",
+      "title": "Ícones de navegação e estado",
+      "category": "atlases",
+      "width": 384,
+      "height": 288,
+      "frames": 1,
+      "aseprite": "aseprite/atlases/atlas-controls.aseprite",
+      "png": "png/atlases/atlas-controls.png",
+      "sheet": "sheets/atlases/atlas-controls.png",
+      "metadata": "metadata/atlases/atlas-controls.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 192,
+        "y": 144
+      },
+      "usedColors": 42,
+      "alphaBounds": [
+        36,
+        36,
+        347,
+        252
+      ],
+      "sha256": "1cffff35c4cc629dd2272408dbf3bdb876e9bf4381ace8648d212b92656fe550",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects",
+      "title": "Efeitos de batalha",
+      "category": "atlases",
+      "width": 384,
+      "height": 288,
+      "frames": 1,
+      "aseprite": "aseprite/atlases/atlas-effects.aseprite",
+      "png": "png/atlases/atlas-effects.png",
+      "sheet": "sheets/atlases/atlas-effects.png",
+      "metadata": "metadata/atlases/atlas-effects.json",
+      "origin": "atlas-effects",
+      "kind": "static",
+      "pivot": {
+        "x": 192,
+        "y": 144
+      },
+      "usedColors": 42,
+      "alphaBounds": [
+        21,
+        20,
+        364,
+        268
+      ],
+      "sha256": "3a44f99a293323c358e81b747ddc7b2b26b6e63fa4b54239d5f69d16d6cd443f",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud",
+      "title": "Molduras e HUD",
+      "category": "atlases",
+      "width": 544,
+      "height": 312,
+      "frames": 1,
+      "aseprite": "aseprite/atlases/atlas-hud.aseprite",
+      "png": "png/atlases/atlas-hud.png",
+      "sheet": "sheets/atlases/atlas-hud.png",
+      "metadata": "metadata/atlases/atlas-hud.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 272,
+        "y": 156
+      },
+      "usedColors": 52,
+      "alphaBounds": [
+        24,
+        40,
+        520,
+        276
+      ],
+      "sha256": "246269bd9873676edfc54cbce5f197b8ee2c951a8db40243fcf7a3077c153169",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props",
+      "title": "Objetos de cenário",
+      "category": "atlases",
+      "width": 384,
+      "height": 288,
+      "frames": 1,
+      "aseprite": "aseprite/atlases/atlas-props.aseprite",
+      "png": "png/atlases/atlas-props.png",
+      "sheet": "sheets/atlases/atlas-props.png",
+      "metadata": "metadata/atlases/atlas-props.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 192,
+        "y": 144
+      },
+      "usedColors": 60,
+      "alphaBounds": [
+        20,
+        20,
+        364,
+        268
+      ],
+      "sha256": "b036effa2f645ce926785f16e586930e2ae4c051861f2edea7d61136888fd3a1",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics",
+      "title": "Relíquias e recursos",
+      "category": "atlases",
+      "width": 288,
+      "height": 288,
+      "frames": 1,
+      "aseprite": "aseprite/atlases/atlas-relics.aseprite",
+      "png": "png/atlases/atlas-relics.png",
+      "sheet": "sheets/atlases/atlas-relics.png",
+      "metadata": "metadata/atlases/atlas-relics.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 144,
+        "y": 144
+      },
+      "usedColors": 56,
+      "alphaBounds": [
+        28,
+        28,
+        260,
+        260
+      ],
+      "sha256": "ce53ffc2181da2b1200819be5c618167a4db5fe11efc6730223af91ffdf28e57",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain",
+      "title": "Peças de terreno",
+      "category": "atlases",
+      "width": 624,
+      "height": 288,
+      "frames": 1,
+      "aseprite": "aseprite/atlases/atlas-terrain.aseprite",
+      "png": "png/atlases/atlas-terrain.png",
+      "sheet": "sheets/atlases/atlas-terrain.png",
+      "metadata": "metadata/atlases/atlas-terrain.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 312,
+        "y": 144
+      },
+      "usedColors": 62,
+      "alphaBounds": [
+        8,
+        20,
+        616,
+        268
+      ],
+      "sha256": "738adf6140ac64c4bf2992817469068f6bf76e157adfe188e7941b42ca58882d",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-04-furnace-executioner",
+      "title": "O Carrasco das Mil Forjas",
+      "category": "bosses",
+      "width": 192,
+      "height": 192,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-04-furnace-executioner.aseprite",
+      "png": "png/bosses/boss-04-furnace-executioner.png",
+      "sheet": "sheets/bosses/boss-04-furnace-executioner.png",
+      "metadata": "metadata/bosses/boss-04-furnace-executioner.json",
+      "origin": "boss-04-furnace-executioner",
+      "kind": "actor",
+      "pivot": {
+        "x": 96,
+        "y": 180
+      },
+      "usedColors": 51,
+      "alphaBounds": [
+        12,
+        23,
+        180,
+        180
+      ],
+      "distinctFrames": 7,
+      "sha256": "2b7f60d43f2f13d26aba423ed5ca3072d449e25999a1944942d90c80479b1df0",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-05-living-cathedral",
+      "title": "A Catedral Faminta",
+      "category": "bosses",
+      "width": 224,
+      "height": 224,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-05-living-cathedral.aseprite",
+      "png": "png/bosses/boss-05-living-cathedral.png",
+      "sheet": "sheets/bosses/boss-05-living-cathedral.png",
+      "metadata": "metadata/bosses/boss-05-living-cathedral.json",
+      "origin": "boss-05-living-cathedral",
+      "kind": "actor",
+      "pivot": {
+        "x": 112,
+        "y": 212
+      },
+      "usedColors": 49,
+      "alphaBounds": [
+        12,
+        21,
+        212,
+        212
+      ],
+      "distinctFrames": 7,
+      "sha256": "206b117cb1f3446803c32c157aad2bc96707f477f95d75b0d7fc09a9cba07c22",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-06-stained-glass-hydra",
+      "title": "A Hidra dos Juramentos",
+      "category": "bosses",
+      "width": 256,
+      "height": 224,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-06-stained-glass-hydra.aseprite",
+      "png": "png/bosses/boss-06-stained-glass-hydra.png",
+      "sheet": "sheets/bosses/boss-06-stained-glass-hydra.png",
+      "metadata": "metadata/bosses/boss-06-stained-glass-hydra.json",
+      "origin": "boss-06-stained-glass-hydra",
+      "kind": "actor",
+      "pivot": {
+        "x": 128,
+        "y": 212
+      },
+      "usedColors": 61,
+      "alphaBounds": [
+        29,
+        12,
+        227,
+        212
+      ],
+      "distinctFrames": 7,
+      "sha256": "809a244bdc959f40b35b00eae3a66cb8311e7a359ac73e2d51eaf8abeb022c56",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-07-bell-seraph",
+      "title": "O Serafim do Último Sino",
+      "category": "bosses",
+      "width": 256,
+      "height": 256,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-07-bell-seraph.aseprite",
+      "png": "png/bosses/boss-07-bell-seraph.png",
+      "sheet": "sheets/bosses/boss-07-bell-seraph.png",
+      "metadata": "metadata/bosses/boss-07-bell-seraph.json",
+      "origin": "boss-07-bell-seraph",
+      "kind": "actor",
+      "pivot": {
+        "x": 128,
+        "y": 244
+      },
+      "usedColors": 59,
+      "alphaBounds": [
+        13,
+        12,
+        242,
+        244
+      ],
+      "distinctFrames": 7,
+      "sha256": "53fcdc68cfd3c1074f4702ef6a7173c31692d8ecc03bfedaa1d279013f524689",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-08-moon-devourer",
+      "title": "O Devorador de Luas",
+      "category": "bosses",
+      "width": 288,
+      "height": 256,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-08-moon-devourer.aseprite",
+      "png": "png/bosses/boss-08-moon-devourer.png",
+      "sheet": "sheets/bosses/boss-08-moon-devourer.png",
+      "metadata": "metadata/bosses/boss-08-moon-devourer.json",
+      "origin": "boss-08-moon-devourer",
+      "kind": "actor",
+      "pivot": {
+        "x": 144,
+        "y": 244
+      },
+      "usedColors": 53,
+      "alphaBounds": [
+        30,
+        12,
+        258,
+        244
+      ],
+      "distinctFrames": 7,
+      "sha256": "ae660096ddaaf6ab4ae312125ec551e7823ebd4143e2a036e99a0a9d42ee74bd",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-rebocador",
+      "title": "O Rebocador",
+      "category": "bosses",
+      "width": 192,
+      "height": 192,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-rebocador.aseprite",
+      "png": "png/bosses/boss-rebocador.png",
+      "sheet": "sheets/bosses/boss-rebocador.png",
+      "metadata": "metadata/bosses/boss-rebocador.json",
+      "origin": "boss-rebocador",
+      "kind": "actor",
+      "pivot": {
+        "x": 96,
+        "y": 180
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        12,
+        33,
+        180,
+        180
+      ],
+      "distinctFrames": 7,
+      "sha256": "6a809659b3875fcd04c4cfad86dccaef9f2c4bfba012ad8adb575bc99652f5a6",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-storm-archon",
+      "title": "Arconte da Tempestade",
+      "category": "bosses",
+      "width": 192,
+      "height": 192,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-storm-archon.aseprite",
+      "png": "png/bosses/boss-storm-archon.png",
+      "sheet": "sheets/bosses/boss-storm-archon.png",
+      "metadata": "metadata/bosses/boss-storm-archon.json",
+      "origin": "boss-storm-archon",
+      "kind": "actor",
+      "pivot": {
+        "x": 96,
+        "y": 180
+      },
+      "usedColors": 51,
+      "alphaBounds": [
+        12,
+        37,
+        180,
+        180
+      ],
+      "distinctFrames": 7,
+      "sha256": "176e7afd1a9a425dccfa3459eb47f350e17f4725412a079a5bea6f35e27d4dfe",
+      "layerCount": 2
+    },
+    {
+      "id": "boss-sylvan-heart",
+      "title": "Coração Silvestre",
+      "category": "bosses",
+      "width": 192,
+      "height": 192,
+      "frames": 12,
+      "aseprite": "aseprite/bosses/boss-sylvan-heart.aseprite",
+      "png": "png/bosses/boss-sylvan-heart.png",
+      "sheet": "sheets/bosses/boss-sylvan-heart.png",
+      "metadata": "metadata/bosses/boss-sylvan-heart.json",
+      "origin": "boss-sylvan-heart",
+      "kind": "actor",
+      "pivot": {
+        "x": 96,
+        "y": 180
+      },
+      "usedColors": 56,
+      "alphaBounds": [
+        21,
+        12,
+        170,
+        180
+      ],
+      "distinctFrames": 7,
+      "sha256": "27d260f962404692e323c8f7f273ea7c203c61b8424ffc9041fc530b61f30bb2",
+      "layerCount": 2
+    },
+    {
+      "id": "building-core",
+      "title": "Núcleo · salão da guilda",
+      "category": "buildings",
+      "width": 160,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/buildings/building-core.aseprite",
+      "png": "png/buildings/building-core.png",
+      "sheet": "sheets/buildings/building-core.png",
+      "metadata": "metadata/buildings/building-core.json",
+      "origin": "building-core",
+      "kind": "static",
+      "pivot": {
+        "x": 80,
+        "y": 80
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        12,
+        4,
+        147,
+        156
+      ],
+      "sha256": "317fbd7a16ce0a4d45ec33abddd64e0554f040fd7dbd7bef36ebd6119c4ec6ef",
+      "layerCount": 2
+    },
+    {
+      "id": "building-greenhouse",
+      "title": "Estufa · jardim medicinal",
+      "category": "buildings",
+      "width": 160,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/buildings/building-greenhouse.aseprite",
+      "png": "png/buildings/building-greenhouse.png",
+      "sheet": "sheets/buildings/building-greenhouse.png",
+      "metadata": "metadata/buildings/building-greenhouse.json",
+      "origin": "building-greenhouse",
+      "kind": "static",
+      "pivot": {
+        "x": 80,
+        "y": 80
+      },
+      "usedColors": 46,
+      "alphaBounds": [
+        4,
+        21,
+        156,
+        156
+      ],
+      "sha256": "342f64e3c340c193482db1b14ea6d1f5e11aa819b1dc7e2bf1b7b0502c5c0277",
+      "layerCount": 2
+    },
+    {
+      "id": "building-observatory",
+      "title": "Observatório · torre celeste",
+      "category": "buildings",
+      "width": 160,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/buildings/building-observatory.aseprite",
+      "png": "png/buildings/building-observatory.png",
+      "sheet": "sheets/buildings/building-observatory.png",
+      "metadata": "metadata/buildings/building-observatory.json",
+      "origin": "building-observatory",
+      "kind": "static",
+      "pivot": {
+        "x": 80,
+        "y": 80
+      },
+      "usedColors": 44,
+      "alphaBounds": [
+        11,
+        4,
+        148,
+        156
+      ],
+      "sha256": "a723d749fd3ad111b5c1c93a028839fee9273e60421ba534ed89049e54fb6321",
+      "layerCount": 2
+    },
+    {
+      "id": "building-workshop",
+      "title": "Oficina · forja",
+      "category": "buildings",
+      "width": 160,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/buildings/building-workshop.aseprite",
+      "png": "png/buildings/building-workshop.png",
+      "sheet": "sheets/buildings/building-workshop.png",
+      "metadata": "metadata/buildings/building-workshop.json",
+      "origin": "building-workshop",
+      "kind": "static",
+      "pivot": {
+        "x": 80,
+        "y": 80
+      },
+      "usedColors": 44,
+      "alphaBounds": [
+        4,
+        7,
+        156,
+        156
+      ],
+      "sha256": "49544dcd49dee85417196efc46a85cf4deb1332d84c49022f9928f29af54ece2",
+      "layerCount": 2
+    },
+    {
+      "id": "companion-brasa",
+      "title": "Brasa · guardião",
+      "category": "companions",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/companions/companion-brasa.aseprite",
+      "png": "png/companions/companion-brasa.png",
+      "sheet": "sheets/companions/companion-brasa.png",
+      "metadata": "metadata/companions/companion-brasa.json",
+      "origin": "companion-brasa",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 36,
+      "alphaBounds": [
+        12,
+        12,
+        115,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "0e7f8f8b682571cfb348945e8be7dccb6210a2aea93992552d4c9490b88af37f",
+      "layerCount": 2
+    },
+    {
+      "id": "companion-luma",
+      "title": "Luma · botânica",
+      "category": "companions",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/companions/companion-luma.aseprite",
+      "png": "png/companions/companion-luma.png",
+      "sheet": "sheets/companions/companion-luma.png",
+      "metadata": "metadata/companions/companion-luma.json",
+      "origin": "companion-luma",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        28,
+        12,
+        100,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "b7a5c960a38f4b68910113540997dc3dc6de6ccfc71e0f4cb849f1d34990d3f5",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-01",
+      "title": "Jogar",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-01.aseprite",
+      "png": "png/controls/atlas-controls-01.png",
+      "sheet": "sheets/controls/atlas-controls-01.png",
+      "metadata": "metadata/controls/atlas-controls-01.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 22,
+      "alphaBounds": [
+        6,
+        4,
+        26,
+        28
+      ],
+      "sha256": "afa86702a8bf00f2728c4dc779c62394c25c7d7396ba9da443299f698922d4d3",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-02",
+      "title": "Pausar",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-02.aseprite",
+      "png": "png/controls/atlas-controls-02.png",
+      "sheet": "sheets/controls/atlas-controls-02.png",
+      "metadata": "metadata/controls/atlas-controls-02.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 23,
+      "alphaBounds": [
+        7,
+        4,
+        25,
+        28
+      ],
+      "sha256": "56f4ce9bc66a3f62e8728b1291d16b41944f95da81385a7e50a7a890a2e4c9f9",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-03",
+      "title": "Recolher",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-03.aseprite",
+      "png": "png/controls/atlas-controls-03.png",
+      "sheet": "sheets/controls/atlas-controls-03.png",
+      "metadata": "metadata/controls/atlas-controls-03.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 20,
+      "alphaBounds": [
+        4,
+        11,
+        28,
+        28
+      ],
+      "sha256": "759755ad2176a59e886a61f6e77baea616473f4d54bd6d0424c788a7e7aedc8b",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-04",
+      "title": "Fechar",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-04.aseprite",
+      "png": "png/controls/atlas-controls-04.png",
+      "sheet": "sheets/controls/atlas-controls-04.png",
+      "metadata": "metadata/controls/atlas-controls-04.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 22,
+      "alphaBounds": [
+        4,
+        4,
+        27,
+        28
+      ],
+      "sha256": "353cbd0bd464ba754290db624f21ac52b6b14ccd0f14946362a76d87d78090de",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-05",
+      "title": "Mapa",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-05.aseprite",
+      "png": "png/controls/atlas-controls-05.png",
+      "sheet": "sheets/controls/atlas-controls-05.png",
+      "metadata": "metadata/controls/atlas-controls-05.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 23,
+      "alphaBounds": [
+        4,
+        7,
+        28,
+        28
+      ],
+      "sha256": "c9c5fb414338a2f0167addc60366afe3322fe7f58d6c9d89ed34f4174ffa4c42",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-06",
+      "title": "Equipe",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-06.aseprite",
+      "png": "png/controls/atlas-controls-06.png",
+      "sheet": "sheets/controls/atlas-controls-06.png",
+      "metadata": "metadata/controls/atlas-controls-06.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 31,
+      "alphaBounds": [
+        5,
+        4,
+        27,
+        28
+      ],
+      "sha256": "91dc65830f25b7999872f16c0cd50219bd769c9dfaf608fa0312c151477eae2a",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-07",
+      "title": "Estação",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-07.aseprite",
+      "png": "png/controls/atlas-controls-07.png",
+      "sheet": "sheets/controls/atlas-controls-07.png",
+      "metadata": "metadata/controls/atlas-controls-07.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 30,
+      "alphaBounds": [
+        6,
+        4,
+        26,
+        28
+      ],
+      "sha256": "9c41155fb781d5ede8e6235e1160b7d304636a7da466745344090688128abc90",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-08",
+      "title": "Diário",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-08.aseprite",
+      "png": "png/controls/atlas-controls-08.png",
+      "sheet": "sheets/controls/atlas-controls-08.png",
+      "metadata": "metadata/controls/atlas-controls-08.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 31,
+      "alphaBounds": [
+        5,
+        4,
+        26,
+        28
+      ],
+      "sha256": "d5b25fe999672e28b0f8365272964e0d851a70fd50c90e4b104100cf32f77319",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-09",
+      "title": "Vitória",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-09.aseprite",
+      "png": "png/controls/atlas-controls-09.png",
+      "sheet": "sheets/controls/atlas-controls-09.png",
+      "metadata": "metadata/controls/atlas-controls-09.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 23,
+      "alphaBounds": [
+        4,
+        5,
+        28,
+        28
+      ],
+      "sha256": "f0bbc6694085a22d62e55338dbbd8ac61822a8c611405cff974d65828daff1cc",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-10",
+      "title": "Atenção",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-10.aseprite",
+      "png": "png/controls/atlas-controls-10.png",
+      "sheet": "sheets/controls/atlas-controls-10.png",
+      "metadata": "metadata/controls/atlas-controls-10.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 17,
+      "alphaBounds": [
+        4,
+        8,
+        28,
+        28
+      ],
+      "sha256": "393f459f98a0ba09d9728ac7f64f8d601a9943c89c6e1e64944e8f5ab3d30dad",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-11",
+      "title": "Desconectado",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-11.aseprite",
+      "png": "png/controls/atlas-controls-11.png",
+      "sheet": "sheets/controls/atlas-controls-11.png",
+      "metadata": "metadata/controls/atlas-controls-11.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 14,
+      "alphaBounds": [
+        4,
+        6,
+        28,
+        28
+      ],
+      "sha256": "072b4a17c71e3e037373b128805756061afda2a7b8ef8c342466921b08d88cf5",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-controls-12",
+      "title": "Som",
+      "category": "controls",
+      "width": 32,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/controls/atlas-controls-12.aseprite",
+      "png": "png/controls/atlas-controls-12.png",
+      "sheet": "sheets/controls/atlas-controls-12.png",
+      "metadata": "metadata/controls/atlas-controls-12.json",
+      "origin": "atlas-controls",
+      "kind": "static",
+      "pivot": {
+        "x": 16,
+        "y": 16
+      },
+      "usedColors": 33,
+      "alphaBounds": [
+        6,
+        4,
+        25,
+        28
+      ],
+      "sha256": "19adc033f554cc2f01639004ea8a5b3c4a944cd9499be6cfb29229840559eda0",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-01",
+      "title": "Corte",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-01.aseprite",
+      "png": "png/effects/atlas-effects-01.png",
+      "sheet": "sheets/effects/atlas-effects-01.png",
+      "metadata": "metadata/effects/atlas-effects-01.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 14,
+      "alphaBounds": [
+        5,
+        4,
+        58,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "46d327c4bc64f347bc0d5d5616750db8f5d5e55c9b629b30893cd88e3f2abff8",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-02",
+      "title": "Impacto",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-02.aseprite",
+      "png": "png/effects/atlas-effects-02.png",
+      "sheet": "sheets/effects/atlas-effects-02.png",
+      "metadata": "metadata/effects/atlas-effects-02.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 11,
+      "alphaBounds": [
+        4,
+        6,
+        60,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "9f35c8ef80954d87747b9005f8e4384ac49ba670cb1743e635a56033afe3efed",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-03",
+      "title": "Bloqueio",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-03.aseprite",
+      "png": "png/effects/atlas-effects-03.png",
+      "sheet": "sheets/effects/atlas-effects-03.png",
+      "metadata": "metadata/effects/atlas-effects-03.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 15,
+      "alphaBounds": [
+        6,
+        5,
+        57,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "6b3a9b8567a2a0518f6295c5a9f6d4a5ff30c83172f02269e955a4315a0382a7",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-04",
+      "title": "Dano",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-04.aseprite",
+      "png": "png/effects/atlas-effects-04.png",
+      "sheet": "sheets/effects/atlas-effects-04.png",
+      "metadata": "metadata/effects/atlas-effects-04.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 20,
+      "alphaBounds": [
+        6,
+        4,
+        57,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "372570692b7e5d23cf6e804230ef29cae04838ed381e8c4a7cc7501b563c527a",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-05",
+      "title": "Cura",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-05.aseprite",
+      "png": "png/effects/atlas-effects-05.png",
+      "sheet": "sheets/effects/atlas-effects-05.png",
+      "metadata": "metadata/effects/atlas-effects-05.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 9,
+      "alphaBounds": [
+        14,
+        4,
+        50,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "5384e094c6e578d04634919ce344c2c2486d5da3e4c44316236595c5cdda88ad",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-06",
+      "title": "Folha",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-06.aseprite",
+      "png": "png/effects/atlas-effects-06.png",
+      "sheet": "sheets/effects/atlas-effects-06.png",
+      "metadata": "metadata/effects/atlas-effects-06.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 9,
+      "alphaBounds": [
+        12,
+        4,
+        51,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "48f4a6ea245663debe043697a84c26fa7932b12d1f1f97f633075c79c7fd9ee4",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-07",
+      "title": "Escudo",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-07.aseprite",
+      "png": "png/effects/atlas-effects-07.png",
+      "sheet": "sheets/effects/atlas-effects-07.png",
+      "metadata": "metadata/effects/atlas-effects-07.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 9,
+      "alphaBounds": [
+        12,
+        17,
+        51,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "c56724c6abdf6506db46fa46781995fcde0d0c7454dc36255ec69e4f1682e036",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-08",
+      "title": "Análise",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-08.aseprite",
+      "png": "png/effects/atlas-effects-08.png",
+      "sheet": "sheets/effects/atlas-effects-08.png",
+      "metadata": "metadata/effects/atlas-effects-08.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 11,
+      "alphaBounds": [
+        4,
+        4,
+        59,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "1752bcba492b6e7c12a3e778ee407e65f4c13a5aff3d5f5f1275c20d9609adf2",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-09",
+      "title": "Raio",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-09.aseprite",
+      "png": "png/effects/atlas-effects-09.png",
+      "sheet": "sheets/effects/atlas-effects-09.png",
+      "metadata": "metadata/effects/atlas-effects-09.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 10,
+      "alphaBounds": [
+        18,
+        4,
+        45,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "14f9f1a85fb2782b5d0ef7c646ea28668fbbe3af9c47c03cbf36ba02a736c987",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-10",
+      "title": "Esporos",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-10.aseprite",
+      "png": "png/effects/atlas-effects-10.png",
+      "sheet": "sheets/effects/atlas-effects-10.png",
+      "metadata": "metadata/effects/atlas-effects-10.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 8,
+      "alphaBounds": [
+        4,
+        11,
+        60,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "1e97b7bdfc3296292110f1e2eed161c47000026c63fb9f7caa98f01a2481b4e2",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-11",
+      "title": "Recompensa",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-11.aseprite",
+      "png": "png/effects/atlas-effects-11.png",
+      "sheet": "sheets/effects/atlas-effects-11.png",
+      "metadata": "metadata/effects/atlas-effects-11.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 12,
+      "alphaBounds": [
+        5,
+        4,
+        58,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "2eb026fc99b4d7c726c2e46b35804f5151060f35f89c6c1e097447465dc4ef8b",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-effects-12",
+      "title": "Derrota",
+      "category": "effects",
+      "width": 64,
+      "height": 64,
+      "frames": 6,
+      "aseprite": "aseprite/effects/atlas-effects-12.aseprite",
+      "png": "png/effects/atlas-effects-12.png",
+      "sheet": "sheets/effects/atlas-effects-12.png",
+      "metadata": "metadata/effects/atlas-effects-12.json",
+      "origin": "atlas-effects",
+      "kind": "effect",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 12,
+      "alphaBounds": [
+        4,
+        13,
+        60,
+        60
+      ],
+      "distinctFrames": 6,
+      "sha256": "1963ce6cd069c4b615d51bc9768480d8ed7d0c9623f35115810d356d3e677b02",
+      "layerCount": 2
+    },
+    {
+      "id": "enemy-brass-sentry",
+      "title": "Vigia de latão",
+      "category": "enemies",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/enemies/enemy-brass-sentry.aseprite",
+      "png": "png/enemies/enemy-brass-sentry.png",
+      "sheet": "sheets/enemies/enemy-brass-sentry.png",
+      "metadata": "metadata/enemies/enemy-brass-sentry.json",
+      "origin": "enemy-brass-sentry",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 42,
+      "alphaBounds": [
+        16,
+        12,
+        111,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "ce657987b08ca1f272529437bf2a887906bc6975e21e358b098e508a34bbd5df",
+      "layerCount": 2
+    },
+    {
+      "id": "enemy-copper-crab",
+      "title": "Caranguejo de cobre",
+      "category": "enemies",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/enemies/enemy-copper-crab.aseprite",
+      "png": "png/enemies/enemy-copper-crab.png",
+      "sheet": "sheets/enemies/enemy-copper-crab.png",
+      "metadata": "metadata/enemies/enemy-copper-crab.json",
+      "origin": "enemy-copper-crab",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 43,
+      "alphaBounds": [
+        12,
+        48,
+        116,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "8f986fedb6bfe77c4a87458dd93b394878573b9ab876e950f6c13a13942df84b",
+      "layerCount": 2
+    },
+    {
+      "id": "enemy-root-warden",
+      "title": "Guardião de raízes",
+      "category": "enemies",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/enemies/enemy-root-warden.aseprite",
+      "png": "png/enemies/enemy-root-warden.png",
+      "sheet": "sheets/enemies/enemy-root-warden.png",
+      "metadata": "metadata/enemies/enemy-root-warden.json",
+      "origin": "enemy-root-warden",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 47,
+      "alphaBounds": [
+        20,
+        12,
+        107,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "dc452e29db949e1bb0a6ee9faf14f5b4a57cdc7b2a6d3c27757f966ab6e0d846",
+      "layerCount": 2
+    },
+    {
+      "id": "enemy-sporeling",
+      "title": "Esporídeo",
+      "category": "enemies",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/enemies/enemy-sporeling.aseprite",
+      "png": "png/enemies/enemy-sporeling.png",
+      "sheet": "sheets/enemies/enemy-sporeling.png",
+      "metadata": "metadata/enemies/enemy-sporeling.json",
+      "origin": "enemy-sporeling",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        14,
+        12,
+        113,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "bceaaf8fd94490f774693d703b3339214d70362ba01d1a2b4543915462a5e7ef",
+      "layerCount": 2
+    },
+    {
+      "id": "enemy-storm-sentinel",
+      "title": "Sentinela da tempestade",
+      "category": "enemies",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/enemies/enemy-storm-sentinel.aseprite",
+      "png": "png/enemies/enemy-storm-sentinel.png",
+      "sheet": "sheets/enemies/enemy-storm-sentinel.png",
+      "metadata": "metadata/enemies/enemy-storm-sentinel.json",
+      "origin": "enemy-storm-sentinel",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 43,
+      "alphaBounds": [
+        12,
+        21,
+        116,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "adc6bab5c4920ef2f71700aed60d1e650d762818723133f5bb9826facfc6bdc6",
+      "layerCount": 2
+    },
+    {
+      "id": "enemy-storm-wisp",
+      "title": "Centelha",
+      "category": "enemies",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/enemies/enemy-storm-wisp.aseprite",
+      "png": "png/enemies/enemy-storm-wisp.png",
+      "sheet": "sheets/enemies/enemy-storm-wisp.png",
+      "metadata": "metadata/enemies/enemy-storm-wisp.json",
+      "origin": "enemy-storm-wisp",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 31,
+      "alphaBounds": [
+        12,
+        22,
+        116,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "cd3bb290eac9b62bb191b99c67419ccd6afc1b086335e1b5ae4001af8a4f9afd",
+      "layerCount": 2
+    },
+    {
+      "id": "hero-classic",
+      "title": "Herói · clássico",
+      "category": "heroes",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/heroes/hero-classic.aseprite",
+      "png": "png/heroes/hero-classic.png",
+      "sheet": "sheets/heroes/hero-classic.png",
+      "metadata": "metadata/heroes/hero-classic.json",
+      "origin": "hero-classic",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        24,
+        12,
+        104,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "f26037de2a33bde11ab08b4a2678a4e80cb575de53faa42c0b7c384b367b4500",
+      "layerCount": 2
+    },
+    {
+      "id": "hero-gothic",
+      "title": "Herói · sombrio",
+      "category": "heroes",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/heroes/hero-gothic.aseprite",
+      "png": "png/heroes/hero-gothic.png",
+      "sheet": "sheets/heroes/hero-gothic.png",
+      "metadata": "metadata/heroes/hero-gothic.json",
+      "origin": "hero-gothic",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 32,
+      "alphaBounds": [
+        26,
+        12,
+        101,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "1c1295955ead655e16a53a2d0e49c54de821c5b80a0191d49aa4647c466cea49",
+      "layerCount": 2
+    },
+    {
+      "id": "hero-kawaii",
+      "title": "Herói · kawaii",
+      "category": "heroes",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/heroes/hero-kawaii.aseprite",
+      "png": "png/heroes/hero-kawaii.png",
+      "sheet": "sheets/heroes/hero-kawaii.png",
+      "metadata": "metadata/heroes/hero-kawaii.json",
+      "origin": "hero-kawaii",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 49,
+      "alphaBounds": [
+        23,
+        12,
+        104,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "2edf02c7548ce5f3139d4704d8471d2c4e267b2ca71825021d9033e719acd06d",
+      "layerCount": 2
+    },
+    {
+      "id": "hero-persian",
+      "title": "Herói · aventureiro persa",
+      "category": "heroes",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/heroes/hero-persian.aseprite",
+      "png": "png/heroes/hero-persian.png",
+      "sheet": "sheets/heroes/hero-persian.png",
+      "metadata": "metadata/heroes/hero-persian.json",
+      "origin": "hero-persian",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 44,
+      "alphaBounds": [
+        24,
+        12,
+        103,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "ac074e412cd42a8e9d2808b8905dfcacd843bd72c05005c066d280d7bbca9bb5",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-01",
+      "title": "Vida",
+      "category": "hud",
+      "width": 128,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-01.aseprite",
+      "png": "png/hud/atlas-hud-01.png",
+      "sheet": "sheets/hud/atlas-hud-01.png",
+      "metadata": "metadata/hud/atlas-hud-01.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 64,
+        "y": 16
+      },
+      "usedColors": 26,
+      "alphaBounds": [
+        26,
+        4,
+        101,
+        28
+      ],
+      "sha256": "78ab2a02d2d5c9d2ae46a781d2d73bb7b1fcc50e2c3df03be73fd66bbc731d15",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-02",
+      "title": "Escudo",
+      "category": "hud",
+      "width": 128,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-02.aseprite",
+      "png": "png/hud/atlas-hud-02.png",
+      "sheet": "sheets/hud/atlas-hud-02.png",
+      "metadata": "metadata/hud/atlas-hud-02.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 64,
+        "y": 16
+      },
+      "usedColors": 26,
+      "alphaBounds": [
+        24,
+        4,
+        104,
+        28
+      ],
+      "sha256": "b6e2a7157df78dff83c7a177ad8021be66b32efe05075ae99f9ded4779e4a574",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-03",
+      "title": "Experiência",
+      "category": "hud",
+      "width": 128,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-03.aseprite",
+      "png": "png/hud/atlas-hud-03.png",
+      "sheet": "sheets/hud/atlas-hud-03.png",
+      "metadata": "metadata/hud/atlas-hud-03.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 64,
+        "y": 16
+      },
+      "usedColors": 32,
+      "alphaBounds": [
+        24,
+        4,
+        98,
+        28
+      ],
+      "sha256": "f0fdf31692986126f802c1ad7420d8351b74cf5108b2738ee7a7a3d8127f986b",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-04",
+      "title": "Vida inimiga",
+      "category": "hud",
+      "width": 128,
+      "height": 32,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-04.aseprite",
+      "png": "png/hud/atlas-hud-04.png",
+      "sheet": "sheets/hud/atlas-hud-04.png",
+      "metadata": "metadata/hud/atlas-hud-04.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 64,
+        "y": 16
+      },
+      "usedColors": 21,
+      "alphaBounds": [
+        28,
+        4,
+        100,
+        28
+      ],
+      "sha256": "35e341d8772ee9f6f92841104a2f4022ef1dd8a70332d3c2427fe4000b2a1b07",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-05",
+      "title": "Painel",
+      "category": "hud",
+      "width": 96,
+      "height": 96,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-05.aseprite",
+      "png": "png/hud/atlas-hud-05.png",
+      "sheet": "sheets/hud/atlas-hud-05.png",
+      "metadata": "metadata/hud/atlas-hud-05.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 48
+      },
+      "usedColors": 37,
+      "alphaBounds": [
+        4,
+        16,
+        92,
+        92
+      ],
+      "sha256": "77519b9179703bb0065f1f3d01bd31c48c339fb69e80cda6f74607bde45ebcc6",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-06",
+      "title": "Retrato circular",
+      "category": "hud",
+      "width": 96,
+      "height": 96,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-06.aseprite",
+      "png": "png/hud/atlas-hud-06.png",
+      "sheet": "sheets/hud/atlas-hud-06.png",
+      "metadata": "metadata/hud/atlas-hud-06.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 48
+      },
+      "usedColors": 37,
+      "alphaBounds": [
+        7,
+        4,
+        89,
+        92
+      ],
+      "sha256": "c5a93821bb31b64b5e5b73a7f704d3d885f5849385b99ebcd40fd81a775362ea",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-07",
+      "title": "Slot",
+      "category": "hud",
+      "width": 96,
+      "height": 96,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-07.aseprite",
+      "png": "png/hud/atlas-hud-07.png",
+      "sheet": "sheets/hud/atlas-hud-07.png",
+      "metadata": "metadata/hud/atlas-hud-07.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 48
+      },
+      "usedColors": 37,
+      "alphaBounds": [
+        4,
+        8,
+        92,
+        92
+      ],
+      "sha256": "fecef3037d5a55cf7a870c2efca731e9fee3b62ca7cbb5f2baf33dbf691e868a",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-08",
+      "title": "Tooltip",
+      "category": "hud",
+      "width": 96,
+      "height": 96,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-08.aseprite",
+      "png": "png/hud/atlas-hud-08.png",
+      "sheet": "sheets/hud/atlas-hud-08.png",
+      "metadata": "metadata/hud/atlas-hud-08.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 48
+      },
+      "usedColors": 38,
+      "alphaBounds": [
+        4,
+        29,
+        92,
+        92
+      ],
+      "sha256": "c4feb5bb82c0acd9772a90ceead7ccaa279376532f7cdfd65490bd8c1ff469bd",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-09",
+      "title": "Botão normal",
+      "category": "hud",
+      "width": 96,
+      "height": 40,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-09.aseprite",
+      "png": "png/hud/atlas-hud-09.png",
+      "sheet": "sheets/hud/atlas-hud-09.png",
+      "metadata": "metadata/hud/atlas-hud-09.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 20
+      },
+      "usedColors": 24,
+      "alphaBounds": [
+        16,
+        4,
+        79,
+        36
+      ],
+      "sha256": "1391d0352201712f2446e2e7760bff2b6f6944b45c3b1892dfaf62431ecce97b",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-10",
+      "title": "Botão destacado",
+      "category": "hud",
+      "width": 96,
+      "height": 40,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-10.aseprite",
+      "png": "png/hud/atlas-hud-10.png",
+      "sheet": "sheets/hud/atlas-hud-10.png",
+      "metadata": "metadata/hud/atlas-hud-10.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 20
+      },
+      "usedColors": 36,
+      "alphaBounds": [
+        17,
+        4,
+        79,
+        36
+      ],
+      "sha256": "83ea733b891392b1fe649679d8f518b371bada5dcd420dcfb0670bcd7deb34c7",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-11",
+      "title": "Botão pressionado",
+      "category": "hud",
+      "width": 96,
+      "height": 40,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-11.aseprite",
+      "png": "png/hud/atlas-hud-11.png",
+      "sheet": "sheets/hud/atlas-hud-11.png",
+      "metadata": "metadata/hud/atlas-hud-11.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 20
+      },
+      "usedColors": 22,
+      "alphaBounds": [
+        17,
+        4,
+        79,
+        36
+      ],
+      "sha256": "fa735682e5d0344a7b881af4696ffe2c15efc3672c1b07378b811162540934d1",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-hud-12",
+      "title": "Botão desativado",
+      "category": "hud",
+      "width": 96,
+      "height": 40,
+      "frames": 1,
+      "aseprite": "aseprite/hud/atlas-hud-12.aseprite",
+      "png": "png/hud/atlas-hud-12.png",
+      "sheet": "sheets/hud/atlas-hud-12.png",
+      "metadata": "metadata/hud/atlas-hud-12.json",
+      "origin": "atlas-hud",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 20
+      },
+      "usedColors": 14,
+      "alphaBounds": [
+        17,
+        4,
+        79,
+        36
+      ],
+      "sha256": "ac5ede66610cf9e597e33f6e12a5d7876d46ed5945b319b7a872c6f547252a38",
+      "layerCount": 2
+    },
+    {
+      "id": "npc-artisan",
+      "title": "NPC · artesã",
+      "category": "npcs",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/npcs/npc-artisan.aseprite",
+      "png": "png/npcs/npc-artisan.png",
+      "sheet": "sheets/npcs/npc-artisan.png",
+      "metadata": "metadata/npcs/npc-artisan.json",
+      "origin": "npc-artisan",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        30,
+        12,
+        97,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "fdc96bb5d8348d7d0c6f0a2ef88c56266f750ab6e0caa0383575ad61d72db0d5",
+      "layerCount": 2
+    },
+    {
+      "id": "npc-cartographer",
+      "title": "NPC · cartógrafo",
+      "category": "npcs",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/npcs/npc-cartographer.aseprite",
+      "png": "png/npcs/npc-cartographer.png",
+      "sheet": "sheets/npcs/npc-cartographer.png",
+      "metadata": "metadata/npcs/npc-cartographer.json",
+      "origin": "npc-cartographer",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 44,
+      "alphaBounds": [
+        25,
+        12,
+        103,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "72dc3205853e49ccf7988d9f8ec6b82196128bdd94b77a734206acc69aab45c0",
+      "layerCount": 2
+    },
+    {
+      "id": "npc-collector",
+      "title": "NPC · colecionadora",
+      "category": "npcs",
+      "width": 128,
+      "height": 128,
+      "frames": 12,
+      "aseprite": "aseprite/npcs/npc-collector.aseprite",
+      "png": "png/npcs/npc-collector.png",
+      "sheet": "sheets/npcs/npc-collector.png",
+      "metadata": "metadata/npcs/npc-collector.json",
+      "origin": "npc-collector",
+      "kind": "actor",
+      "pivot": {
+        "x": 64,
+        "y": 116
+      },
+      "usedColors": 52,
+      "alphaBounds": [
+        30,
+        12,
+        98,
+        116
+      ],
+      "distinctFrames": 7,
+      "sha256": "5fe456b361b27b4ffc5285438582a0ae5f669425fc1480859a888c7f5c4d4a5e",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-01",
+      "title": "Baú",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-01.aseprite",
+      "png": "png/props/atlas-props-01.png",
+      "sheet": "sheets/props/atlas-props-01.png",
+      "metadata": "metadata/props/atlas-props-01.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 42,
+      "alphaBounds": [
+        4,
+        7,
+        60,
+        60
+      ],
+      "sha256": "e268800cf5e76f2752aef51bc8297d11328737922fe6169e0772d84b5caa557c",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-02",
+      "title": "Barril",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-02.aseprite",
+      "png": "png/props/atlas-props-02.png",
+      "sheet": "sheets/props/atlas-props-02.png",
+      "metadata": "metadata/props/atlas-props-02.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 38,
+      "alphaBounds": [
+        11,
+        4,
+        53,
+        60
+      ],
+      "sha256": "2b16183398c42c6bc8b7172b2e76df9026c3fd616335f02aece9d3ef0ac7b299",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-03",
+      "title": "Caixote",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-03.aseprite",
+      "png": "png/props/atlas-props-03.png",
+      "sheet": "sheets/props/atlas-props-03.png",
+      "metadata": "metadata/props/atlas-props-03.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 25,
+      "alphaBounds": [
+        6,
+        4,
+        58,
+        60
+      ],
+      "sha256": "77dacd440a0adc52b6917f91880b1d86d0608c4ab304a2f78b4656ad003a01ef",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-04",
+      "title": "Estandarte",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-04.aseprite",
+      "png": "png/props/atlas-props-04.png",
+      "sheet": "sheets/props/atlas-props-04.png",
+      "metadata": "metadata/props/atlas-props-04.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 40,
+      "alphaBounds": [
+        14,
+        4,
+        50,
+        60
+      ],
+      "sha256": "216dfdcb0e5465b542cf50067f966aedec04bfe734009e200a59fcf38e4955ac",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-05",
+      "title": "Lanterna",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-05.aseprite",
+      "png": "png/props/atlas-props-05.png",
+      "sheet": "sheets/props/atlas-props-05.png",
+      "metadata": "metadata/props/atlas-props-05.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 25,
+      "alphaBounds": [
+        17,
+        4,
+        46,
+        60
+      ],
+      "sha256": "fa2181579259440c4dda6b7952d830987e5f6641831e5b587fe63363014da5ed",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-06",
+      "title": "Banco",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-06.aseprite",
+      "png": "png/props/atlas-props-06.png",
+      "sheet": "sheets/props/atlas-props-06.png",
+      "metadata": "metadata/props/atlas-props-06.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 17,
+      "alphaBounds": [
+        4,
+        25,
+        59,
+        60
+      ],
+      "sha256": "a6daebbb49f3b5d1d67d384927a3fd3319a1ed6f70ad4e4399a442280eac94d3",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-07",
+      "title": "Bigorna",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-07.aseprite",
+      "png": "png/props/atlas-props-07.png",
+      "sheet": "sheets/props/atlas-props-07.png",
+      "metadata": "metadata/props/atlas-props-07.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 35,
+      "alphaBounds": [
+        4,
+        5,
+        60,
+        60
+      ],
+      "sha256": "91a6f82c469369beae5181c54fa5ebba91a55094c971776186e7e06349696593",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-08",
+      "title": "Mapa",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-08.aseprite",
+      "png": "png/props/atlas-props-08.png",
+      "sheet": "sheets/props/atlas-props-08.png",
+      "metadata": "metadata/props/atlas-props-08.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 29,
+      "alphaBounds": [
+        4,
+        13,
+        60,
+        60
+      ],
+      "sha256": "1f48fefd4845e2469e5c0a6c946c776fac6c2c54faf4aa45b3c5c466bf3ac7df",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-09",
+      "title": "Vaso medicinal",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-09.aseprite",
+      "png": "png/props/atlas-props-09.png",
+      "sheet": "sheets/props/atlas-props-09.png",
+      "metadata": "metadata/props/atlas-props-09.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 48,
+      "alphaBounds": [
+        15,
+        4,
+        49,
+        60
+      ],
+      "sha256": "e3b96430d5aef251147655055e73c45834c51b6138cf7b091730c176a0601197",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-10",
+      "title": "Cristal",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-10.aseprite",
+      "png": "png/props/atlas-props-10.png",
+      "sheet": "sheets/props/atlas-props-10.png",
+      "metadata": "metadata/props/atlas-props-10.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 26,
+      "alphaBounds": [
+        9,
+        4,
+        55,
+        60
+      ],
+      "sha256": "33493780a4a4d5aee0ee2e43c37147c32173431f5117471a364c6412c7b29d34",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-11",
+      "title": "Coluna quebrada",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-11.aseprite",
+      "png": "png/props/atlas-props-11.png",
+      "sheet": "sheets/props/atlas-props-11.png",
+      "metadata": "metadata/props/atlas-props-11.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 26,
+      "alphaBounds": [
+        7,
+        5,
+        57,
+        60
+      ],
+      "sha256": "5e7be048cd0876773e61db48868be57a4ab8518b5c23c513afb5f0cb292644f5",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-props-12",
+      "title": "Placa de rota",
+      "category": "props",
+      "width": 64,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/props/atlas-props-12.aseprite",
+      "png": "png/props/atlas-props-12.png",
+      "sheet": "sheets/props/atlas-props-12.png",
+      "metadata": "metadata/props/atlas-props-12.json",
+      "origin": "atlas-props",
+      "kind": "static",
+      "pivot": {
+        "x": 32,
+        "y": 32
+      },
+      "usedColors": 27,
+      "alphaBounds": [
+        9,
+        4,
+        55,
+        60
+      ],
+      "sha256": "7522492d2d37fbecf2bc045092bebb30ec1718de842858c416e193ee3af4fe5a",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-01",
+      "title": "Lente de análise",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-01.aseprite",
+      "png": "png/relics/atlas-relics-01.png",
+      "sheet": "sheets/relics/atlas-relics-01.png",
+      "metadata": "metadata/relics/atlas-relics-01.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 43,
+      "alphaBounds": [
+        4,
+        5,
+        44,
+        44
+      ],
+      "sha256": "d6e2c6afddcc03db066598fd15dd7ab3ad2f29b80e6fad3900bede74dafe56e0",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-02",
+      "title": "Placa de proteção",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-02.aseprite",
+      "png": "png/relics/atlas-relics-02.png",
+      "sheet": "sheets/relics/atlas-relics-02.png",
+      "metadata": "metadata/relics/atlas-relics-02.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 32,
+      "alphaBounds": [
+        4,
+        9,
+        44,
+        44
+      ],
+      "sha256": "f17201912da6c8e2214500b642352c021cf063bfb4b37423cc4a32a03b3a38c8",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-03",
+      "title": "Semente vítrea",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-03.aseprite",
+      "png": "png/relics/atlas-relics-03.png",
+      "sheet": "sheets/relics/atlas-relics-03.png",
+      "metadata": "metadata/relics/atlas-relics-03.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 40,
+      "alphaBounds": [
+        11,
+        4,
+        36,
+        44
+      ],
+      "sha256": "9a1ab1a698e03230b215390f4c644ba6f3e2d2c5d55c95700dc1d01c1edf32a9",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-04",
+      "title": "Broto ancestral",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-04.aseprite",
+      "png": "png/relics/atlas-relics-04.png",
+      "sheet": "sheets/relics/atlas-relics-04.png",
+      "metadata": "metadata/relics/atlas-relics-04.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 23,
+      "alphaBounds": [
+        9,
+        4,
+        38,
+        44
+      ],
+      "sha256": "691ae2826b056389571ea11a0a1a60aa1d43997e1b989e194b44f8ddd9228ec3",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-05",
+      "title": "Bobina de tempestade",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-05.aseprite",
+      "png": "png/relics/atlas-relics-05.png",
+      "sheet": "sheets/relics/atlas-relics-05.png",
+      "metadata": "metadata/relics/atlas-relics-05.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 43,
+      "alphaBounds": [
+        11,
+        4,
+        36,
+        44
+      ],
+      "sha256": "0c30e1c3cba4ea711081243f57ab0cd57027adf6a132e3f5889578bf00152a27",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-06",
+      "title": "Farol portátil",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-06.aseprite",
+      "png": "png/relics/atlas-relics-06.png",
+      "sheet": "sheets/relics/atlas-relics-06.png",
+      "metadata": "metadata/relics/atlas-relics-06.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 41,
+      "alphaBounds": [
+        12,
+        4,
+        36,
+        44
+      ],
+      "sha256": "e8ad618e963e1b6d1ed68129d0dbc275a5eadb62d57dfa95f6df08f71f4d429e",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-07",
+      "title": "Sucata",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-07.aseprite",
+      "png": "png/relics/atlas-relics-07.png",
+      "sheet": "sheets/relics/atlas-relics-07.png",
+      "metadata": "metadata/relics/atlas-relics-07.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 31,
+      "alphaBounds": [
+        4,
+        10,
+        44,
+        44
+      ],
+      "sha256": "6799573d88ccdcadcdb238b48475033213253336dfa1517e50d967236d1709a7",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-08",
+      "title": "Núcleo",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-08.aseprite",
+      "png": "png/relics/atlas-relics-08.png",
+      "sheet": "sheets/relics/atlas-relics-08.png",
+      "metadata": "metadata/relics/atlas-relics-08.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 34,
+      "alphaBounds": [
+        5,
+        4,
+        42,
+        44
+      ],
+      "sha256": "ada710478b7be6c13591dd30a68019f83a8dc67d29c2f5dd021ee199248bbd7f",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-relics-09",
+      "title": "Sementes",
+      "category": "relics",
+      "width": 48,
+      "height": 48,
+      "frames": 1,
+      "aseprite": "aseprite/relics/atlas-relics-09.aseprite",
+      "png": "png/relics/atlas-relics-09.png",
+      "sheet": "sheets/relics/atlas-relics-09.png",
+      "metadata": "metadata/relics/atlas-relics-09.json",
+      "origin": "atlas-relics",
+      "kind": "static",
+      "pivot": {
+        "x": 24,
+        "y": 24
+      },
+      "usedColors": 36,
+      "alphaBounds": [
+        4,
+        5,
+        44,
+        44
+      ],
+      "sha256": "268eaeeefb9e61d0a6e0099c843e8fcc3424dbd0da62e1c8cb6d78960751e0b2",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-garden-1",
+      "title": "Sementes de luz",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-garden-1.aseprite",
+      "png": "png/scenes/scene-garden-1.png",
+      "sheet": "sheets/scenes/scene-garden-1.png",
+      "metadata": "metadata/scenes/scene-garden-1.json",
+      "origin": "scene-garden-1",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 43,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "6e609afb4a2e55f24ecc8f36f71fe57637caee0a51deffd739741a4f3c6e1374",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-garden-2",
+      "title": "Raízes profundas",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-garden-2.aseprite",
+      "png": "png/scenes/scene-garden-2.png",
+      "sheet": "sheets/scenes/scene-garden-2.png",
+      "metadata": "metadata/scenes/scene-garden-2.json",
+      "origin": "scene-garden-2",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "3be5c9d695a85d4e2c23fbd861aa48ac35c6738b0937dfdf2b0ae3abef8f6ea8",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-garden-3",
+      "title": "Coração da estufa · arena",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-garden-3.aseprite",
+      "png": "png/scenes/scene-garden-3.png",
+      "sheet": "sheets/scenes/scene-garden-3.png",
+      "metadata": "metadata/scenes/scene-garden-3.json",
+      "origin": "scene-garden-3",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 50,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "b13395e67d78ea15883285f9adb2eb318b33c8299d15eba229f999e212325395",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-scrap-1",
+      "title": "Primeiro sinal · entrada da forja",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-scrap-1.aseprite",
+      "png": "png/scenes/scene-scrap-1.png",
+      "sheet": "sheets/scenes/scene-scrap-1.png",
+      "metadata": "metadata/scenes/scene-scrap-1.json",
+      "origin": "scene-scrap-1",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 38,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "f94687c8861a479ed05cdef32bdd014086c37d3895a1a38e3e3ce1c79c9bcc93",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-scrap-2",
+      "title": "Ponte de cobre",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-scrap-2.aseprite",
+      "png": "png/scenes/scene-scrap-2.png",
+      "sheet": "sheets/scenes/scene-scrap-2.png",
+      "metadata": "metadata/scenes/scene-scrap-2.json",
+      "origin": "scene-scrap-2",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 49,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "f55f2b855688d91b9d48f97dc8ae4a9d079c6f9dc27fc90614a2cfa96ea5be83",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-scrap-3",
+      "title": "A última doca · arena",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-scrap-3.aseprite",
+      "png": "png/scenes/scene-scrap-3.png",
+      "sheet": "sheets/scenes/scene-scrap-3.png",
+      "metadata": "metadata/scenes/scene-scrap-3.json",
+      "origin": "scene-scrap-3",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "aaa108ac3acb6b1ebe070aaa43a193e5e4181ce49c64b94fbc114e82e5de44d1",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-storm-1",
+      "title": "Entre relâmpagos",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-storm-1.aseprite",
+      "png": "png/scenes/scene-storm-1.png",
+      "sheet": "sheets/scenes/scene-storm-1.png",
+      "metadata": "metadata/scenes/scene-storm-1.json",
+      "origin": "scene-storm-1",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 38,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "6648dd15d035161118fe294a989d481d6690351244f37fe2383f3ab5437663a7",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-storm-2",
+      "title": "Farol partido",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-storm-2.aseprite",
+      "png": "png/scenes/scene-storm-2.png",
+      "sheet": "sheets/scenes/scene-storm-2.png",
+      "metadata": "metadata/scenes/scene-storm-2.json",
+      "origin": "scene-storm-2",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 40,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "2db651f3f8098fb292ea8adeb4e275b95000b72d80df25f328ab15b3f8157a73",
+      "layerCount": 2
+    },
+    {
+      "id": "scene-storm-3",
+      "title": "Um novo horizonte · arena",
+      "category": "scenes",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/scenes/scene-storm-3.aseprite",
+      "png": "png/scenes/scene-storm-3.png",
+      "sheet": "sheets/scenes/scene-storm-3.png",
+      "metadata": "metadata/scenes/scene-storm-3.json",
+      "origin": "scene-storm-3",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 48,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "498c5f27097efff4b2938510f88b632d01d08f4a64d945d1e4f2a9c15b788529",
+      "layerCount": 2
+    },
+    {
+      "id": "station-background",
+      "title": "Estação Zero · base medieval",
+      "category": "station",
+      "width": 480,
+      "height": 160,
+      "frames": 1,
+      "aseprite": "aseprite/station/station-background.aseprite",
+      "png": "png/station/station-background.png",
+      "sheet": "sheets/station/station-background.png",
+      "metadata": "metadata/station/station-background.json",
+      "origin": "station-background",
+      "kind": "static",
+      "pivot": {
+        "x": 240,
+        "y": 80
+      },
+      "usedColors": 50,
+      "alphaBounds": [
+        0,
+        0,
+        480,
+        160
+      ],
+      "sha256": "bb6e56664472e7b6de70dabd80c820f5c0c2537bdc43a9ebb967ffde3198ee60",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-01",
+      "title": "Forja · piso",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-01.aseprite",
+      "png": "png/terrain/atlas-terrain-01.png",
+      "sheet": "sheets/terrain/atlas-terrain-01.png",
+      "metadata": "metadata/terrain/atlas-terrain-01.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 41,
+      "alphaBounds": [
+        4,
+        29,
+        92,
+        60
+      ],
+      "sha256": "b3e3ce7009469cce60e35524d29a1499aeccb18e8993fc27d7b5570ea2c1d8be",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-02",
+      "title": "Forja · borda esquerda",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-02.aseprite",
+      "png": "png/terrain/atlas-terrain-02.png",
+      "sheet": "sheets/terrain/atlas-terrain-02.png",
+      "metadata": "metadata/terrain/atlas-terrain-02.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 44,
+      "alphaBounds": [
+        9,
+        4,
+        86,
+        60
+      ],
+      "sha256": "e7d6ec4a656335ae7cd2f4dc38feaf98f1b440d207c050267ac3a005d5b4240b",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-03",
+      "title": "Forja · borda direita",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-03.aseprite",
+      "png": "png/terrain/atlas-terrain-03.png",
+      "sheet": "sheets/terrain/atlas-terrain-03.png",
+      "metadata": "metadata/terrain/atlas-terrain-03.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 43,
+      "alphaBounds": [
+        9,
+        4,
+        87,
+        60
+      ],
+      "sha256": "60d3711286c0b93837eef4464ece91b45770afc567fe529f0121193c1067465c",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-04",
+      "title": "Forja · escada",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-04.aseprite",
+      "png": "png/terrain/atlas-terrain-04.png",
+      "sheet": "sheets/terrain/atlas-terrain-04.png",
+      "metadata": "metadata/terrain/atlas-terrain-04.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 45,
+      "alphaBounds": [
+        4,
+        4,
+        91,
+        60
+      ],
+      "sha256": "ad2364eb28765059eb3b11cf645d7d983336bf28149339fb95f3c1f27f581bbf",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-05",
+      "title": "Forja · pilar",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-05.aseprite",
+      "png": "png/terrain/atlas-terrain-05.png",
+      "sheet": "sheets/terrain/atlas-terrain-05.png",
+      "metadata": "metadata/terrain/atlas-terrain-05.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 40,
+      "alphaBounds": [
+        28,
+        4,
+        67,
+        60
+      ],
+      "sha256": "401b67debf7278e91b57b156caeee474bac67ea74946dff35f081c0c75dbece1",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-06",
+      "title": "Forja · ruína",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-06.aseprite",
+      "png": "png/terrain/atlas-terrain-06.png",
+      "sheet": "sheets/terrain/atlas-terrain-06.png",
+      "metadata": "metadata/terrain/atlas-terrain-06.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 41,
+      "alphaBounds": [
+        4,
+        13,
+        92,
+        60
+      ],
+      "sha256": "efa891edd4e8455fd66ae7ca28b1610abfa28910e9d984b3ead454b14a207db1",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-07",
+      "title": "Jardim · piso",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-07.aseprite",
+      "png": "png/terrain/atlas-terrain-07.png",
+      "sheet": "sheets/terrain/atlas-terrain-07.png",
+      "metadata": "metadata/terrain/atlas-terrain-07.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 41,
+      "alphaBounds": [
+        4,
+        22,
+        92,
+        60
+      ],
+      "sha256": "4b0915a8906cc3f198fa034976f7fd92edf568353df8e165e7c9bbeb7748f726",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-08",
+      "title": "Jardim · borda esquerda",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-08.aseprite",
+      "png": "png/terrain/atlas-terrain-08.png",
+      "sheet": "sheets/terrain/atlas-terrain-08.png",
+      "metadata": "metadata/terrain/atlas-terrain-08.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 38,
+      "alphaBounds": [
+        16,
+        4,
+        80,
+        60
+      ],
+      "sha256": "3558a814cc29e94f6e14bd8ed1aba36144078081a6b6c025a3fbe32e6956a4bd",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-09",
+      "title": "Jardim · borda direita",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-09.aseprite",
+      "png": "png/terrain/atlas-terrain-09.png",
+      "sheet": "sheets/terrain/atlas-terrain-09.png",
+      "metadata": "metadata/terrain/atlas-terrain-09.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 38,
+      "alphaBounds": [
+        15,
+        4,
+        80,
+        60
+      ],
+      "sha256": "7344dac14f2e3945b713f083daeda441d82abfae809ffef279907457b7cef020",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-10",
+      "title": "Jardim · escada",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-10.aseprite",
+      "png": "png/terrain/atlas-terrain-10.png",
+      "sheet": "sheets/terrain/atlas-terrain-10.png",
+      "metadata": "metadata/terrain/atlas-terrain-10.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 40,
+      "alphaBounds": [
+        5,
+        5,
+        90,
+        60
+      ],
+      "sha256": "f7e651831455a2c97e16567942043836003d7e66c2f63c6b18d9e95f766af481",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-11",
+      "title": "Jardim · pilar",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-11.aseprite",
+      "png": "png/terrain/atlas-terrain-11.png",
+      "sheet": "sheets/terrain/atlas-terrain-11.png",
+      "metadata": "metadata/terrain/atlas-terrain-11.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 37,
+      "alphaBounds": [
+        29,
+        4,
+        66,
+        60
+      ],
+      "sha256": "b673f986db6b275224ddd7989e8fa41397973db8c68922b5a6889c507ce3756d",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-12",
+      "title": "Jardim · ruína",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-12.aseprite",
+      "png": "png/terrain/atlas-terrain-12.png",
+      "sheet": "sheets/terrain/atlas-terrain-12.png",
+      "metadata": "metadata/terrain/atlas-terrain-12.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 40,
+      "alphaBounds": [
+        4,
+        10,
+        92,
+        60
+      ],
+      "sha256": "b4771664ecc44ba3014a62d0107807ebda1c10bb222c35a91321592f468d16b8",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-13",
+      "title": "Torres · piso",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-13.aseprite",
+      "png": "png/terrain/atlas-terrain-13.png",
+      "sheet": "sheets/terrain/atlas-terrain-13.png",
+      "metadata": "metadata/terrain/atlas-terrain-13.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 26,
+      "alphaBounds": [
+        4,
+        29,
+        92,
+        60
+      ],
+      "sha256": "dfba44b5526ed78015e2e06b88e1f025444322b821965d4d748a8f571d2b30b7",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-14",
+      "title": "Torres · borda esquerda",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-14.aseprite",
+      "png": "png/terrain/atlas-terrain-14.png",
+      "sheet": "sheets/terrain/atlas-terrain-14.png",
+      "metadata": "metadata/terrain/atlas-terrain-14.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 28,
+      "alphaBounds": [
+        16,
+        4,
+        79,
+        60
+      ],
+      "sha256": "73525d9f87be1a8cc2254ba79bf2b0f4c264611302387d81f426911da42404c1",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-15",
+      "title": "Torres · borda direita",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-15.aseprite",
+      "png": "png/terrain/atlas-terrain-15.png",
+      "sheet": "sheets/terrain/atlas-terrain-15.png",
+      "metadata": "metadata/terrain/atlas-terrain-15.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 28,
+      "alphaBounds": [
+        15,
+        4,
+        80,
+        60
+      ],
+      "sha256": "83660bc4fe232fb7d0bb2456d01aa94bf1f9ecb103cc34c964a089aad7e92e7a",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-16",
+      "title": "Torres · escada",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-16.aseprite",
+      "png": "png/terrain/atlas-terrain-16.png",
+      "sheet": "sheets/terrain/atlas-terrain-16.png",
+      "metadata": "metadata/terrain/atlas-terrain-16.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 28,
+      "alphaBounds": [
+        4,
+        6,
+        92,
+        60
+      ],
+      "sha256": "489fb9fa57dd8570725bc122ded367ed5e8ee4957bf24b721913207a0bbd2d62",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-17",
+      "title": "Torres · pilar",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-17.aseprite",
+      "png": "png/terrain/atlas-terrain-17.png",
+      "sheet": "sheets/terrain/atlas-terrain-17.png",
+      "metadata": "metadata/terrain/atlas-terrain-17.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 27,
+      "alphaBounds": [
+        26,
+        4,
+        69,
+        60
+      ],
+      "sha256": "897be89dbdadc036a78c2287d22bd5e478bfe5bc0faabf6c982bdba4ccfcb4f1",
+      "layerCount": 2
+    },
+    {
+      "id": "atlas-terrain-18",
+      "title": "Torres · ruína",
+      "category": "terrain",
+      "width": 96,
+      "height": 64,
+      "frames": 1,
+      "aseprite": "aseprite/terrain/atlas-terrain-18.aseprite",
+      "png": "png/terrain/atlas-terrain-18.png",
+      "sheet": "sheets/terrain/atlas-terrain-18.png",
+      "metadata": "metadata/terrain/atlas-terrain-18.json",
+      "origin": "atlas-terrain",
+      "kind": "static",
+      "pivot": {
+        "x": 48,
+        "y": 32
+      },
+      "usedColors": 30,
+      "alphaBounds": [
+        4,
+        8,
+        92,
+        60
+      ],
+      "sha256": "8649192f405878a5e64c86b78dd99281d06281cb9f17e20dbcfd306a9a35542c",
+      "layerCount": 2
+    },
+    {
+      "id": "world-boss-09-azhor",
+      "title": "AZHOR · A Cidade que Devora Deuses",
+      "category": "world-boss",
+      "width": 384,
+      "height": 288,
+      "frames": 12,
+      "aseprite": "aseprite/world-boss/world-boss-09-azhor.aseprite",
+      "png": "png/world-boss/world-boss-09-azhor.png",
+      "sheet": "sheets/world-boss/world-boss-09-azhor.png",
+      "metadata": "metadata/world-boss/world-boss-09-azhor.json",
+      "origin": "world-boss-09-azhor",
+      "kind": "actor",
+      "pivot": {
+        "x": 192,
+        "y": 276
+      },
+      "usedColors": 61,
+      "alphaBounds": [
+        17,
+        13,
+        366,
+        276
+      ],
+      "distinctFrames": 7,
+      "sha256": "1c273f8f795e8a7f78f828184d3c4d3c8626034a1c44ae4204ef92d3d39535fa",
+      "layerCount": 2
+    }
+  ],
+  "notes": [
+    "AI bases; pixel processing and motion in Aseprite Lua",
+    "Idle/hit/burst are procedural motion studies",
+    "Articulated walk/attack and Godot integration pending"
+  ],
+  "verification": {
+    "asepriteFiles": 119,
+    "nativeIndexed": true,
+    "paletteEntries": 64,
+    "binaryAlpha": true,
+    "frames": 443,
+    "animatedActors": 24,
+    "animatedEffects": 12,
+    "gameIntegration": false,
+    "asepriteReopened": 119,
+    "firstFrameRoundtripMatches": 119,
+    "staticPostersMatch": 119
+  }
+}

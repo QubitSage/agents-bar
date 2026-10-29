@@ -1,0 +1,62 @@
+{
+  "actor": "hero-classic",
+  "aseprite": "aseprite/hero-classic--attack.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-classic--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-classic--attack.png",
+  "source": "sources/hero-classic--combat.png",
+  "state": "attack",
+  "title": "Cavaleiro clássico",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      52,
+      90,
+      138,
+      181
+    ],
+    [
+      36,
+      95,
+      162,
+      181
+    ],
+    [
+      35,
+      98,
+      161,
+      181
+    ],
+    [
+      52,
+      84,
+      131,
+      181
+    ]
+  ],
+  "sha256": "cd9e3e3dc8517ed70401085cfd672133b6030153f2605e1e668769729f24167f",
+  "gif": "previews/hero-classic--attack.gif"
+}

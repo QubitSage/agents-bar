@@ -1,0 +1,57 @@
+{
+  "actor": "environment-wild",
+  "aseprite": "aseprite/environment-wild--fireflies.aseprite",
+  "category": "environment-fx",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "environment-wild--fireflies",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 64,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/environment-wild--fireflies.png",
+  "source": "sources/environment--wild.png",
+  "state": "fireflies",
+  "title": "Ambiente · jardim e tempestade",
+  "width": 128,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      26,
+      26,
+      102,
+      102
+    ],
+    [
+      30,
+      31,
+      104,
+      103
+    ],
+    [
+      35,
+      25,
+      105,
+      106
+    ],
+    [
+      25,
+      31,
+      105,
+      99
+    ]
+  ],
+  "sha256": "4b13c9c1a8faf079c76814e0797f6e354f522b1c014cc07a88adc3c00802fb92",
+  "gif": "previews/environment-wild--fireflies.gif"
+}

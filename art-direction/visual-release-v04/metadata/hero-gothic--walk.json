@@ -1,0 +1,57 @@
+{
+  "actor": "hero-gothic",
+  "aseprite": "aseprite/hero-gothic--walk.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-gothic--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-gothic--walk.png",
+  "source": "sources/hero-gothic--motion.png",
+  "state": "walk",
+  "title": "Cavaleiro sombrio",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      83,
+      137,
+      181
+    ],
+    [
+      69,
+      85,
+      137,
+      181
+    ],
+    [
+      62,
+      84,
+      133,
+      181
+    ],
+    [
+      65,
+      84,
+      134,
+      181
+    ]
+  ],
+  "sha256": "2a98a57ce08e10d2139701f6e6c5bfd6d35a3a1abf9f14ce3eefa471be6b1cd8",
+  "gif": "previews/hero-gothic--walk.gif"
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "effects-steel",
+  "aseprite": "aseprite/effects-steel--damage.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-steel--damage",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-steel--damage.png",
+  "source": "sources/effects--steel.png",
+  "state": "damage",
+  "title": "Combate · aço",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      35,
+      27,
+      68,
+      57
+    ],
+    [
+      23,
+      22,
+      81,
+      68
+    ],
+    [
+      22,
+      24,
+      82,
+      69
+    ],
+    [
+      32,
+      28,
+      59,
+      62
+    ]
+  ],
+  "sha256": "bf59ffd1ee5099d58cf389055a22e04e5474316974c968be93aedf5fe769dec0",
+  "gif": "previews/effects-steel--damage.gif"
+}

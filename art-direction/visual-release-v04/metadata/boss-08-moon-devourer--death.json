@@ -1,0 +1,62 @@
+{
+  "actor": "boss-08-moon-devourer",
+  "aseprite": "aseprite/boss-08-moon-devourer--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-08-moon-devourer--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-08-moon-devourer--death.png",
+  "source": "sources/boss-08-moon-devourer--motion.png",
+  "state": "death",
+  "title": "Devorador de Luas",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      126,
+      236,
+      271
+    ],
+    [
+      72,
+      135,
+      228,
+      271
+    ],
+    [
+      57,
+      181,
+      234,
+      271
+    ],
+    [
+      56,
+      208,
+      231,
+      271
+    ]
+  ],
+  "sha256": "1ea3a58d5698f781f8f2c8642b9be7d552b235a77b25625cc654e909f1b64631",
+  "gif": "previews/boss-08-moon-devourer--death.gif"
+}

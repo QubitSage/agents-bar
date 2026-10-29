@@ -1,0 +1,62 @@
+{
+  "actor": "boss-rebocador",
+  "aseprite": "aseprite/boss-rebocador--attack.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 304,
+  "id": "boss-rebocador--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 285
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-rebocador--attack.png",
+  "source": "sources/boss-rebocador--combat.png",
+  "state": "attack",
+  "title": "Rebocador",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      67,
+      78,
+      241,
+      286
+    ],
+    [
+      73,
+      41,
+      220,
+      286
+    ],
+    [
+      33,
+      102,
+      262,
+      286
+    ],
+    [
+      36,
+      125,
+      240,
+      286
+    ]
+  ],
+  "sha256": "22eb08f29fcff733952e3938af5b1013c9bdd7af8405027abed7836f5088e6bf",
+  "gif": "previews/boss-rebocador--attack.gif"
+}

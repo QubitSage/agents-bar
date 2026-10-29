@@ -1,0 +1,67 @@
+{
+  "actor": "ui-control-play",
+  "aseprite": "aseprite/ui-control-play.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 40,
+  "id": "ui-control-play",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": false,
+  "preview": "static/ui-control-play.png",
+  "rows": 1,
+  "sheet": "sheets/ui-control-play.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Reproduzir",
+  "width": 40,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ]
+  ],
+  "sha256": "730e23e85d69e512360059217060952bf7fa900a3b4e34c4406aebbbf29822a6",
+  "events": []
+}

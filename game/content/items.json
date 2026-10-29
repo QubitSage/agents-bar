@@ -1,0 +1,331 @@
+{
+  "version": 1,
+  "items": {
+    "weapons-01": {
+      "name": "Espada da Vanguarda",
+      "icon": "res://assets/items/48/weapons-01.png",
+      "kind": "weapon",
+      "description": "Equipamento de classe. Seus bônus somam ao treino e ao aprimoramento da arma.",
+      "slot": "weapon",
+      "heroes": [
+        "io"
+      ],
+      "stats": {},
+      "requires": "",
+      "cost": {
+        "scrap": 0,
+        "cores": 0,
+        "seeds": 0
+      }
+    },
+    "weapons-02": {
+      "name": "Machado de Brasa",
+      "icon": "res://assets/items/48/weapons-02.png",
+      "kind": "weapon",
+      "description": "Equipamento de classe. Seus bônus somam ao treino e ao aprimoramento da arma.",
+      "slot": "weapon",
+      "heroes": [
+        "brasa"
+      ],
+      "stats": {
+        "attack": 3
+      },
+      "requires": "scrap-3",
+      "cost": {
+        "scrap": 36,
+        "cores": 2,
+        "seeds": 0
+      }
+    },
+    "weapons-03": {
+      "name": "Martelo da Forja",
+      "icon": "res://assets/items/48/weapons-03.png",
+      "kind": "weapon",
+      "description": "Equipamento de classe. Seus bônus somam ao treino e ao aprimoramento da arma.",
+      "slot": "weapon",
+      "heroes": [
+        "brasa"
+      ],
+      "stats": {},
+      "requires": "",
+      "cost": {
+        "scrap": 0,
+        "cores": 0,
+        "seeds": 0
+      }
+    },
+    "weapons-04": {
+      "name": "Arco do Vigia",
+      "icon": "res://assets/items/48/weapons-04.png",
+      "kind": "weapon",
+      "description": "Equipamento de classe. Seus bônus somam ao treino e ao aprimoramento da arma.",
+      "slot": "weapon",
+      "heroes": [
+        "luma"
+      ],
+      "stats": {
+        "attack": 2,
+        "speed": 1
+      },
+      "requires": "garden-3",
+      "cost": {
+        "scrap": 44,
+        "cores": 2,
+        "seeds": 4
+      }
+    },
+    "weapons-05": {
+      "name": "Cajado de Luma",
+      "icon": "res://assets/items/48/weapons-05.png",
+      "kind": "weapon",
+      "description": "Equipamento de classe. Seus bônus somam ao treino e ao aprimoramento da arma.",
+      "slot": "weapon",
+      "heroes": [
+        "luma"
+      ],
+      "stats": {},
+      "requires": "",
+      "cost": {
+        "scrap": 0,
+        "cores": 0,
+        "seeds": 0
+      }
+    },
+    "weapons-06": {
+      "name": "Lança da Tempestade",
+      "icon": "res://assets/items/48/weapons-06.png",
+      "kind": "weapon",
+      "description": "Equipamento de classe. Seus bônus somam ao treino e ao aprimoramento da arma.",
+      "slot": "weapon",
+      "heroes": [
+        "io"
+      ],
+      "stats": {
+        "attack": 2,
+        "armor": 1
+      },
+      "requires": "storm-2",
+      "cost": {
+        "scrap": 56,
+        "cores": 2,
+        "seeds": 0
+      }
+    },
+    "armor-01": {
+      "name": "Elmo da Fortaleza",
+      "icon": "res://assets/items/48/armor-01.png",
+      "kind": "armor",
+      "description": "Uma peça única. Pode ser transferida entre heróis quando a equipe estiver na estação.",
+      "slot": "helmet",
+      "heroes": [
+        "io",
+        "brasa",
+        "luma"
+      ],
+      "stats": {
+        "armor": 1
+      },
+      "requires": "scrap-1",
+      "cost": {
+        "scrap": 16,
+        "cores": 0,
+        "seeds": 0
+      }
+    },
+    "armor-02": {
+      "name": "Peitoral da Vanguarda",
+      "icon": "res://assets/items/48/armor-02.png",
+      "kind": "armor",
+      "description": "Uma peça única. Pode ser transferida entre heróis quando a equipe estiver na estação.",
+      "slot": "chest",
+      "heroes": [
+        "io",
+        "brasa",
+        "luma"
+      ],
+      "stats": {
+        "hp": 12
+      },
+      "requires": "scrap-2",
+      "cost": {
+        "scrap": 24,
+        "cores": 1,
+        "seeds": 0
+      }
+    },
+    "armor-03": {
+      "name": "Manoplas de Aço",
+      "icon": "res://assets/items/48/armor-03.png",
+      "kind": "armor",
+      "description": "Uma peça única. Pode ser transferida entre heróis quando a equipe estiver na estação.",
+      "slot": "gloves",
+      "heroes": [
+        "io",
+        "brasa",
+        "luma"
+      ],
+      "stats": {
+        "attack": 1
+      },
+      "requires": "garden-1",
+      "cost": {
+        "scrap": 20,
+        "cores": 0,
+        "seeds": 0
+      }
+    },
+    "armor-04": {
+      "name": "Grevas da Guarda",
+      "icon": "res://assets/items/48/armor-04.png",
+      "kind": "armor",
+      "description": "Uma peça única. Pode ser transferida entre heróis quando a equipe estiver na estação.",
+      "slot": "boots",
+      "heroes": [
+        "io",
+        "brasa",
+        "luma"
+      ],
+      "stats": {
+        "speed": 1
+      },
+      "requires": "garden-2",
+      "cost": {
+        "scrap": 24,
+        "cores": 0,
+        "seeds": 2
+      }
+    },
+    "armor-05": {
+      "name": "Escudo do Juramento",
+      "icon": "res://assets/items/48/armor-05.png",
+      "kind": "armor",
+      "description": "Uma peça única. Pode ser transferida entre heróis quando a equipe estiver na estação.",
+      "slot": "shield",
+      "heroes": [
+        "io",
+        "brasa",
+        "luma"
+      ],
+      "stats": {
+        "armor": 1
+      },
+      "requires": "scrap-3",
+      "cost": {
+        "scrap": 30,
+        "cores": 1,
+        "seeds": 0
+      }
+    },
+    "armor-06": {
+      "name": "Manto da Fortaleza",
+      "icon": "res://assets/items/48/armor-06.png",
+      "kind": "armor",
+      "description": "Uma peça única. Pode ser transferida entre heróis quando a equipe estiver na estação.",
+      "slot": "cape",
+      "heroes": [
+        "io",
+        "brasa",
+        "luma"
+      ],
+      "stats": {
+        "hp": 8
+      },
+      "requires": "storm-1",
+      "cost": {
+        "scrap": 32,
+        "cores": 1,
+        "seeds": 2
+      }
+    },
+    "relics-01": {
+      "name": "Lente de precisão",
+      "icon": "res://assets/items/48/relics-01.png",
+      "kind": "relic",
+      "description": "",
+      "relic_id": "lens"
+    },
+    "relics-02": {
+      "name": "Placa do Rebocador",
+      "icon": "res://assets/items/48/relics-02.png",
+      "kind": "relic",
+      "description": "",
+      "relic_id": "plate"
+    },
+    "relics-03": {
+      "name": "Semente luminosa",
+      "icon": "res://assets/items/48/relics-03.png",
+      "kind": "relic",
+      "description": "",
+      "relic_id": "seed"
+    },
+    "relics-04": {
+      "name": "Broto ancestral",
+      "icon": "res://assets/items/48/relics-04.png",
+      "kind": "relic",
+      "description": "",
+      "relic_id": "bloom"
+    },
+    "relics-05": {
+      "name": "Bobina de tempestade",
+      "icon": "res://assets/items/48/relics-05.png",
+      "kind": "relic",
+      "description": "",
+      "relic_id": "coil"
+    },
+    "relics-06": {
+      "name": "Fragmento do farol",
+      "icon": "res://assets/items/48/relics-06.png",
+      "kind": "relic",
+      "description": "",
+      "relic_id": "beacon"
+    },
+    "materials-01": {
+      "name": "Sucata",
+      "icon": "res://assets/items/48/materials-01.png",
+      "kind": "material",
+      "description": "Recurso da estação.",
+      "resource_id": "scrap",
+      "release_use": "currency"
+    },
+    "materials-02": {
+      "name": "Núcleo de energia",
+      "icon": "res://assets/items/48/materials-02.png",
+      "kind": "material",
+      "description": "Recurso da estação.",
+      "resource_id": "cores",
+      "release_use": "currency"
+    },
+    "materials-03": {
+      "name": "Sementes",
+      "icon": "res://assets/items/48/materials-03.png",
+      "kind": "material",
+      "description": "Recurso da estação.",
+      "resource_id": "seeds",
+      "release_use": "currency"
+    },
+    "materials-04": {
+      "name": "Lingotes de aço",
+      "icon": "res://assets/items/48/materials-04.png",
+      "kind": "material",
+      "description": "Arte reservada para conteúdo futuro; sem receita nesta versão.",
+      "resource_id": "",
+      "release_use": "reserved-art"
+    },
+    "materials-05": {
+      "name": "Cristais de tempestade",
+      "icon": "res://assets/items/48/materials-05.png",
+      "kind": "material",
+      "description": "Arte reservada para conteúdo futuro; sem receita nesta versão.",
+      "resource_id": "",
+      "release_use": "reserved-art"
+    },
+    "materials-06": {
+      "name": "Fibra ancestral",
+      "icon": "res://assets/items/48/materials-06.png",
+      "kind": "material",
+      "description": "Arte reservada para conteúdo futuro; sem receita nesta versão.",
+      "resource_id": "",
+      "release_use": "reserved-art"
+    }
+  }
+}

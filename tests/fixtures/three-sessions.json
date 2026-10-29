@@ -1,0 +1,15 @@
+{
+  "bindings": [
+    {"provider":"codex","sessionId":"demo-io","project":"Oficina"},
+    {"provider":"codex","sessionId":"demo-brasa","project":"Exploracao"},
+    {"provider":"codex","sessionId":"demo-luma","project":"Estufa"}
+  ],
+  "events": [
+    {"eventId":"io-start","provider":"codex","sessionId":"demo-io","turnId":"turn-io","type":"started","at":100},
+    {"eventId":"brasa-start","provider":"codex","sessionId":"demo-brasa","turnId":"turn-brasa","type":"started","at":100},
+    {"eventId":"luma-start","provider":"codex","sessionId":"demo-luma","turnId":"turn-luma","type":"started","at":100},
+    {"eventId":"io-tool","provider":"codex","sessionId":"demo-io","turnId":"turn-io","type":"activity","activity":"tool","at":101},
+    {"eventId":"brasa-wait","provider":"codex","sessionId":"demo-brasa","turnId":"turn-brasa","type":"waiting","at":102},
+    {"eventId":"luma-done","provider":"codex","sessionId":"demo-luma","turnId":"turn-luma","type":"completed","at":103}
+  ]
+}

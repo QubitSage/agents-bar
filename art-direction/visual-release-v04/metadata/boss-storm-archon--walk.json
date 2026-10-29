@@ -1,0 +1,57 @@
+{
+  "actor": "boss-storm-archon",
+  "aseprite": "aseprite/boss-storm-archon--walk.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-storm-archon--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-storm-archon--walk.png",
+  "source": "sources/boss-storm-archon--motion.png",
+  "state": "walk",
+  "title": "Arconte da Tempestade",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      62,
+      105,
+      242,
+      271
+    ],
+    [
+      61,
+      101,
+      236,
+      271
+    ],
+    [
+      58,
+      111,
+      235,
+      271
+    ],
+    [
+      66,
+      101,
+      229,
+      271
+    ]
+  ],
+  "sha256": "4a0c33710c6393ff0d863b116dcbea29d543b8525a68e3ecd6e93e5b13f21a57",
+  "gif": "previews/boss-storm-archon--walk.gif"
+}

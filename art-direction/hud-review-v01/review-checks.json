@@ -1,0 +1,223 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "v": "a",
+      "s": "hero",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "inventory",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "forge",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "map",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "station",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "agents",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "history",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "journal",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "settings",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "pro",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "boss",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "a",
+      "s": "compact",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "hero",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "inventory",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "forge",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "map",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "station",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "agents",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "history",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "journal",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "settings",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "pro",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "boss",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "b",
+      "s": "compact",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "hero",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "inventory",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "forge",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "map",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "station",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "agents",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "history",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "journal",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "settings",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "pro",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "boss",
+      "overflow": [],
+      "broken": []
+    },
+    {
+      "v": "c",
+      "s": "compact",
+      "overflow": [],
+      "broken": []
+    }
+  ],
+  "navigated": "Aprimorar armaOFICINA NÍVEL 2",
+  "compactCount": 3
+}

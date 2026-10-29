@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-sentinel",
+  "aseprite": "aseprite/enemy-storm-sentinel--idle.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-sentinel--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-sentinel--idle.png",
+  "source": "sources/enemy-storm-sentinel--motion.png",
+  "state": "idle",
+  "title": "Sentinela da tempestade",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      49,
+      85,
+      156,
+      181
+    ],
+    [
+      46,
+      81,
+      155,
+      181
+    ],
+    [
+      46,
+      86,
+      159,
+      181
+    ],
+    [
+      46,
+      84,
+      152,
+      181
+    ]
+  ],
+  "sha256": "83dd179a89c072b189c771c0a66fe6a18a245b6100e50e79d68aca8a0f72768a",
+  "gif": "previews/enemy-storm-sentinel--idle.gif"
+}

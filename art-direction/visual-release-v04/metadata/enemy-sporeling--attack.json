@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-sporeling",
+  "aseprite": "aseprite/enemy-sporeling--attack.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-sporeling--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-sporeling--attack.png",
+  "source": "sources/enemy-sporeling--combat.png",
+  "state": "attack",
+  "title": "Esporídeo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      72,
+      118,
+      139,
+      181
+    ],
+    [
+      67,
+      111,
+      130,
+      181
+    ],
+    [
+      42,
+      108,
+      149,
+      181
+    ],
+    [
+      56,
+      117,
+      123,
+      181
+    ]
+  ],
+  "sha256": "69e359a96433d931b9182fceeedc1619c96499944eb23b7e0b60a0811824c837",
+  "gif": "previews/enemy-sporeling--attack.gif"
+}

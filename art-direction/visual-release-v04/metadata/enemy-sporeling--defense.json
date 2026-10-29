@@ -1,0 +1,66 @@
+{
+  "actor": "enemy-sporeling",
+  "aseprite": "aseprite/enemy-sporeling--defense.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-sporeling--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-sporeling--defense.png",
+  "source": "sources/enemy-sporeling--combat.png",
+  "state": "defense",
+  "title": "Esporídeo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      69,
+      113,
+      136,
+      181
+    ],
+    [
+      64,
+      122,
+      130,
+      181
+    ],
+    [
+      61,
+      120,
+      128,
+      181
+    ],
+    [
+      61,
+      110,
+      126,
+      181
+    ]
+  ],
+  "sha256": "49f5503a7159ebfd980dcfbeab12daae098bb17720da48c9f17ba7c4a61ca335",
+  "gif": "previews/enemy-sporeling--defense.gif"
+}

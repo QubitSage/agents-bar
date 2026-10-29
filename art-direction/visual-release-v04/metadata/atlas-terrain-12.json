@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-12",
+  "actor": "atlas-terrain-12",
+  "title": "Jardim · Ruína",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-12.png",
+  "aseprite": "aseprite/atlas-terrain-12.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      10,
+      92,
+      60
+    ]
+  ],
+  "sha256": "b4771664ecc44ba3014a62d0107807ebda1c10bb222c35a91321592f468d16b8",
+  "events": []
+}

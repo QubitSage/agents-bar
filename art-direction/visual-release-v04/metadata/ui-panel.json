@@ -1,0 +1,72 @@
+{
+  "actor": "ui-panel",
+  "aseprite": "aseprite/ui-panel.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 144,
+  "id": "ui-panel",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 10,
+    "left": 10,
+    "right": 10,
+    "top": 10
+  },
+  "preview": "static/ui-panel.png",
+  "rows": 1,
+  "sheet": "sheets/ui-panel.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Painel",
+  "width": 256,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      255,
+      143
+    ],
+    [
+      1,
+      1,
+      255,
+      143
+    ],
+    [
+      1,
+      1,
+      255,
+      143
+    ],
+    [
+      1,
+      1,
+      255,
+      143
+    ],
+    [
+      1,
+      1,
+      255,
+      143
+    ]
+  ],
+  "sha256": "75d7e42e0fd1631d3a9ed26a259e6ffc823d0af9419c53c4a623dacc43bf1237",
+  "events": []
+}

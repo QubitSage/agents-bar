@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-sentinel",
+  "aseprite": "aseprite/enemy-storm-sentinel--walk.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-sentinel--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-sentinel--walk.png",
+  "source": "sources/enemy-storm-sentinel--motion.png",
+  "state": "walk",
+  "title": "Sentinela da tempestade",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      49,
+      77,
+      158,
+      181
+    ],
+    [
+      49,
+      76,
+      158,
+      181
+    ],
+    [
+      46,
+      81,
+      159,
+      181
+    ],
+    [
+      46,
+      76,
+      153,
+      181
+    ]
+  ],
+  "sha256": "95c7525f5a44480bd1046eb6a45cbe7ac9f372bc2e5795dbbdb71a8ad288da16",
+  "gif": "previews/enemy-storm-sentinel--walk.gif"
+}

@@ -1,0 +1,62 @@
+{
+  "actor": "boss-04-furnace-executioner",
+  "aseprite": "aseprite/boss-04-furnace-executioner--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-04-furnace-executioner--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-04-furnace-executioner--death.png",
+  "source": "sources/boss-04-furnace-executioner--motion.png",
+  "state": "death",
+  "title": "Carrasco das Mil Forjas",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      58,
+      112,
+      240,
+      271
+    ],
+    [
+      45,
+      134,
+      245,
+      271
+    ],
+    [
+      31,
+      173,
+      251,
+      271
+    ],
+    [
+      29,
+      202,
+      243,
+      271
+    ]
+  ],
+  "sha256": "f951f99dc5ed1186efa6c0c4559594428785e89d0bed9c7b11ccc7e64a93a8a4",
+  "gif": "previews/boss-04-furnace-executioner--death.gif"
+}

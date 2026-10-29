@@ -1,0 +1,62 @@
+{
+  "actor": "companion-brasa",
+  "aseprite": "aseprite/companion-brasa--death.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-brasa--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-brasa--death.png",
+  "source": "sources/companion-brasa--motion.png",
+  "state": "death",
+  "title": "Brasa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      49,
+      93,
+      159,
+      181
+    ],
+    [
+      55,
+      108,
+      152,
+      181
+    ],
+    [
+      41,
+      131,
+      149,
+      181
+    ],
+    [
+      34,
+      139,
+      154,
+      181
+    ]
+  ],
+  "sha256": "42a5175d8ed614cea8f42f0fc6b390528a4e438980da1895966a69c81f13d33b",
+  "gif": "previews/companion-brasa--death.gif"
+}

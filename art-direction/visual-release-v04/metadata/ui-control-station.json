@@ -1,0 +1,67 @@
+{
+  "actor": "ui-control-station",
+  "aseprite": "aseprite/ui-control-station.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 40,
+  "id": "ui-control-station",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": false,
+  "preview": "static/ui-control-station.png",
+  "rows": 1,
+  "sheet": "sheets/ui-control-station.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Estação",
+  "width": 40,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ]
+  ],
+  "sha256": "452df1d1a085243462aff6de808a501678e246ddb902c51f9a60209376961126",
+  "events": []
+}

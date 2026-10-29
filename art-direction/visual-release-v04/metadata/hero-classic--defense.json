@@ -1,0 +1,66 @@
+{
+  "actor": "hero-classic",
+  "aseprite": "aseprite/hero-classic--defense.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-classic--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-classic--defense.png",
+  "source": "sources/hero-classic--combat.png",
+  "state": "defense",
+  "title": "Cavaleiro clássico",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      60,
+      88,
+      142,
+      181
+    ],
+    [
+      51,
+      101,
+      131,
+      181
+    ],
+    [
+      45,
+      95,
+      143,
+      181
+    ],
+    [
+      59,
+      88,
+      142,
+      181
+    ]
+  ],
+  "sha256": "20402152fd558fd0acc53360b00ea935b1a11980062bd18da9ff2611fd0272d6",
+  "gif": "previews/hero-classic--defense.gif"
+}

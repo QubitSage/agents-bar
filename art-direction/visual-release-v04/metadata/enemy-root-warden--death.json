@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-root-warden",
+  "aseprite": "aseprite/enemy-root-warden--death.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-root-warden--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-root-warden--death.png",
+  "source": "sources/enemy-root-warden--motion.png",
+  "state": "death",
+  "title": "Guardião de raízes",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      56,
+      91,
+      135,
+      181
+    ],
+    [
+      59,
+      110,
+      148,
+      181
+    ],
+    [
+      43,
+      132,
+      147,
+      181
+    ],
+    [
+      40,
+      146,
+      145,
+      181
+    ]
+  ],
+  "sha256": "22e2f044c313f1a409be4dac912de608f31f8317d160d45ed75368b5539a02a7",
+  "gif": "previews/enemy-root-warden--death.gif"
+}

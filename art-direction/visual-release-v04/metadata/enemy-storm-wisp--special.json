@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-storm-wisp",
+  "aseprite": "aseprite/enemy-storm-wisp--special.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    260,
+    190,
+    160,
+    300
+  ],
+  "events": [
+    {
+      "frame": 3,
+      "name": "visual_release"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-wisp--special",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-wisp--special.png",
+  "source": "sources/enemy-storm-wisp--combat.png",
+  "state": "special",
+  "title": "Centelha",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      55,
+      128,
+      139,
+      181
+    ],
+    [
+      55,
+      101,
+      141,
+      181
+    ],
+    [
+      39,
+      82,
+      154,
+      181
+    ],
+    [
+      56,
+      117,
+      142,
+      181
+    ]
+  ],
+  "sha256": "ff9c636cb3e58b403be1a63fbb460c1e96b30f5349cc6ab983c292d45092ac2a",
+  "gif": "previews/enemy-storm-wisp--special.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-01",
+  "actor": "atlas-relics-01",
+  "title": "Lente de análise",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-01.png",
+  "aseprite": "aseprite/atlas-relics-01.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      5,
+      44,
+      44
+    ]
+  ],
+  "sha256": "d6e2c6afddcc03db066598fd15dd7ab3ad2f29b80e6fad3900bede74dafe56e0",
+  "events": []
+}

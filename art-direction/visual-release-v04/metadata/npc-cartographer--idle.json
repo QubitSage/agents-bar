@@ -1,0 +1,57 @@
+{
+  "actor": "npc-cartographer",
+  "aseprite": "aseprite/npc-cartographer--idle.aseprite",
+  "category": "npcs",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "npc-cartographer--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/npc-cartographer--idle.png",
+  "source": "sources/npc-cartographer--daily.png",
+  "state": "idle",
+  "title": "Cartógrafo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      68,
+      85,
+      145,
+      181
+    ],
+    [
+      63,
+      83,
+      140,
+      181
+    ],
+    [
+      58,
+      85,
+      135,
+      181
+    ],
+    [
+      61,
+      84,
+      138,
+      181
+    ]
+  ],
+  "sha256": "a0949e98f406d4147262f74fdcc6ddec9196e20f37d37480fb3cea4492a2157d",
+  "gif": "previews/npc-cartographer--idle.gif"
+}

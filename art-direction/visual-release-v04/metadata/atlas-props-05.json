@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-05",
+  "actor": "atlas-props-05",
+  "title": "Lanterna",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-05.png",
+  "aseprite": "aseprite/atlas-props-05.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      17,
+      4,
+      46,
+      60
+    ]
+  ],
+  "sha256": "fa2181579259440c4dda6b7952d830987e5f6641831e5b587fe63363014da5ed",
+  "events": []
+}

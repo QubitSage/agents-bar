@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-copper-crab",
+  "aseprite": "aseprite/enemy-copper-crab--victory.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-copper-crab--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 104,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-copper-crab--victory.png",
+  "source": "sources/enemy-copper-crab--combat.png",
+  "state": "victory",
+  "title": "Caranguejo de cobre",
+  "width": 208,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      49,
+      123,
+      165,
+      181
+    ],
+    [
+      52,
+      84,
+      167,
+      181
+    ],
+    [
+      39,
+      85,
+      164,
+      181
+    ],
+    [
+      47,
+      101,
+      165,
+      181
+    ]
+  ],
+  "sha256": "118d7e84146d867acbc364e0b4deceac2aa4e5c5f40b137b79d2fa9053a0288e",
+  "gif": "previews/enemy-copper-crab--victory.gif"
+}

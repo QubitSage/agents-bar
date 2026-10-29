@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-sporeling",
+  "aseprite": "aseprite/enemy-sporeling--walk.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-sporeling--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-sporeling--walk.png",
+  "source": "sources/enemy-sporeling--motion.png",
+  "state": "walk",
+  "title": "Esporídeo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      62,
+      109,
+      134,
+      181
+    ],
+    [
+      64,
+      107,
+      136,
+      181
+    ],
+    [
+      61,
+      109,
+      133,
+      181
+    ],
+    [
+      59,
+      107,
+      129,
+      181
+    ]
+  ],
+  "sha256": "e962564521d7178602b651e2ec9f74d6077a08d430637c2fa5299849b510b601",
+  "gif": "previews/enemy-sporeling--walk.gif"
+}

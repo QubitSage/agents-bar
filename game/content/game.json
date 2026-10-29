@@ -1,0 +1,558 @@
+{
+  "version": 1,
+  "characters": [
+    {
+      "id": "io",
+      "name": "Cavaleiro",
+      "role": "Vanguarda",
+      "asset": "io-explorer",
+      "description": "Avança com espada e escudo. A cada três rodadas, prepara uma defesa.",
+      "hp": 150,
+      "attack": 22,
+      "armor": 3,
+      "speed": 3,
+      "skill": "shield",
+      "skill_name": "Guarda de aço"
+    },
+    {
+      "id": "brasa",
+      "name": "Brasa",
+      "role": "Guardião",
+      "asset": "brasa-mechanic",
+      "description": "Atrai ataques e ergue um escudo para resistir.",
+      "hp": 122,
+      "attack": 11,
+      "armor": 4,
+      "speed": 1,
+      "skill": "shield",
+      "skill_name": "Placa de proteção"
+    },
+    {
+      "id": "luma",
+      "name": "Luma",
+      "role": "Botânica",
+      "asset": "luma-botanist",
+      "description": "Recupera o aliado mais ferido a cada três rodadas.",
+      "hp": 88,
+      "attack": 9,
+      "armor": 2,
+      "speed": 2,
+      "skill": "heal",
+      "skill_name": "Broto restaurador"
+    }
+  ],
+  "maps": [
+    {
+      "id": "scrap",
+      "name": "Forja nas Nuvens",
+      "subtitle": "Recupere o núcleo protegido pelo Rebocador.",
+      "color": "#B96843",
+      "asset": "map-scrap",
+      "unlock": "",
+      "description": "Ilhas industriais suspensas, cabos partidos e drones sem orientação."
+    },
+    {
+      "id": "garden",
+      "name": "Jardins de Vidro",
+      "subtitle": "Recupere o coração da estufa.",
+      "color": "#6C8454",
+      "asset": "map-garden",
+      "unlock": "scrap-3",
+      "description": "Cúpulas tomadas por raízes e máquinas que confundem cuidado com defesa."
+    },
+    {
+      "id": "storm",
+      "name": "Cinturão de Tempestade",
+      "subtitle": "Reative o farol acima das nuvens.",
+      "color": "#75989B",
+      "asset": "map-storm",
+      "unlock": "garden-3",
+      "description": "Torres eletromagnéticas, ventos fortes e sentinelas carregadas de energia."
+    }
+  ],
+  "enemies": [
+    {
+      "id": "scrap-drone",
+      "name": "Vigia de Latão",
+      "hp": 32,
+      "attack": 6,
+      "armor": 0,
+      "speed": 2,
+      "skill": "none",
+      "asset": "enemy-drone",
+      "color": "#DC8B4E",
+      "shape": "drone"
+    },
+    {
+      "id": "scrap-crab",
+      "name": "Caranguejo de cobre",
+      "hp": 46,
+      "attack": 8,
+      "armor": 2,
+      "speed": 1,
+      "skill": "none",
+      "asset": "enemy-crab",
+      "color": "#B96843",
+      "shape": "crab"
+    },
+    {
+      "id": "scrap-boss",
+      "name": "O Rebocador",
+      "hp": 138,
+      "attack": 13,
+      "armor": 3,
+      "speed": 1,
+      "skill": "burst",
+      "asset": "enemy-rebo",
+      "color": "#B96843",
+      "shape": "boss",
+      "boss": true
+    },
+    {
+      "id": "garden-spore",
+      "name": "Esporo sentinela",
+      "hp": 52,
+      "attack": 9,
+      "armor": 1,
+      "speed": 2,
+      "skill": "poison",
+      "asset": "enemy-spore",
+      "color": "#A7B874",
+      "shape": "spore"
+    },
+    {
+      "id": "garden-vine",
+      "name": "Guardião de raízes",
+      "hp": 76,
+      "attack": 11,
+      "armor": 3,
+      "speed": 1,
+      "skill": "heal",
+      "asset": "enemy-vine",
+      "color": "#6C8454",
+      "shape": "vine"
+    },
+    {
+      "id": "garden-boss",
+      "name": "Coração Silvestre",
+      "hp": 198,
+      "attack": 16,
+      "armor": 4,
+      "speed": 1,
+      "skill": "heal",
+      "asset": "enemy-heart",
+      "color": "#6C8454",
+      "shape": "boss",
+      "boss": true
+    },
+    {
+      "id": "storm-spark",
+      "name": "Faísca errante",
+      "hp": 72,
+      "attack": 13,
+      "armor": 1,
+      "speed": 3,
+      "skill": "burst",
+      "asset": "enemy-spark",
+      "color": "#86C9B2",
+      "shape": "spark"
+    },
+    {
+      "id": "storm-warden",
+      "name": "Vigia de cristal",
+      "hp": 104,
+      "attack": 14,
+      "armor": 5,
+      "speed": 2,
+      "skill": "none",
+      "asset": "enemy-warden",
+      "color": "#75989B",
+      "shape": "warden"
+    },
+    {
+      "id": "storm-boss",
+      "name": "Arconte da Tempestade",
+      "hp": 288,
+      "attack": 20,
+      "armor": 5,
+      "speed": 2,
+      "skill": "burst",
+      "asset": "enemy-archon",
+      "color": "#86C9B2",
+      "shape": "boss",
+      "boss": true
+    },
+    {
+      "id": "azhor",
+      "name": "AZHOR",
+      "hp": 900,
+      "attack": 22,
+      "armor": 5,
+      "speed": 2,
+      "skill": "azhor",
+      "asset": "v04/sheets/world-boss-09-azhor--idle",
+      "visual": "world-boss-09-azhor",
+      "color": "#DAAF57",
+      "shape": "world-boss",
+      "faces_left": true,
+      "render_scale": 0.46
+    }
+  ],
+  "missions": [
+    {
+      "id": "scrap-1",
+      "map": "scrap",
+      "name": "Primeiro Sinal",
+      "brief": "Atravesse a Forja, derrote o Vigia de Latão e o Caranguejo de Cobre e enfrente o Rebocador para recuperar um núcleo.",
+      "recommended": 1,
+      "requires": "",
+      "waves": [
+        [
+          "scrap-drone"
+        ],
+        [
+          "scrap-crab"
+        ],
+        [
+          "scrap-boss"
+        ]
+      ],
+      "rewards": {
+        "scrap": 18,
+        "cores": 1,
+        "seeds": 0,
+        "xp": 12
+      },
+      "relic": "lens",
+      "timed": true,
+      "scene": "scene-scrap-1",
+      "objective": "Recuperar o núcleo da Forja",
+      "boss": true
+    },
+    {
+      "id": "scrap-2",
+      "map": "scrap",
+      "name": "Ponte de cobre",
+      "brief": "Proteja a equipe de reparo enquanto a ponte é reativada.",
+      "recommended": 1,
+      "requires": "scrap-1",
+      "waves": [
+        [
+          "scrap-crab"
+        ],
+        [
+          "scrap-crab",
+          "scrap-drone"
+        ]
+      ],
+      "rewards": {
+        "scrap": 26,
+        "cores": 2,
+        "seeds": 0,
+        "xp": 16
+      },
+      "timed": true
+    },
+    {
+      "id": "scrap-3",
+      "map": "scrap",
+      "name": "A última doca",
+      "brief": "Desative o Rebocador e libere a passagem para os jardins.",
+      "recommended": 2,
+      "requires": "scrap-2",
+      "waves": [
+        [
+          "scrap-drone",
+          "scrap-crab"
+        ],
+        [
+          "scrap-boss"
+        ]
+      ],
+      "rewards": {
+        "scrap": 42,
+        "cores": 4,
+        "seeds": 2,
+        "xp": 25
+      },
+      "relic": "plate",
+      "boss": true,
+      "timed": true
+    },
+    {
+      "id": "garden-1",
+      "map": "garden",
+      "name": "Sementes de luz",
+      "brief": "Recolha sementes preservadas sob as cúpulas quebradas.",
+      "recommended": 2,
+      "requires": "scrap-3",
+      "waves": [
+        [
+          "garden-spore"
+        ],
+        [
+          "garden-spore",
+          "garden-spore"
+        ]
+      ],
+      "rewards": {
+        "scrap": 32,
+        "cores": 2,
+        "seeds": 4,
+        "xp": 22
+      },
+      "relic": "seed",
+      "timed": true
+    },
+    {
+      "id": "garden-2",
+      "map": "garden",
+      "name": "Raízes profundas",
+      "brief": "Abra um corredor pelas raízes e restaure a irrigação.",
+      "recommended": 3,
+      "requires": "garden-1",
+      "waves": [
+        [
+          "garden-vine",
+          "garden-spore"
+        ],
+        [
+          "garden-vine",
+          "garden-vine"
+        ]
+      ],
+      "rewards": {
+        "scrap": 40,
+        "cores": 3,
+        "seeds": 5,
+        "xp": 28
+      },
+      "timed": true
+    },
+    {
+      "id": "garden-3",
+      "map": "garden",
+      "name": "Coração da estufa",
+      "brief": "Acalme o núcleo que mantém os jardins em modo de defesa.",
+      "recommended": 3,
+      "requires": "garden-2",
+      "waves": [
+        [
+          "garden-vine",
+          "garden-spore"
+        ],
+        [
+          "garden-boss"
+        ]
+      ],
+      "rewards": {
+        "scrap": 58,
+        "cores": 5,
+        "seeds": 8,
+        "xp": 36
+      },
+      "relic": "bloom",
+      "boss": true,
+      "timed": true
+    },
+    {
+      "id": "storm-1",
+      "map": "storm",
+      "name": "Entre relâmpagos",
+      "brief": "Siga os sinais de energia até a primeira torre.",
+      "recommended": 3,
+      "requires": "garden-3",
+      "waves": [
+        [
+          "storm-spark",
+          "storm-spark"
+        ],
+        [
+          "storm-warden"
+        ]
+      ],
+      "rewards": {
+        "scrap": 48,
+        "cores": 4,
+        "seeds": 3,
+        "xp": 32
+      },
+      "relic": "coil",
+      "timed": true
+    },
+    {
+      "id": "storm-2",
+      "map": "storm",
+      "name": "Farol partido",
+      "brief": "Reúna os cristais que faltam no emissor do farol.",
+      "recommended": 4,
+      "requires": "storm-1",
+      "waves": [
+        [
+          "storm-warden",
+          "storm-spark"
+        ],
+        [
+          "storm-warden",
+          "storm-warden"
+        ]
+      ],
+      "rewards": {
+        "scrap": 62,
+        "cores": 5,
+        "seeds": 4,
+        "xp": 40
+      },
+      "timed": true
+    },
+    {
+      "id": "storm-3",
+      "map": "storm",
+      "name": "Um novo horizonte",
+      "brief": "Enfrente o Arconte e devolva a luz ao arquipélago.",
+      "recommended": 5,
+      "requires": "storm-2",
+      "waves": [
+        [
+          "storm-warden",
+          "storm-spark"
+        ],
+        [
+          "storm-boss"
+        ]
+      ],
+      "rewards": {
+        "scrap": 90,
+        "cores": 8,
+        "seeds": 6,
+        "xp": 60
+      },
+      "relic": "beacon",
+      "boss": true,
+      "timed": true
+    },
+    {
+      "id": "storm-4",
+      "name": "AZHOR - Eclipse da Estação",
+      "map": "storm",
+      "requires": "storm-3",
+      "brief": "O eclipse despertou a fortaleza viva. Enfrente AZHOR: ataque básico, quatro variantes, defesa, ultimate e uma segunda fase abaixo de metade da vida.",
+      "objective": "AZHOR - Interrompa o eclipse",
+      "scene": "scene-storm-3",
+      "waves": [
+        [
+          "azhor"
+        ]
+      ],
+      "rewards": {
+        "scrap": 60,
+        "cores": 12,
+        "seeds": 8,
+        "xp": 90
+      },
+      "boss": true,
+      "world_boss": true,
+      "timed": true
+    }
+  ],
+  "relics": [
+    {
+      "id": "lens",
+      "name": "Lente de precisão",
+      "description": "+3 de ataque.",
+      "attack": 3,
+      "hp": 0,
+      "armor": 0
+    },
+    {
+      "id": "plate",
+      "name": "Placa do Rebocador",
+      "description": "+2 de armadura e +10 de vida.",
+      "attack": 0,
+      "hp": 10,
+      "armor": 2
+    },
+    {
+      "id": "seed",
+      "name": "Semente luminosa",
+      "description": "+22 de vida.",
+      "attack": 0,
+      "hp": 22,
+      "armor": 0
+    },
+    {
+      "id": "bloom",
+      "name": "Broto ancestral",
+      "description": "+2 de ataque e +18 de vida.",
+      "attack": 2,
+      "hp": 18,
+      "armor": 0
+    },
+    {
+      "id": "coil",
+      "name": "Bobina de tempestade",
+      "description": "+6 de ataque.",
+      "attack": 6,
+      "hp": 0,
+      "armor": 0
+    },
+    {
+      "id": "beacon",
+      "name": "Fragmento do farol",
+      "description": "+4 de ataque, +20 de vida e +1 de armadura.",
+      "attack": 4,
+      "hp": 20,
+      "armor": 1
+    }
+  ],
+  "buildings": [
+    {
+      "id": "core",
+      "name": "Núcleo",
+      "description": "Nível 2 libera o terceiro tripulante. Cada nível aumenta a vida da equipe.",
+      "max_level": 3,
+      "cost": {
+        "scrap": 24,
+        "cores": 2,
+        "seeds": 0
+      },
+      "asset": "module-workshop"
+    },
+    {
+      "id": "workshop",
+      "name": "Oficina",
+      "description": "+2 de ataque por nível para toda a equipe.",
+      "max_level": 3,
+      "cost": {
+        "scrap": 24,
+        "cores": 2,
+        "seeds": 0
+      },
+      "asset": "module-workshop"
+    },
+    {
+      "id": "greenhouse",
+      "name": "Estufa",
+      "description": "+10 de vida por nível para toda a equipe.",
+      "max_level": 3,
+      "cost": {
+        "scrap": 20,
+        "cores": 1,
+        "seeds": 2
+      },
+      "asset": "module-greenhouse"
+    },
+    {
+      "id": "observatory",
+      "name": "Observatório",
+      "description": "+10% de sucata nas próximas missões por nível.",
+      "max_level": 3,
+      "cost": {
+        "scrap": 26,
+        "cores": 2,
+        "seeds": 0
+      },
+      "asset": "module-observatory"
+    }
+  ]
+}

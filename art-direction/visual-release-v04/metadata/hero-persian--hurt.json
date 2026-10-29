@@ -1,0 +1,57 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--hurt.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--hurt.png",
+  "source": "sources/hero-persian--motion.png",
+  "state": "hurt",
+  "title": "Andarilho persa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      59,
+      92,
+      146,
+      181
+    ],
+    [
+      58,
+      92,
+      141,
+      181
+    ],
+    [
+      59,
+      93,
+      146,
+      181
+    ],
+    [
+      59,
+      85,
+      140,
+      181
+    ]
+  ],
+  "sha256": "d4206ad79e5f6a44adf7f3837552b303c8bbc058470199fe4a29e39c228bf1d4",
+  "gif": "previews/hero-persian--hurt.gif"
+}

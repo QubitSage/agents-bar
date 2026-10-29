@@ -1,0 +1,57 @@
+{
+  "actor": "boss-rebocador",
+  "aseprite": "aseprite/boss-rebocador--hurt.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-rebocador--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-rebocador--hurt.png",
+  "source": "sources/boss-rebocador--motion.png",
+  "state": "hurt",
+  "title": "Rebocador",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      62,
+      117,
+      248,
+      271
+    ],
+    [
+      75,
+      131,
+      233,
+      271
+    ],
+    [
+      57,
+      126,
+      233,
+      271
+    ],
+    [
+      51,
+      108,
+      227,
+      271
+    ]
+  ],
+  "sha256": "0b140c059d0bcdd02c013c848bffb1334485c14841cab9ec61a452494af18300",
+  "gif": "previews/boss-rebocador--hurt.gif"
+}

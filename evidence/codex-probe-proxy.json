@@ -1,0 +1,8 @@
+{
+  "transport": "proxy",
+  "initialized": false,
+  "observations": [],
+  "errors": [
+    "Error: failed to connect to socket at C:\\Users\\bruno\\.codex\\app-server-control\\app-server-control.sock\n\nCaused by:\n"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "companion-brasa",
+  "aseprite": "aseprite/companion-brasa--walk.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-brasa--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-brasa--walk.png",
+  "source": "sources/companion-brasa--motion.png",
+  "state": "walk",
+  "title": "Brasa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      49,
+      88,
+      149,
+      181
+    ],
+    [
+      57,
+      88,
+      149,
+      181
+    ],
+    [
+      50,
+      88,
+      146,
+      181
+    ],
+    [
+      48,
+      88,
+      145,
+      181
+    ]
+  ],
+  "sha256": "86472b13df1ad8ba92139fb80bd08958b2f6e6c347ca258c08ec158d8e28f4f6",
+  "gif": "previews/companion-brasa--walk.gif"
+}

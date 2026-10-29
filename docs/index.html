@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agents Bar</title>
+<meta name="description" content="Um jogo de barra de tarefas que transforma a atividade dos seus agentes de IA em progresso de uma equipe de heróis.">
+<style>
+:root{--bg:#171923;--panel:#242735;--line:#756448;--gold:#dbb87b;--text:#ece4d0;--muted:#b3ab98}
+@media (prefers-color-scheme:light){:root{--bg:#f4efe3;--panel:#fffaf0;--line:#b79c68;--gold:#8a5f1a;--text:#2a2418;--muted:#6b6250}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui,Segoe UI,sans-serif}
+main{max-width:920px;margin:0 auto;padding:40px 16px 64px}
+h1{font-size:clamp(2rem,6vw,3.2rem);margin:0 0 8px;color:var(--gold)}h2{color:var(--gold);margin-top:40px}
+.lead{font-size:1.15rem;color:var(--muted)}
+.cta{display:inline-block;margin:20px 12px 8px 0;padding:12px 22px;background:var(--gold);color:#171923;font-weight:700;border-radius:6px;text-decoration:none}
+.cta.alt{background:none;color:var(--gold);border:1px solid var(--line)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);padding:16px;border-radius:6px}
+.card h3{margin:0 0 6px;font-size:1rem;color:var(--gold)}
+img{max-width:100%;height:auto;border:1px solid var(--line);border-radius:6px;display:block}
+figure{margin:0}figcaption{font-size:.85rem;color:var(--muted);margin-top:6px}
+.note{border-left:3px solid var(--gold);padding:8px 14px;background:var(--panel);color:var(--muted)}
+footer{margin-top:48px;color:var(--muted);font-size:.9rem}
+</style>
+</head>
+<body>
+<main>
+<h1>Agents Bar</h1>
+<p class="lead">O trabalho dos seus agentes de IA vira aventura. Uma equipe de heróis na sua barra de tarefas avança em missões enquanto o Claude Code, Codex e outros clientes trabalham de verdade.</p>
+<a class="cta" href="https://github.com/QubitSage/agents-bar/releases/latest">Baixar para Windows</a>
+<a class="cta alt" href="https://github.com/QubitSage/agents-bar">Código e documentação</a>
+
+<p class="note">Versão de teste (0.9.12). Ainda não é a 1.0: o instalador não tem assinatura digital, então o Windows pode mostrar o aviso do SmartScreen. Pro e cobrança ainda não existem.</p>
+
+<h2>Como funciona</h2>
+<div class="grid">
+<div class="card"><h3>Começa desconectado</h3><p>Jogue no modo Livre sem conectar nada. Nada é descoberto automaticamente.</p></div>
+<div class="card"><h3>Conexão por escolha sua</h3><p>Você ativa o coletor local e instala os hooks do Claude Code com um clique, com backup e remoção segura.</p></div>
+<div class="card"><h3>Atividade verdadeira</h3><p>O herói só trabalha quando há evidência. Contexto e tokens aparecem separados, sem fingir ser o consumo da conta.</p></div>
+<div class="card"><h3>Privado por padrão</h3><p>Eventos ficam em 127.0.0.1. Prompts, respostas, código e caminhos não são guardados.</p></div>
+</div>
+
+<h2>O jogo</h2>
+<p>Três heróis, três regiões, dez missões, três chefes regionais e o world boss AZHOR. Forja, inventário, mapa e formação ficam dentro da própria HUD, que você arrasta, redimensiona e recolhe para um modo compacto no canto.</p>
+<div class="grid">
+<figure><img src="img/a-map.png" alt="Conceito da HUD Fortaleza: mapa" loading="lazy"><figcaption>Conceito da HUD Fortaleza (arte de proposta, não captura da build).</figcaption></figure>
+<figure><img src="img/a-boss.png" alt="Conceito da HUD Fortaleza: chefe" loading="lazy"><figcaption>Conceito: chefe regional.</figcaption></figure>
+<figure><img src="img/a-compact.png" alt="Conceito do modo compacto" loading="lazy"><figcaption>Conceito: modo compacto.</figcaption></figure>
+</div>
+
+<h2>Integrações</h2>
+<p>Claude Code (guiado na HUD, em teste), Codex, Cursor, Antigravity, Grok API e clientes MCP, conforme a capacidade real de cada um. MCP sozinho não revela o consumo de tokens. Veja os <a href="https://github.com/QubitSage/agents-bar/blob/main/docs/INTEGRATIONS.md">detalhes</a>.</p>
+
+<footer>Agents Bar é um nome provisório. Inspirado na organização de TBH: Task Bar Hero e no conceito de taskbaragents.com, com identidade visual própria. <a href="https://github.com/QubitSage/agents-bar/blob/main/CREDITS.md">Créditos</a>.</footer>
+</main>
+</body>
+</html>

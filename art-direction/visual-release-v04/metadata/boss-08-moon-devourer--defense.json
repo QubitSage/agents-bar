@@ -1,0 +1,66 @@
+{
+  "actor": "boss-08-moon-devourer",
+  "aseprite": "aseprite/boss-08-moon-devourer--defense.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-08-moon-devourer--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 160,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-08-moon-devourer--defense.png",
+  "source": "sources/boss-08-moon-devourer--combat.png",
+  "state": "defense",
+  "title": "Devorador de Luas",
+  "width": 320,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      68,
+      120,
+      258,
+      271
+    ],
+    [
+      73,
+      135,
+      247,
+      271
+    ],
+    [
+      65,
+      132,
+      266,
+      271
+    ],
+    [
+      69,
+      124,
+      258,
+      271
+    ]
+  ],
+  "sha256": "ef18c6e611d9a442ac1f3e6df8c63b4f4b1426136ace4a7a04cf1c183504004f",
+  "gif": "previews/boss-08-moon-devourer--defense.gif"
+}

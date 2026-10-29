@@ -1,0 +1,66 @@
+{
+  "actor": "building-core",
+  "aseprite": "aseprite/building-core.aseprite",
+  "category": "buildings",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "building-core",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-forge--beacon",
+      70,
+      60,
+      28,
+      40
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/building-core.png",
+  "state": "ambient",
+  "title": "Salão da guilda",
+  "visualGroundY": 148,
+  "width": 160,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      12,
+      4,
+      147,
+      156
+    ],
+    [
+      12,
+      4,
+      147,
+      156
+    ],
+    [
+      12,
+      4,
+      147,
+      156
+    ],
+    [
+      12,
+      4,
+      147,
+      156
+    ]
+  ],
+  "sha256": "607f95558abb7c8ccd398ad99232c1228b28d18d46d259aa7d964ebeb0daefc3",
+  "events": [],
+  "gif": "previews/building-core.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-06",
+  "actor": "atlas-terrain-06",
+  "title": "Forja · Ruína",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-06.png",
+  "aseprite": "aseprite/atlas-terrain-06.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      13,
+      92,
+      60
+    ]
+  ],
+  "sha256": "efa891edd4e8455fd66ae7ca28b1610abfa28910e9d984b3ead454b14a207db1",
+  "events": []
+}

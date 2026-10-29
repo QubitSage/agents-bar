@@ -1,0 +1,66 @@
+{
+  "actor": "enemy-copper-crab",
+  "aseprite": "aseprite/enemy-copper-crab--defense.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-copper-crab--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 104,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-copper-crab--defense.png",
+  "source": "sources/enemy-copper-crab--combat.png",
+  "state": "defense",
+  "title": "Caranguejo de cobre",
+  "width": 208,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      49,
+      101,
+      168,
+      181
+    ],
+    [
+      58,
+      116,
+      160,
+      181
+    ],
+    [
+      47,
+      113,
+      158,
+      181
+    ],
+    [
+      46,
+      101,
+      167,
+      181
+    ]
+  ],
+  "sha256": "6fad95e0a0ca9d32a4e675162c59211282153819ff4d6fe04be0ffabe4ea2781",
+  "gif": "previews/enemy-copper-crab--defense.gif"
+}

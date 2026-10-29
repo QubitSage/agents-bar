@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-brass-sentry",
+  "aseprite": "aseprite/enemy-brass-sentry--walk.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-brass-sentry--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-brass-sentry--walk.png",
+  "source": "sources/enemy-brass-sentry--motion.png",
+  "state": "walk",
+  "title": "Vigia de latão",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      58,
+      81,
+      146,
+      181
+    ],
+    [
+      57,
+      83,
+      142,
+      181
+    ],
+    [
+      57,
+      83,
+      140,
+      181
+    ],
+    [
+      50,
+      84,
+      139,
+      181
+    ]
+  ],
+  "sha256": "ab23f1afab3e75598033f97bfe0c97175e9ff003d01719c194be3ee1a5760242",
+  "gif": "previews/enemy-brass-sentry--walk.gif"
+}

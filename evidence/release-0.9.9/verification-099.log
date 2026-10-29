@@ -1,0 +1,120 @@
+test_completed_turn_cannot_restart_from_late_duplicate (test_bridge.LifecycleTests.test_completed_turn_cannot_restart_from_late_duplicate) ... ok
+test_completion_without_start_retains_explicit_turn (test_bridge.LifecycleTests.test_completion_without_start_retains_explicit_turn) ... ok
+test_duplicates_and_out_of_order (test_bridge.LifecycleTests.test_duplicates_and_out_of_order) ... ok
+test_failures_not_success (test_bridge.LifecycleTests.test_failures_not_success) ... ok
+test_no_private_content_in_output (test_bridge.LifecycleTests.test_no_private_content_in_output) ... ok
+test_old_turn_completion_cannot_complete_new_turn (test_bridge.LifecycleTests.test_old_turn_completion_cannot_complete_new_turn) ... ok
+test_silence_does_not_mean_success (test_bridge.LifecycleTests.test_silence_does_not_mean_success) ... ok
+test_success_requires_explicit_completion (test_bridge.LifecycleTests.test_success_requires_explicit_completion) ... ok
+test_tail_partial_line_and_content_stripping (test_bridge.LifecycleTests.test_tail_partial_line_and_content_stripping) ... ok
+test_auth_privacy_dedup_and_invalid_payload (test_collector_http.CollectorHTTPTests.test_auth_privacy_dedup_and_invalid_payload) ... ok
+test_bad_version_rejected (test_distribution.DistributionTests.test_bad_version_rejected) ... ok
+test_corrupt_file_rejected_without_install (test_distribution.DistributionTests.test_corrupt_file_rejected_without_install) ... ok
+test_duplicate_rejected (test_distribution.DistributionTests.test_duplicate_rejected) ... ok
+test_extra_file_rejected (test_distribution.DistributionTests.test_extra_file_rejected) ... ok
+test_install_update_rollback_preserve_data (test_distribution.DistributionTests.test_install_update_rollback_preserve_data) ... ok
+test_missing_runtime_rejected (test_distribution.DistributionTests.test_missing_runtime_rejected) ... ok
+test_path_alias_with_backslash_rejected (test_distribution.DistributionTests.test_path_alias_with_backslash_rejected) ... ok
+test_rollback_requires_previous (test_distribution.DistributionTests.test_rollback_requires_previous) ... ok
+test_traversal_rejected (test_distribution.DistributionTests.test_traversal_rejected) ... ok
+test_uninstall_keeps_data_and_unknown_files (test_distribution.DistributionTests.test_uninstall_keeps_data_and_unknown_files) ... ok
+test_uninstall_refuses_modified_program_before_deleting (test_distribution.DistributionTests.test_uninstall_refuses_modified_program_before_deleting) ... ok
+test_capacity_and_unknown_session (test_hub.HubTests.test_capacity_and_unknown_session) ... ok
+test_deduplication_and_late_turn (test_hub.HubTests.test_deduplication_and_late_turn) ... ok
+test_reasoning_is_not_tool_execution (test_hub.HubTests.test_reasoning_is_not_tool_execution) ... ok
+test_rejects_invalid_time (test_hub.HubTests.test_rejects_invalid_time) ... ok
+test_rpc_keeps_only_lifecycle_metadata (test_hub.HubTests.test_rpc_keeps_only_lifecycle_metadata) ... ok
+test_silence_does_not_complete (test_hub.HubTests.test_silence_does_not_complete) ... ok
+test_terminal_not_overwritten_by_late_activity_or_duplicate_start (test_hub.HubTests.test_terminal_not_overwritten_by_late_activity_or_duplicate_start) ... ok
+test_three_sessions_are_isolated (test_hub.HubTests.test_three_sessions_are_isolated) ... ok
+test_unknown_content_not_retained (test_hub.HubTests.test_unknown_content_not_retained) ... ok
+test_unknown_rpc_status_not_success (test_hub.HubTests.test_unknown_rpc_status_not_success) ... ok
+test_waiting_requires_explicit_resume (test_hub.HubTests.test_waiting_requires_explicit_resume) ... ok
+test_authenticated_stop_flushes_and_releases_port (test_lifecycle_099.Lifecycle099Tests.test_authenticated_stop_flushes_and_releases_port) ... ok
+test_mcp_rejects_invalid_arguments_before_local_request (test_lifecycle_099.Lifecycle099Tests.test_mcp_rejects_invalid_arguments_before_local_request) ... ok
+test_observer_disables_environment_proxy (test_lifecycle_099.Lifecycle099Tests.test_observer_disables_environment_proxy) ... ok
+test_duplicate_session_rejected (test_multi_watch.MultiWatchTests.test_duplicate_session_rejected) ... ok
+test_missing_file_disconnects_only_that_slot (test_multi_watch.MultiWatchTests.test_missing_file_disconnects_only_that_slot) ... ok
+test_no_automatic_paths (test_multi_watch.MultiWatchTests.test_no_automatic_paths) ... ok
+test_tail_budget_and_partial_line (test_multi_watch.MultiWatchTests.test_tail_budget_and_partial_line) ... ok
+test_three_independent_sessions_and_sanitized_snapshot (test_multi_watch.MultiWatchTests.test_three_independent_sessions_and_sanitized_snapshot) ... ok
+test_provider_snapshots_drive_only_linked_live_party (test_pipeline.PipelineTests.test_provider_snapshots_drive_only_linked_live_party) ... ok
+test_private_key_in_client_and_origin_mismatch_are_rejected (test_release_gate.ReleaseGateTests.test_private_key_in_client_and_origin_mismatch_are_rejected) ... ok
+test_public_settings_alone_do_not_claim_acceptance (test_release_gate.ReleaseGateTests.test_public_settings_alone_do_not_claim_acceptance) ... ok
+test_unconfigured_current_release_cannot_pass_public_gate (test_release_gate.ReleaseGateTests.test_unconfigured_current_release_cannot_pass_public_gate) ... ok
+test_fixture_produces_three_distinct_states (test_replay.ReplayTests.test_fixture_produces_three_distinct_states) ... ok
+test_eight_hours_of_synthetic_three_agent_work (test_soak.SoakTrackingTests.test_eight_hours_of_synthetic_three_agent_work) ... ok
+test_all_providers (test_tracking.TrackingTests.test_all_providers) ... ok
+test_codex_native_hooks (test_tracking.TrackingTests.test_codex_native_hooks) ... ok
+test_dedup_and_restart (test_tracking.TrackingTests.test_dedup_and_restart) ... ok
+test_grok_response_id_deduplicates_new_delivery_ids (test_tracking.TrackingTests.test_grok_response_id_deduplicates_new_delivery_ids) ... ok
+test_history_retention (test_tracking.TrackingTests.test_history_retention) ... ok
+test_limit (test_tracking.TrackingTests.test_limit) ... ok
+test_malformed_nested_payloads (test_tracking.TrackingTests.test_malformed_nested_payloads) ... ok
+test_mcp_handshake_and_no_sensitive_fields (test_tracking.TrackingTests.test_mcp_handshake_and_no_sensitive_fields) ... ok
+test_old_turn_not_completed (test_tracking.TrackingTests.test_old_turn_not_completed) ... ok
+test_privacy (test_tracking.TrackingTests.test_privacy) ... ok
+test_pro_expires_without_waiting_for_network_renewal (test_tracking.TrackingTests.test_pro_expires_without_waiting_for_network_renewal) ... ok
+test_restart_disconnects_until_new_evidence (test_tracking.TrackingTests.test_restart_disconnects_until_new_evidence) ... ok
+test_stale_state (test_tracking.TrackingTests.test_stale_state) ... ok
+test_terminal_late_activity (test_tracking.TrackingTests.test_terminal_late_activity) ... ok
+test_token_events_do_not_starve_activity (test_tracking.TrackingTests.test_token_events_do_not_starve_activity) ... ok
+test_unknown_usage_is_not_zero_claim (test_tracking.TrackingTests.test_unknown_usage_is_not_zero_claim) ... ok
+test_unsigned_license_rejected (test_tracking.TrackingTests.test_unsigned_license_rejected) ... ok
+test_usage_baseline_and_monotonic (test_tracking.TrackingTests.test_usage_baseline_and_monotonic) ... ok
+test_wrapper_preserves_unicode_json_and_paths_with_spaces (test_windows_hook.WindowsHookTests.test_wrapper_preserves_unicode_json_and_paths_with_spaces) ... ok
+
+----------------------------------------------------------------------
+Ran 65 tests in 17.191s
+
+OK
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Presentation: 17 checks; failures=0
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Campaign attempts: 10; final materials: { "scrap": 20, "cores": 9, "seeds": 32 }
+Synthetic combat steps: 15500
+Gameplay: 378 checks, 0 failures
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+First mission: 731 checks, 0 failures. No application/UI instantiated.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+HUD/game: 26 checks, 0 failures. No UI instantiated.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+AZHOR/tracking: 77 checks, 0 failures. No application/UI instantiated.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+HUD layout: 2043 checks, 0 failures. Pure geometry and compilation only; no UI instantiated.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Equipment: 64 checks, 0 failures. Fictional data only.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Readiness 0.9.9: 32 checks, 0 failures; no UI.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Soak: 526 checks, 0 failures. Eight simulated hours, 460 missions, max save 12710 bytes, core simulation 826 ms. No UI or real-time desktop benchmark.
+✔ bounded request reader rejects oversized and chunked bodies (20.0286ms)
+✔ malformed API input has an actionable response without database queries (2.1724ms)
+✔ recovery kit rotates both secrets, prevents replay and retains subscription (45.986ms)
+✔ recovery transaction failure keeps both original credentials (2.1682ms)
+✔ rate limit blocks recovery before database work (0.4505ms)
+✔ webhook signature and replay window (5.3277ms)
+✔ expired and pending subscriptions never unlock Pro (0.1891ms)
+✔ RSA signature can be verified with the public key (23.7471ms)
+✔ unconfigured service fails closed (15.074ms)
+✔ cross-origin checkout is rejected (0.3616ms)
+✔ Python client verifies server tokens, expiry and tampering (180.6512ms)
+✔ checkout, signed webhook, duplicate and cancellation use fixture Stripe only (7.0922ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 437.9921
+All code-only checks passed. No application window was instantiated.

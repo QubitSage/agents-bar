@@ -1,0 +1,62 @@
+{
+  "actor": "hero-gothic",
+  "aseprite": "aseprite/hero-gothic--attack.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-gothic--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-gothic--attack.png",
+  "source": "sources/hero-gothic--combat.png",
+  "state": "attack",
+  "title": "Cavaleiro sombrio",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      63,
+      50,
+      147,
+      181
+    ],
+    [
+      55,
+      85,
+      156,
+      181
+    ],
+    [
+      34,
+      108,
+      168,
+      181
+    ],
+    [
+      51,
+      85,
+      129,
+      181
+    ]
+  ],
+  "sha256": "2e29ffb2a738cfc27796955b94b442938a693ab763ab6affdda186c143b296cd",
+  "gif": "previews/hero-gothic--attack.gif"
+}

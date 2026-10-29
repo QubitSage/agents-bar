@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-07",
+  "actor": "atlas-relics-07",
+  "title": "Sucata",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-07.png",
+  "aseprite": "aseprite/atlas-relics-07.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      10,
+      44,
+      44
+    ]
+  ],
+  "sha256": "6799573d88ccdcadcdb238b48475033213253336dfa1517e50d967236d1709a7",
+  "events": []
+}

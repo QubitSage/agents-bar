@@ -1,0 +1,57 @@
+{
+  "actor": "boss-rebocador",
+  "aseprite": "aseprite/boss-rebocador--idle.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-rebocador--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-rebocador--idle.png",
+  "source": "sources/boss-rebocador--motion.png",
+  "state": "idle",
+  "title": "Rebocador",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      63,
+      110,
+      241,
+      271
+    ],
+    [
+      63,
+      110,
+      238,
+      271
+    ],
+    [
+      54,
+      112,
+      230,
+      271
+    ],
+    [
+      51,
+      110,
+      226,
+      271
+    ]
+  ],
+  "sha256": "40f60f1905c75803ab1a6c5c0f5bca8c672ec0942fdf4360328040dead94855f",
+  "gif": "previews/boss-rebocador--idle.gif"
+}

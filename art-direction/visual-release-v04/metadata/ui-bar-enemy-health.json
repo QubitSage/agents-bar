@@ -1,0 +1,78 @@
+{
+  "actor": "ui-bar-enemy-health",
+  "aseprite": "aseprite/ui-bar-enemy-health.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "fillRect": {
+    "height": 6,
+    "width": 172,
+    "x": 10,
+    "y": 7
+  },
+  "frames": 5,
+  "height": 20,
+  "id": "ui-bar-enemy-health",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 7,
+    "left": 10,
+    "right": 10,
+    "top": 7
+  },
+  "preview": "static/ui-bar-enemy-health.png",
+  "rows": 1,
+  "sheet": "sheets/ui-bar-enemy-health.png",
+  "state": "states",
+  "states": [
+    "100",
+    "75",
+    "50",
+    "25",
+    "0"
+  ],
+  "title": "Vida do chefe",
+  "width": 192,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ]
+  ],
+  "sha256": "e46ee57bc17f47d8bc087b4a213bcba610b85f8c4dc2b66241ade95130f6b12c",
+  "events": []
+}

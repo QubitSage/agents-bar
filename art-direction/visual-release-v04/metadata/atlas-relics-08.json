@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-08",
+  "actor": "atlas-relics-08",
+  "title": "Núcleo",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-08.png",
+  "aseprite": "aseprite/atlas-relics-08.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      5,
+      4,
+      42,
+      44
+    ]
+  ],
+  "sha256": "ada710478b7be6c13591dd30a68019f83a8dc67d29c2f5dd021ee199248bbd7f",
+  "events": []
+}

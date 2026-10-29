@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-05",
+  "actor": "atlas-relics-05",
+  "title": "Bobina de tempestade",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-05.png",
+  "aseprite": "aseprite/atlas-relics-05.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      11,
+      4,
+      36,
+      44
+    ]
+  ],
+  "sha256": "0c30e1c3cba4ea711081243f57ab0cd57027adf6a132e3f5889578bf00152a27",
+  "events": []
+}

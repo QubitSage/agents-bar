@@ -1,0 +1,57 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--hurt.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--hurt.png",
+  "source": "sources/companion-luma--motion.png",
+  "state": "hurt",
+  "title": "Luma",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      87,
+      139,
+      181
+    ],
+    [
+      63,
+      95,
+      139,
+      181
+    ],
+    [
+      60,
+      85,
+      138,
+      181
+    ],
+    [
+      66,
+      84,
+      137,
+      181
+    ]
+  ],
+  "sha256": "623ecfda16d8f03f54edc87a50b2b2e2a79d6226ed1a31675e2226db9763e652",
+  "gif": "previews/companion-luma--hurt.gif"
+}

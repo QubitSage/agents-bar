@@ -1,0 +1,78 @@
+{
+  "actor": "ui-bar-shield",
+  "aseprite": "aseprite/ui-bar-shield.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "fillRect": {
+    "height": 6,
+    "width": 172,
+    "x": 10,
+    "y": 7
+  },
+  "frames": 5,
+  "height": 20,
+  "id": "ui-bar-shield",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 7,
+    "left": 10,
+    "right": 10,
+    "top": 7
+  },
+  "preview": "static/ui-bar-shield.png",
+  "rows": 1,
+  "sheet": "sheets/ui-bar-shield.png",
+  "state": "states",
+  "states": [
+    "100",
+    "75",
+    "50",
+    "25",
+    "0"
+  ],
+  "title": "Escudo",
+  "width": 192,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ]
+  ],
+  "sha256": "903d909d5b818ceed27022cfe5d825369dd8f2d04bd6c98e8bd68e71b93f0658",
+  "events": []
+}

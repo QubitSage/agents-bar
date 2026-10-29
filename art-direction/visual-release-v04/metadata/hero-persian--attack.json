@@ -1,0 +1,62 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--attack.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 112,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--attack.png",
+  "source": "sources/hero-persian--combat.png",
+  "state": "attack",
+  "title": "Andarilho persa",
+  "width": 224,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      77,
+      153,
+      181
+    ],
+    [
+      60,
+      105,
+      164,
+      181
+    ],
+    [
+      16,
+      101,
+      208,
+      181
+    ],
+    [
+      65,
+      85,
+      147,
+      181
+    ]
+  ],
+  "sha256": "54ff5576897ccc87222cc5cb69276713faceed69ea6923a2f65e659e6f77936a",
+  "gif": "previews/hero-persian--attack.gif"
+}

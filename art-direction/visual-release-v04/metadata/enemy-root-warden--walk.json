@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-root-warden",
+  "aseprite": "aseprite/enemy-root-warden--walk.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-root-warden--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-root-warden--walk.png",
+  "source": "sources/enemy-root-warden--motion.png",
+  "state": "walk",
+  "title": "Guardião de raízes",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      59,
+      86,
+      149,
+      181
+    ],
+    [
+      61,
+      85,
+      147,
+      181
+    ],
+    [
+      56,
+      86,
+      141,
+      181
+    ],
+    [
+      57,
+      84,
+      141,
+      181
+    ]
+  ],
+  "sha256": "5079653dd2fcaf807e7f940e16ac1cfdd7738562f6fbfb0a6c46b64a31bab880",
+  "gif": "previews/enemy-root-warden--walk.gif"
+}

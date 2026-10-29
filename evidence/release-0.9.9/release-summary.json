@@ -1,0 +1,25 @@
+{
+  "version": "0.9.9",
+  "kind": "private-release-candidate",
+  "artifacts": [
+    {
+      "path": "release/AgentsBar-0.9.9-win64.zip",
+      "sha256": "07cfafacc59d23a4bc2cbbf469504b8db3543d47653b39103a26bc332169e65a",
+      "bytes": 104090704
+    },
+    {
+      "path": "release/AgentsBar-Setup-0.9.9.exe",
+      "sha256": "8ad02b3700a52a5abfe2f41abe2e48def80d775bbbddfea42f836efb2173b046",
+      "bytes": 104105984
+    }
+  ],
+  "tests": {
+    "python": 65,
+    "backend": 12,
+    "godotChecks": 3936
+  },
+  "nativeDistribution": "embedded zip verified and extracted; full 0.8.0 install, 0.9.9 update and rollback passed in a fixture, no shortcut",
+  "manualAndExternalAcceptance": "pending",
+  "guiInstantiated": false,
+  "realProviderSessionsAccessed": false
+}

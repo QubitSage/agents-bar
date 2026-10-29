@@ -1,0 +1,62 @@
+{
+  "actor": "boss-07-bell-seraph",
+  "aseprite": "aseprite/boss-07-bell-seraph--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-07-bell-seraph--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-07-bell-seraph--death.png",
+  "source": "sources/boss-07-bell-seraph--motion.png",
+  "state": "death",
+  "title": "Serafim do Último Sino",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      67,
+      110,
+      228,
+      271
+    ],
+    [
+      57,
+      149,
+      230,
+      271
+    ],
+    [
+      52,
+      195,
+      235,
+      271
+    ],
+    [
+      59,
+      202,
+      234,
+      271
+    ]
+  ],
+  "sha256": "11a586210b6218ea383a79b4091b29dde133de75496b7d22c6a1a02831216c80",
+  "gif": "previews/boss-07-bell-seraph--death.gif"
+}

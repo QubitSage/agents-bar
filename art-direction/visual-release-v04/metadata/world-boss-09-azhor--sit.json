@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--sit.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    200,
+    200,
+    200,
+    400
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--sit",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--sit.png",
+  "source": "sources/azhor--ambient.png",
+  "state": "sit",
+  "title": "AZHOR",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      37,
+      96,
+      272,
+      271
+    ],
+    [
+      37,
+      103,
+      263,
+      271
+    ],
+    [
+      47,
+      105,
+      266,
+      271
+    ],
+    [
+      37,
+      102,
+      259,
+      271
+    ]
+  ],
+  "sha256": "a558eaef67d0183aa238e861f40ac8d5af64869ab35d96ce638a5061c3b5b36e",
+  "gif": "previews/world-boss-09-azhor--sit.gif"
+}

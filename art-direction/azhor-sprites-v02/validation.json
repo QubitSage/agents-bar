@@ -1,0 +1,31 @@
+{
+  "gif_frames": 8,
+  "unique_frames": 8,
+  "durations_ms": [
+    260,
+    150,
+    130,
+    80,
+    110,
+    120,
+    150,
+    380
+  ],
+  "total_ms": 1380,
+  "native_header": [
+    118951,
+    42464,
+    8,
+    288,
+    208,
+    8
+  ],
+  "sheet_size": [
+    1152,
+    416
+  ],
+  "alpha_values": [
+    0,
+    255
+  ]
+}

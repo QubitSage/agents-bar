@@ -1,0 +1,57 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--victory.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 112,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--victory.png",
+  "source": "sources/hero-persian--combat.png",
+  "state": "victory",
+  "title": "Andarilho persa",
+  "width": 224,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      71,
+      122,
+      170,
+      181
+    ],
+    [
+      66,
+      74,
+      161,
+      181
+    ],
+    [
+      75,
+      65,
+      168,
+      181
+    ],
+    [
+      78,
+      84,
+      158,
+      181
+    ]
+  ],
+  "sha256": "d9493ae73bedd8e673ff5c6d77db33191a96cfab8ed8137e94c6bc3a915e7f0f",
+  "gif": "previews/hero-persian--victory.gif"
+}

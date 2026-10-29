@@ -1,0 +1,67 @@
+{
+  "actor": "ui-control-minimize",
+  "aseprite": "aseprite/ui-control-minimize.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 40,
+  "id": "ui-control-minimize",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": false,
+  "preview": "static/ui-control-minimize.png",
+  "rows": 1,
+  "sheet": "sheets/ui-control-minimize.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Recolher",
+  "width": 40,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ],
+    [
+      1,
+      1,
+      39,
+      39
+    ]
+  ],
+  "sha256": "c78d287e38b0c7ea7c474add38a6836a18be96b455d165609502fa0d8586da08",
+  "events": []
+}

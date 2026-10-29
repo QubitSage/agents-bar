@@ -1,0 +1,62 @@
+{
+  "actor": "boss-storm-archon",
+  "aseprite": "aseprite/boss-storm-archon--special.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    260,
+    190,
+    160,
+    300
+  ],
+  "events": [
+    {
+      "frame": 3,
+      "name": "visual_release"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-storm-archon--special",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 160,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-storm-archon--special.png",
+  "source": "sources/boss-storm-archon--combat.png",
+  "state": "special",
+  "title": "Arconte da Tempestade",
+  "width": 320,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      74,
+      116,
+      258,
+      271
+    ],
+    [
+      79,
+      66,
+      251,
+      271
+    ],
+    [
+      30,
+      65,
+      294,
+      271
+    ],
+    [
+      103,
+      103,
+      255,
+      271
+    ]
+  ],
+  "sha256": "829ec687fe9b9ae71fafbf5e718dec4ebbd9b4c38f1f20881ce1a45c9dba81ba",
+  "gif": "previews/boss-storm-archon--special.gif"
+}

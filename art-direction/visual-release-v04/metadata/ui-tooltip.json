@@ -1,0 +1,72 @@
+{
+  "actor": "ui-tooltip",
+  "aseprite": "aseprite/ui-tooltip.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 64,
+  "id": "ui-tooltip",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 10,
+    "left": 10,
+    "right": 10,
+    "top": 10
+  },
+  "preview": "static/ui-tooltip.png",
+  "rows": 1,
+  "sheet": "sheets/ui-tooltip.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Tooltip",
+  "width": 176,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      175,
+      63
+    ],
+    [
+      1,
+      1,
+      175,
+      63
+    ],
+    [
+      1,
+      1,
+      175,
+      63
+    ],
+    [
+      1,
+      1,
+      175,
+      63
+    ],
+    [
+      1,
+      1,
+      175,
+      63
+    ]
+  ],
+  "sha256": "0d17ba553e0b4e845f1fd60d708a9aec6fccc2bd2be54377bb144dfbe67f9d22",
+  "events": []
+}

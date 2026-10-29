@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-15",
+  "actor": "atlas-terrain-15",
+  "title": "Torres · Borda direita",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-15.png",
+  "aseprite": "aseprite/atlas-terrain-15.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      15,
+      4,
+      80,
+      60
+    ]
+  ],
+  "sha256": "83660bc4fe232fb7d0bb2456d01aa94bf1f9ecb103cc34c964a089aad7e92e7a",
+  "events": []
+}

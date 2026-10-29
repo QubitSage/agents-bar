@@ -1,0 +1,57 @@
+{
+  "actor": "companion-brasa",
+  "aseprite": "aseprite/companion-brasa--victory.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-brasa--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-brasa--victory.png",
+  "source": "sources/companion-brasa--combat.png",
+  "state": "victory",
+  "title": "Brasa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      47,
+      109,
+      154,
+      181
+    ],
+    [
+      48,
+      56,
+      164,
+      181
+    ],
+    [
+      32,
+      70,
+      169,
+      181
+    ],
+    [
+      48,
+      84,
+      154,
+      181
+    ]
+  ],
+  "sha256": "72d54bb6a0a0cb27319f01227375dc890019af7218b3add069ed2cb3a4f8f402",
+  "gif": "previews/companion-brasa--victory.gif"
+}

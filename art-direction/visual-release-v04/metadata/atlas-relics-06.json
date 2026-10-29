@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-06",
+  "actor": "atlas-relics-06",
+  "title": "Farol portátil",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-06.png",
+  "aseprite": "aseprite/atlas-relics-06.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      12,
+      4,
+      36,
+      44
+    ]
+  ],
+  "sha256": "e8ad618e963e1b6d1ed68129d0dbc275a5eadb62d57dfa95f6df08f71f4d429e",
+  "events": []
+}

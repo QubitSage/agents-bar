@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-02",
+  "actor": "atlas-terrain-02",
+  "title": "Forja · Borda esquerda",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-02.png",
+  "aseprite": "aseprite/atlas-terrain-02.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      9,
+      4,
+      86,
+      60
+    ]
+  ],
+  "sha256": "e7d6ec4a656335ae7cd2f4dc38feaf98f1b440d207c050267ac3a005d5b4240b",
+  "events": []
+}

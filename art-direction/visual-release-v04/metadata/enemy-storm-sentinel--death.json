@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-storm-sentinel",
+  "aseprite": "aseprite/enemy-storm-sentinel--death.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-sentinel--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-sentinel--death.png",
+  "source": "sources/enemy-storm-sentinel--motion.png",
+  "state": "death",
+  "title": "Sentinela da tempestade",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      48,
+      91,
+      157,
+      181
+    ],
+    [
+      42,
+      111,
+      143,
+      181
+    ],
+    [
+      37,
+      137,
+      160,
+      181
+    ],
+    [
+      36,
+      147,
+      153,
+      181
+    ]
+  ],
+  "sha256": "c6c74e60340396c5a42ced72cab3d291edde6b7c25c90e88178fdd9903e3faaa",
+  "gif": "previews/enemy-storm-sentinel--death.gif"
+}

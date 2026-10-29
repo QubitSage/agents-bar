@@ -1,0 +1,26 @@
+{
+  "assets": 288,
+  "nativeFiles": 345,
+  "characters": 24,
+  "animationClips": 226,
+  "frames": 1090,
+  "categories": {
+    "props": 12,
+    "relics": 9,
+    "terrain": 18,
+    "bosses": 64,
+    "buildings": 4,
+    "companions": 16,
+    "effects": 12,
+    "enemies": 48,
+    "environment-fx": 8,
+    "heroes": 32,
+    "npcs": 12,
+    "props-animated": 4,
+    "scenes": 9,
+    "station": 1,
+    "hud": 23,
+    "world-boss": 16
+  },
+  "issues": []
+}

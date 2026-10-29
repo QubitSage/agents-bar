@@ -1,0 +1,57 @@
+{
+  "actor": "boss-05-living-cathedral",
+  "aseprite": "aseprite/boss-05-living-cathedral--walk.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-05-living-cathedral--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-05-living-cathedral--walk.png",
+  "source": "sources/boss-05-living-cathedral--motion.png",
+  "state": "walk",
+  "title": "Catedral Faminta",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      54,
+      114,
+      247,
+      271
+    ],
+    [
+      54,
+      117,
+      245,
+      271
+    ],
+    [
+      52,
+      119,
+      246,
+      271
+    ],
+    [
+      54,
+      112,
+      239,
+      271
+    ]
+  ],
+  "sha256": "81efca4cc77f245f40f4885024413252e9d0f1fe74c35abf59e1931460352015",
+  "gif": "previews/boss-05-living-cathedral--walk.gif"
+}

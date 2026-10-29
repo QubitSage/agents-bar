@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-storm-wisp",
+  "aseprite": "aseprite/enemy-storm-wisp--death.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-wisp--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-wisp--death.png",
+  "source": "sources/enemy-storm-wisp--motion.png",
+  "state": "death",
+  "title": "Centelha",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      77,
+      112,
+      152,
+      181
+    ],
+    [
+      54,
+      124,
+      139,
+      181
+    ],
+    [
+      34,
+      141,
+      144,
+      181
+    ],
+    [
+      32,
+      154,
+      136,
+      181
+    ]
+  ],
+  "sha256": "8133c4e19f2ab953533f0af04e81889876cc7b797d76b15a318fcc6de2039a60",
+  "gif": "previews/enemy-storm-wisp--death.gif"
+}

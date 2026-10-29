@@ -1,0 +1,20 @@
+{
+  "animation": "attack_basic",
+  "title": "Mordida",
+  "frame_width": 288,
+  "frame_height": 208,
+  "columns": 4,
+  "rows": 2,
+  "loop": true,
+  "durations_ms": [
+    260,
+    150,
+    130,
+    80,
+    110,
+    120,
+    150,
+    380
+  ],
+  "method": "Generated complete poses, assembled and palette-converted with Aseprite batch; key-pose preview, continuity polish pending"
+}

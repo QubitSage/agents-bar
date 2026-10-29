@@ -1,0 +1,57 @@
+{
+  "actor": "boss-05-living-cathedral",
+  "aseprite": "aseprite/boss-05-living-cathedral--hurt.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-05-living-cathedral--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-05-living-cathedral--hurt.png",
+  "source": "sources/boss-05-living-cathedral--motion.png",
+  "state": "hurt",
+  "title": "Catedral Faminta",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      65,
+      122,
+      249,
+      271
+    ],
+    [
+      53,
+      115,
+      238,
+      271
+    ],
+    [
+      50,
+      113,
+      240,
+      271
+    ],
+    [
+      55,
+      116,
+      240,
+      271
+    ]
+  ],
+  "sha256": "a263293954936c8096344f0e4eb38e87dc52bb2fcb50e974d450b46b6529e0d4",
+  "gif": "previews/boss-05-living-cathedral--hurt.gif"
+}

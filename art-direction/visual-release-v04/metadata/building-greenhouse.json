@@ -1,0 +1,66 @@
+{
+  "actor": "building-greenhouse",
+  "aseprite": "aseprite/building-greenhouse.aseprite",
+  "category": "buildings",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "building-greenhouse",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-wild--fireflies",
+      32,
+      35,
+      96,
+      80
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/building-greenhouse.png",
+  "state": "ambient",
+  "title": "Estufa",
+  "visualGroundY": 148,
+  "width": 160,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      4,
+      21,
+      156,
+      156
+    ],
+    [
+      4,
+      21,
+      156,
+      156
+    ],
+    [
+      4,
+      21,
+      156,
+      156
+    ],
+    [
+      4,
+      21,
+      156,
+      156
+    ]
+  ],
+  "sha256": "e7169caf06127b2c53ed9ee096651b28b36a94ec9ce0214510b9a31645b09f77",
+  "events": [],
+  "gif": "previews/building-greenhouse.gif"
+}

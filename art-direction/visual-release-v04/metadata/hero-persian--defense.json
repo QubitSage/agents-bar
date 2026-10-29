@@ -1,0 +1,66 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--defense.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 112,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--defense.png",
+  "source": "sources/hero-persian--combat.png",
+  "state": "defense",
+  "title": "Andarilho persa",
+  "width": 224,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      68,
+      81,
+      152,
+      181
+    ],
+    [
+      54,
+      103,
+      147,
+      181
+    ],
+    [
+      66,
+      103,
+      166,
+      181
+    ],
+    [
+      76,
+      81,
+      159,
+      181
+    ]
+  ],
+  "sha256": "ccda2a6701fed9e35ed1a166ca2352b4c8737dc86adbc0f762ec226b65cff558",
+  "gif": "previews/hero-persian--defense.gif"
+}

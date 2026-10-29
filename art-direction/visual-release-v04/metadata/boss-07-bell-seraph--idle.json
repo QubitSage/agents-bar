@@ -1,0 +1,57 @@
+{
+  "actor": "boss-07-bell-seraph",
+  "aseprite": "aseprite/boss-07-bell-seraph--idle.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-07-bell-seraph--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-07-bell-seraph--idle.png",
+  "source": "sources/boss-07-bell-seraph--motion.png",
+  "state": "idle",
+  "title": "Serafim do Último Sino",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      62,
+      110,
+      230,
+      271
+    ],
+    [
+      55,
+      103,
+      238,
+      271
+    ],
+    [
+      54,
+      109,
+      231,
+      271
+    ],
+    [
+      57,
+      112,
+      225,
+      271
+    ]
+  ],
+  "sha256": "403e967368163903b02a2a18aab6b0a3635965cd66511d0cb3307cb10e46d136",
+  "gif": "previews/boss-07-bell-seraph--idle.gif"
+}

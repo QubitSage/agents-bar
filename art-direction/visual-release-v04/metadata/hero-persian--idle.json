@@ -1,0 +1,57 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--idle.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--idle.png",
+  "source": "sources/hero-persian--motion.png",
+  "state": "idle",
+  "title": "Andarilho persa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      67,
+      85,
+      144,
+      181
+    ],
+    [
+      59,
+      81,
+      141,
+      181
+    ],
+    [
+      57,
+      90,
+      138,
+      181
+    ],
+    [
+      61,
+      85,
+      139,
+      181
+    ]
+  ],
+  "sha256": "b00a1df2f579b71232aba09609d21da16ed1ba82120e5f12e98aee3241490011",
+  "gif": "previews/hero-persian--idle.gif"
+}

@@ -1,0 +1,62 @@
+{
+  "actor": "hero-kawaii",
+  "aseprite": "aseprite/hero-kawaii--attack.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-kawaii--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-kawaii--attack.png",
+  "source": "sources/hero-kawaii--combat.png",
+  "state": "attack",
+  "title": "Cavaleiro estelar",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      86,
+      134,
+      181
+    ],
+    [
+      40,
+      86,
+      155,
+      181
+    ],
+    [
+      37,
+      89,
+      156,
+      181
+    ],
+    [
+      55,
+      85,
+      132,
+      181
+    ]
+  ],
+  "sha256": "d1d4df70ab18eb480040e6e9adc09016e047b9b01db54eb9fb55c99b55ce9102",
+  "gif": "previews/hero-kawaii--attack.gif"
+}

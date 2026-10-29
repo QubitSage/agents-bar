@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-03",
+  "actor": "atlas-terrain-03",
+  "title": "Forja · Borda direita",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-03.png",
+  "aseprite": "aseprite/atlas-terrain-03.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      9,
+      4,
+      87,
+      60
+    ]
+  ],
+  "sha256": "60d3711286c0b93837eef4464ece91b45770afc567fe529f0121193c1067465c",
+  "events": []
+}

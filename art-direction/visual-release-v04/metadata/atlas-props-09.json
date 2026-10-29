@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-09",
+  "actor": "atlas-props-09",
+  "title": "Vaso medicinal",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-09.png",
+  "aseprite": "aseprite/atlas-props-09.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      15,
+      4,
+      49,
+      60
+    ]
+  ],
+  "sha256": "e3b96430d5aef251147655055e73c45834c51b6138cf7b091730c176a0601197",
+  "events": []
+}

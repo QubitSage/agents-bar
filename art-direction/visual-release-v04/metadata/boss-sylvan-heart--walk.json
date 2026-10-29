@@ -1,0 +1,57 @@
+{
+  "actor": "boss-sylvan-heart",
+  "aseprite": "aseprite/boss-sylvan-heart--walk.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-sylvan-heart--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-sylvan-heart--walk.png",
+  "source": "sources/boss-sylvan-heart--motion.png",
+  "state": "walk",
+  "title": "Coração Silvestre",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      84,
+      115,
+      242,
+      271
+    ],
+    [
+      96,
+      114,
+      225,
+      271
+    ],
+    [
+      70,
+      114,
+      220,
+      271
+    ],
+    [
+      67,
+      115,
+      205,
+      271
+    ]
+  ],
+  "sha256": "1882ecb8206eb44099b2ee48bdaae5de98584b7a780ad7fe97c85ecd4484f05f",
+  "gif": "previews/boss-sylvan-heart--walk.gif"
+}

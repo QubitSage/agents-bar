@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-06",
+  "actor": "atlas-props-06",
+  "title": "Banco",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-06.png",
+  "aseprite": "aseprite/atlas-props-06.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      25,
+      59,
+      60
+    ]
+  ],
+  "sha256": "a6daebbb49f3b5d1d67d384927a3fd3319a1ed6f70ad4e4399a442280eac94d3",
+  "events": []
+}

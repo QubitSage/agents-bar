@@ -1,0 +1,57 @@
+{
+  "actor": "npc-collector",
+  "aseprite": "aseprite/npc-collector--greet.aseprite",
+  "category": "npcs",
+  "columns": 4,
+  "durations": [
+    200,
+    200,
+    240,
+    200
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "npc-collector--greet",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/npc-collector--greet.png",
+  "source": "sources/npc-collector--daily.png",
+  "state": "greet",
+  "title": "Colecionadora",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      65,
+      84,
+      135,
+      181
+    ],
+    [
+      64,
+      84,
+      135,
+      181
+    ],
+    [
+      65,
+      85,
+      128,
+      181
+    ],
+    [
+      66,
+      85,
+      137,
+      181
+    ]
+  ],
+  "sha256": "3d00fd5859ea747baf48f7e574955acd4f2aeacea6be440685d116be232ab362",
+  "gif": "previews/npc-collector--greet.gif"
+}

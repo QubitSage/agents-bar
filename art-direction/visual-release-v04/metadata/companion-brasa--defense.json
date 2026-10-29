@@ -1,0 +1,66 @@
+{
+  "actor": "companion-brasa",
+  "aseprite": "aseprite/companion-brasa--defense.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-brasa--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-brasa--defense.png",
+  "source": "sources/companion-brasa--combat.png",
+  "state": "defense",
+  "title": "Brasa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      43,
+      82,
+      157,
+      181
+    ],
+    [
+      53,
+      89,
+      152,
+      181
+    ],
+    [
+      45,
+      105,
+      169,
+      181
+    ],
+    [
+      45,
+      84,
+      157,
+      181
+    ]
+  ],
+  "sha256": "c18e080785aa0485c2003b7eadaeedfd5ef1a0e64095f9dae349f9bad43b8ac5",
+  "gif": "previews/companion-brasa--defense.gif"
+}

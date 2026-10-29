@@ -1,0 +1,66 @@
+{
+  "actor": "boss-06-stained-glass-hydra",
+  "aseprite": "aseprite/boss-06-stained-glass-hydra--defense.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-06-stained-glass-hydra--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-06-stained-glass-hydra--defense.png",
+  "source": "sources/boss-06-stained-glass-hydra--combat.png",
+  "state": "defense",
+  "title": "Hidra dos Juramentos",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      59,
+      117,
+      233,
+      271
+    ],
+    [
+      59,
+      141,
+      234,
+      271
+    ],
+    [
+      69,
+      141,
+      235,
+      271
+    ],
+    [
+      65,
+      116,
+      234,
+      271
+    ]
+  ],
+  "sha256": "796caa446144bc1f03a21c2f2a006f8f3ad2fd2baefb50ea562a920e16ca769a",
+  "gif": "previews/boss-06-stained-glass-hydra--defense.gif"
+}

@@ -1,0 +1,66 @@
+{
+  "actor": "enemy-storm-sentinel",
+  "aseprite": "aseprite/enemy-storm-sentinel--defense.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-sentinel--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 128,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-sentinel--defense.png",
+  "source": "sources/enemy-storm-sentinel--combat.png",
+  "state": "defense",
+  "title": "Sentinela da tempestade",
+  "width": 256,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      72,
+      79,
+      190,
+      181
+    ],
+    [
+      82,
+      82,
+      172,
+      181
+    ],
+    [
+      68,
+      103,
+      163,
+      181
+    ],
+    [
+      80,
+      79,
+      195,
+      181
+    ]
+  ],
+  "sha256": "26f670bcbfc63c3c519d5d38c2f57dceaaf8ccd27d9005058d628e89b5712e29",
+  "gif": "previews/enemy-storm-sentinel--defense.gif"
+}

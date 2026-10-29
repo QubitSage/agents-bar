@@ -1,0 +1,57 @@
+{
+  "actor": "environment-wild",
+  "aseprite": "aseprite/environment-wild--portal.aseprite",
+  "category": "environment-fx",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "environment-wild--portal",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 64,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/environment-wild--portal.png",
+  "source": "sources/environment--wild.png",
+  "state": "portal",
+  "title": "Ambiente · jardim e tempestade",
+  "width": 128,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      27,
+      9,
+      98,
+      109
+    ],
+    [
+      17,
+      16,
+      104,
+      114
+    ],
+    [
+      23,
+      16,
+      112,
+      107
+    ],
+    [
+      28,
+      9,
+      95,
+      111
+    ]
+  ],
+  "sha256": "bf5d54a3f8d2b84445fabac5674b38acbef66ceb06d62b4542a26f1b22db371e",
+  "gif": "previews/environment-wild--portal.gif"
+}

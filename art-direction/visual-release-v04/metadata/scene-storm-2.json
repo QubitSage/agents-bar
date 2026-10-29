@@ -1,0 +1,73 @@
+{
+  "actor": "scene-storm-2",
+  "aseprite": "aseprite/scene-storm-2.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-storm-2",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-wild--storm",
+      245,
+      0,
+      100,
+      92
+    ],
+    [
+      "environment-forge--beacon",
+      387,
+      28,
+      32,
+      48
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-storm-2.png",
+  "state": "ambient",
+  "title": "Farol partido",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "be045e90f764e02d6324cb87125a93e7fc16cbc82763765779458dc04f643c92",
+  "events": [],
+  "gif": "previews/scene-storm-2.gif"
+}

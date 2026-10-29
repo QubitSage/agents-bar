@@ -1,0 +1,62 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--special.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    260,
+    190,
+    160,
+    300
+  ],
+  "events": [
+    {
+      "frame": 3,
+      "name": "visual_release"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--special",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 128,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--special.png",
+  "source": "sources/companion-luma--combat.png",
+  "state": "special",
+  "title": "Luma",
+  "width": 256,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      74,
+      112,
+      193,
+      181
+    ],
+    [
+      76,
+      58,
+      184,
+      181
+    ],
+    [
+      14,
+      62,
+      237,
+      181
+    ],
+    [
+      85,
+      105,
+      173,
+      181
+    ]
+  ],
+  "sha256": "f34f871c10c185a4f537332c9733d25c0c35a02d83de82661ac26f9714d689ea",
+  "gif": "previews/companion-luma--special.gif"
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "boss-storm-archon",
+  "aseprite": "aseprite/boss-storm-archon--hurt.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-storm-archon--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-storm-archon--hurt.png",
+  "source": "sources/boss-storm-archon--motion.png",
+  "state": "hurt",
+  "title": "Arconte da Tempestade",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      58,
+      100,
+      245,
+      271
+    ],
+    [
+      58,
+      129,
+      235,
+      271
+    ],
+    [
+      65,
+      108,
+      233,
+      271
+    ],
+    [
+      59,
+      99,
+      229,
+      271
+    ]
+  ],
+  "sha256": "7c960ca8bf82b0593a59ff4a98aad15c1b2f1cd98914223d06754c440d2edc68",
+  "gif": "previews/boss-storm-archon--hurt.gif"
+}

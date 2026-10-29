@@ -1,0 +1,157 @@
+{
+  "method": "Built-in imagegen pose sheets; Aseprite assembly",
+  "clips": [
+    {
+      "id": "attack_basic",
+      "title": "Mordida",
+      "frames": 8,
+      "ms": [
+        170,
+        130,
+        100,
+        70,
+        90,
+        100,
+        130,
+        170
+      ],
+      "story": "A heavy forward BITE. Frame 1 ready stance. Frame 2 shoulders lower and head retracts, elbows flex. Frame 3 neck coils, jaw opens very wide with upper and lower teeth separated. Frame 4 rear legs push and front paws reach forward, neck shoots forward and DOWN, open maw elongated towards left. Frame 5 JAWS SLAM CLOSED into a narrow toothed seam, head thrust maximally forward, rear foot planted hard, crown tilted and towers lag behind. Frame 6 jaw stays closed, body recoils, front knees buckle to absorb weight. Frame 7 raises head and shifts weight back, jaw partially opens. Frame 8 returns to the precise ready stance of frame 1. Essential: frame 5 mouth is CLOSED, not the same circular open portal as frame 1.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: A heavy forward BITE. Frame 1 ready stance. Frame 2 shoulders lower and head retracts, elbows flex. Frame 3 neck coils, jaw opens very wide with upper and lower teeth separated. Frame 4 rear legs push and front paws reach forward, neck shoots forward and DOWN, open maw elongated towards left. Frame 5 JAWS SLAM CLOSED into a narrow toothed seam, head thrust maximally forward, rear foot planted hard, crown tilted and towers lag behind. Frame 6 jaw stays closed, body recoils, front knees buckle to absorb weight. Frame 7 raises head and shifts weight back, jaw partially opens. Frame 8 returns to the precise ready stance of frame 1. Essential: frame 5 mouth is CLOSED, not the same circular open portal as frame 1.",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "attack_01_stomp",
+      "title": "Pisão sísmico",
+      "frames": 8,
+      "ms": [
+        160,
+        130,
+        120,
+        90,
+        80,
+        100,
+        140,
+        170
+      ],
+      "story": "A massive foreleg STOMP. 1 ready. 2 shifts weight to rear legs, head lowers. 3 lifts front foreleg HIGH with elbow fully bent and underside of foot visible. 4 rises higher with that leg nearly vertical above shoulder, torso twists slightly without camera change, city leaning back. 5 plants lifted paw violently, elbow straight, body crouched LOW, impact cracks/small stone chips beneath paw only. 6 deep compressed follow-through, neighboring legs bent and head dips. 7 pushes up, planted toes splayed, settles towers. 8 original ready pose. Draw real bent and extended leg anatomy; don't translate the whole body.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: A massive foreleg STOMP. 1 ready. 2 shifts weight to rear legs, head lowers. 3 lifts front foreleg HIGH with elbow fully bent and underside of foot visible. 4 rises higher with that leg nearly vertical above shoulder, torso twists slightly without camera change, city leaning back. 5 plants lifted paw violently, elbow straight, body crouched LOW, impact cracks/small stone chips beneath paw only. 6 deep compressed follow-through, neighboring legs bent and head dips. 7 pushes up, planted toes splayed, settles towers. 8 original ready pose. Draw real bent and extended leg anatomy; don't translate the whole body.",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "attack_02_tail",
+      "title": "Varredura de cauda",
+      "frames": 8,
+      "ms": [
+        170,
+        120,
+        100,
+        90,
+        80,
+        110,
+        150,
+        180
+      ],
+      "story": "A wide sweeping TAIL attack. 1 ready. 2 rear hips twist and tail coils tight upward. 3 tail raised over the city like a scorpion, fully different silhouette. 4 rear legs brace, tail uncoils backward to the RIGHT. 5 tail lashes as a long horizontal armored curve toward LEFT across the foreground below head, a clearly drawn foreshortened tip; a small cyan pixel arc follows its tip. 6 tail wraps in front at low height, body counterbalances on bent knees. 7 tail recoils toward rear, the city settles. 8 original curled-tail ready pose. Redraw the tail's curvature and overlapping armor at every frame.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: A wide sweeping TAIL attack. 1 ready. 2 rear hips twist and tail coils tight upward. 3 tail raised over the city like a scorpion, fully different silhouette. 4 rear legs brace, tail uncoils backward to the RIGHT. 5 tail lashes as a long horizontal armored curve toward LEFT across the foreground below head, a clearly drawn foreshortened tip; a small cyan pixel arc follows its tip. 6 tail wraps in front at low height, body counterbalances on bent knees. 7 tail recoils toward rear, the city settles. 8 original curled-tail ready pose. Redraw the tail's curvature and overlapping armor at every frame.",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "attack_03_beam",
+      "title": "Sopro de eclipse",
+      "frames": 8,
+      "ms": [
+        180,
+        150,
+        150,
+        100,
+        160,
+        160,
+        130,
+        190
+      ],
+      "story": "A charged portal BREATH attack. 1 ready. 2 spreads forelegs, bends elbows, head retracts. 3 arches neck upward, jaw opens wider, small violet-white orb gathers inside mouth. 4 crouches and thrusts head forward horizontally, mouth now stretched WIDE OVAL instead of circle, crown lifted. 5 expels short thick cyan-violet beam to LEFT contained inside cell, rear legs lean forward bracing recoil, neck plates extended. 6 second distinct firing pose: head slightly lower, elbows buckle, beam splits into jagged pixel strands. 7 beam vanishes, jaw closes nearly shut, head dips from exhaustion. 8 ready stance. Make body recoil and mouth anatomy materially different.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: A charged portal BREATH attack. 1 ready. 2 spreads forelegs, bends elbows, head retracts. 3 arches neck upward, jaw opens wider, small violet-white orb gathers inside mouth. 4 crouches and thrusts head forward horizontally, mouth now stretched WIDE OVAL instead of circle, crown lifted. 5 expels short thick cyan-violet beam to LEFT contained inside cell, rear legs lean forward bracing recoil, neck plates extended. 6 second distinct firing pose: head slightly lower, elbows buckle, beam splits into jagged pixel strands. 7 beam vanishes, jaw closes nearly shut, head dips from exhaustion. 8 ready stance. Make body recoil and mouth anatomy materially different.",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "attack_04_barrage",
+      "title": "Artilharia da cidade",
+      "frames": 8,
+      "ms": [
+        180,
+        130,
+        130,
+        110,
+        110,
+        120,
+        150,
+        180
+      ],
+      "story": "The city on the back becomes mobile ARTILLERY. 1 ready. 2 beast crouches, all legs spread, upper towers hinge upward revealing gold celestial cannon barrels. 3 front tower aims diagonally upper LEFT, central spire opens like mechanical petals. 4 first front cannon fires a small gold-cyan orb leftward, front city section recoils and forelegs compress. 5 central cannons fire two small orbs, torso deeper compressed, back towers recoil asynchronously. 6 rear cannon fires as front towers return, tail raised to brace. 7 towers fold down and beast rises. 8 normal closed cathedral ready pose. Draw obvious transformed tower geometry and asymmetrical firing poses. Keep every projectile inside cell.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: The city on the back becomes mobile ARTILLERY. 1 ready. 2 beast crouches, all legs spread, upper towers hinge upward revealing gold celestial cannon barrels. 3 front tower aims diagonally upper LEFT, central spire opens like mechanical petals. 4 first front cannon fires a small gold-cyan orb leftward, front city section recoils and forelegs compress. 5 central cannons fire two small orbs, torso deeper compressed, back towers recoil asynchronously. 6 rear cannon fires as front towers return, tail raised to brace. 7 towers fold down and beast rises. 8 normal closed cathedral ready pose. Draw obvious transformed tower geometry and asymmetrical firing poses. Keep every projectile inside cell.",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "ultimate",
+      "title": "Ultimate · eclipse absoluto",
+      "frames": 8,
+      "ms": [
+        200,
+        170,
+        180,
+        170,
+        130,
+        190,
+        160,
+        240
+      ],
+      "story": "Ultimate ECLIPSE APOCALYPSE. 1 ready. 2 beast crouches extremely low, forelegs splayed and jaw points up. 3 body rises partly upright on rear legs, city spires unfold like an immense crown, halo splits into two gold rings. 4 levitates slightly, all FOUR legs folded close to belly and tail stretched downward, large dark sun forms just above the city within cell. 5 violently extends all legs and neck, opens huge vertical toothed maw; eclipse energy streams from sun to mouth. 6 lands in a deep wide crouch and releases a bright cyan-violet radial pixel shockwave confined inside cell, towers bow outward. 7 exhausted kneeling pose, halo reforms, city spires fold, fading small sparks. 8 standing ready. Strongly different leg and torso shapes, same creature identity.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: Ultimate ECLIPSE APOCALYPSE. 1 ready. 2 beast crouches extremely low, forelegs splayed and jaw points up. 3 body rises partly upright on rear legs, city spires unfold like an immense crown, halo splits into two gold rings. 4 levitates slightly, all FOUR legs folded close to belly and tail stretched downward, large dark sun forms just above the city within cell. 5 violently extends all legs and neck, opens huge vertical toothed maw; eclipse energy streams from sun to mouth. 6 lands in a deep wide crouch and releases a bright cyan-violet radial pixel shockwave confined inside cell, towers bow outward. 7 exhausted kneeling pose, halo reforms, city spires fold, fading small sparks. 8 standing ready. Strongly different leg and torso shapes, same creature identity.",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "defense",
+      "title": "Defesa · couraça astral",
+      "frames": 8,
+      "ms": [
+        170,
+        120,
+        130,
+        150,
+        190,
+        140,
+        130,
+        170
+      ],
+      "story": "DEFENSIVE armored crouch. 1 ready. 2 lowers head and neck, bends knees. 3 front forelimbs draw inward under neck while helmet/cheek plates fold to cover portal, city sinks on its armored supports. 4 deep low compact TURTLE-LIKE stance with portal mouth mostly CLOSED behind interlocking gold-silver plates, tail curls around flank as armor. 5 same protection from a fresh impact pose, shoulders recoiling, a small cyan hexagonal shield in front of the face, gold sparks on shield. 6 begins reopening plates and loosening tail. 7 extends front knees and unfolds neck. 8 original standing ready. Body must visibly tuck and change silhouette, not just a shield overlay.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: DEFENSIVE armored crouch. 1 ready. 2 lowers head and neck, bends knees. 3 front forelimbs draw inward under neck while helmet/cheek plates fold to cover portal, city sinks on its armored supports. 4 deep low compact TURTLE-LIKE stance with portal mouth mostly CLOSED behind interlocking gold-silver plates, tail curls around flank as armor. 5 same protection from a fresh impact pose, shoulders recoiling, a small cyan hexagonal shield in front of the face, gold sparks on shield. 6 begins reopening plates and loosening tail. 7 extends front knees and unfolds neck. 8 original standing ready. Body must visibly tuck and change silhouette, not just a shield overlay.",
+      "columns": 4,
+      "rows": 2
+    },
+    {
+      "id": "death",
+      "title": "Morte · queda da cidade",
+      "frames": 8,
+      "ms": [
+        220,
+        160,
+        180,
+        180,
+        180,
+        220,
+        260,
+        500
+      ],
+      "story": "DEATH sequence; do NOT return to ready stance. 1 standing but unstable with dim portal. 2 forelegs buckle inwards and head drops, cathedral cracks. 3 falls onto front knees, mouth loses its glowing core, central spire tilts physically and breaks near base. 4 rolls/slumps down on its LEFT flank, legs collapse at articulated joints, towers fall sideways in recognizable large pieces. 5 heavy body hits ground on its side, forelimbs folded awkwardly, broken spires hit beside body, orbital crown drops in front. 6 body settles as wrecked blue-silver armor, crushed city and limp uncoiled tail, a few gold dust pixels. 7 lifeless rubble corpse, mouth dark, no glows, no sparks, retain beast silhouette. 8 same final lifeless corpse held, tiny debris settles. Last frame much LOWER and wider than initial, recognizable fallen city and armored carcass; no disappearing, no standing torso.",
+      "prompt": "Use case: stylized-concept. Generate a production-oriented PIXEL ART ANIMATION SPRITE SHEET for the creature in the reference. Reference is character identity/design only: AZHOR is a quadrupedal armored cosmic leviathan with a cathedral city growing on its back, silver-blue armor, gold edges, huge portal maw, antler-like golden orbital halo, curled armored tail. Maintain same anatomy, proportions, number of limbs, colors, design and viewing angle in every frame. Face LEFT throughout. Fixed three-quarter side camera, NO camera rotation. Simplify tiny city detail into coherent pixel clusters, preserve recognizable towers, halo and silhouette. TRUE whole-pose redraws in each cell: bend joints, articulate toes, reconstruct changed mouth anatomy and compressed/extended neck, deform the back/city silhouette with secondary action. This is NOT a rotated/scaled identical cutout in every cell. Dramatically distinct readable key poses with anticipation, contact and recovery. Crisp stepped pixel clusters, no blur, no interpolation smears, no smooth painted shading. Restrained ramps. Light from upper left. Transparent background.\nLAYOUT CRITICAL: exactly FOUR EQUAL COLUMNS and TWO EQUAL ROWS, exactly EIGHT distinct frames in left-to-right then top-to-bottom reading order. Landscape canvas aspect 8:3, each cell aspect 4:3. Same spatial scale and SAME FLOOR BASELINE at 85% of every cell. Each complete creature fits safely inside its own cell with a 10% transparent gutter on all sides; no overlap between frames, no extra rows, no text, no grid lines, no numbering, no background, no ground platforms. Subtle pixel particles only where specified. Entire body and all limbs always visible; no clipping.\nACTION: DEATH sequence; do NOT return to ready stance. 1 standing but unstable with dim portal. 2 forelegs buckle inwards and head drops, cathedral cracks. 3 falls onto front knees, mouth loses its glowing core, central spire tilts physically and breaks near base. 4 rolls/slumps down on its LEFT flank, legs collapse at articulated joints, towers fall sideways in recognizable large pieces. 5 heavy body hits ground on its side, forelimbs folded awkwardly, broken spires hit beside body, orbital crown drops in front. 6 body settles as wrecked blue-silver armor, crushed city and limp uncoiled tail, a few gold dust pixels. 7 lifeless rubble corpse, mouth dark, no glows, no sparks, retain beast silhouette. 8 same final lifeless corpse held, tiny debris settles. Last frame much LOWER and wider than initial, recognizable fallen city and armored carcass; no disappearing, no standing torso.",
+      "columns": 4,
+      "rows": 2
+    }
+  ]
+}

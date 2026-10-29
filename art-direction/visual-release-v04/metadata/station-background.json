@@ -1,0 +1,73 @@
+{
+  "actor": "station-background",
+  "aseprite": "aseprite/station-background.aseprite",
+  "category": "station",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "station-background",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-forge--smoke",
+      342,
+      18,
+      30,
+      52
+    ],
+    [
+      "environment-forge--beacon",
+      25,
+      52,
+      22,
+      40
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/station-background.png",
+  "state": "ambient",
+  "title": "Estação Zero",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "4eaaa34d7821d4aec80f5403aaa05cd0d425c081bffd49bbd4f796affff05e2e",
+  "events": [],
+  "gif": "previews/station-background.gif"
+}

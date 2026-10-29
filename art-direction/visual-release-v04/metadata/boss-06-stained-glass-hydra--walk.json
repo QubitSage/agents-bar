@@ -1,0 +1,57 @@
+{
+  "actor": "boss-06-stained-glass-hydra",
+  "aseprite": "aseprite/boss-06-stained-glass-hydra--walk.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-06-stained-glass-hydra--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-06-stained-glass-hydra--walk.png",
+  "source": "sources/boss-06-stained-glass-hydra--motion.png",
+  "state": "walk",
+  "title": "Hidra dos Juramentos",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      70,
+      108,
+      241,
+      271
+    ],
+    [
+      70,
+      109,
+      237,
+      271
+    ],
+    [
+      63,
+      109,
+      235,
+      271
+    ],
+    [
+      61,
+      111,
+      231,
+      271
+    ]
+  ],
+  "sha256": "d5531bad916d11ff7baf9d7c33d2249ffad11467d34d03984b19cbd8cdecbb4e",
+  "gif": "previews/boss-06-stained-glass-hydra--walk.gif"
+}

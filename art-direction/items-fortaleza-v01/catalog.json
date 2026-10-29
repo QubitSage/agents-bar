@@ -1,0 +1,281 @@
+{
+  "status": "concept-review",
+  "hud_direction": "A — Fortaleza",
+  "tool": "built-in image_gen",
+  "format": "4 RGBA sheets, 1536x1024 each, six proposed items per sheet",
+  "production_ready": false,
+  "groups": [
+    {
+      "id": "weapons",
+      "name": "Armas",
+      "note": "Seis silhuetas para definir as famílias de equipamento.",
+      "items": [
+        {
+          "name": "Espada da Vanguarda",
+          "id": "weapons-01",
+          "proposed_cell": [
+            0,
+            0,
+            512,
+            480
+          ]
+        },
+        {
+          "name": "Machado de Brasa",
+          "id": "weapons-02",
+          "proposed_cell": [
+            512,
+            0,
+            512,
+            480
+          ]
+        },
+        {
+          "name": "Martelo da Forja",
+          "id": "weapons-03",
+          "proposed_cell": [
+            1024,
+            0,
+            512,
+            480
+          ]
+        },
+        {
+          "name": "Arco do Vigia",
+          "id": "weapons-04",
+          "proposed_cell": [
+            0,
+            480,
+            512,
+            544
+          ]
+        },
+        {
+          "name": "Cajado de Luma",
+          "id": "weapons-05",
+          "proposed_cell": [
+            512,
+            480,
+            512,
+            544
+          ]
+        },
+        {
+          "name": "Lança da Tempestade",
+          "id": "weapons-06",
+          "proposed_cell": [
+            1024,
+            480,
+            512,
+            544
+          ]
+        }
+      ],
+      "source": "weapons.png"
+    },
+    {
+      "id": "armor",
+      "name": "Armaduras",
+      "note": "Um conjunto coerente com a identidade do Cavaleiro.",
+      "items": [
+        {
+          "name": "Elmo da Fortaleza",
+          "id": "armor-01",
+          "proposed_cell": [
+            0,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Peitoral da Vanguarda",
+          "id": "armor-02",
+          "proposed_cell": [
+            512,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Manoplas de Aço",
+          "id": "armor-03",
+          "proposed_cell": [
+            1024,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Grevas da Guarda",
+          "id": "armor-04",
+          "proposed_cell": [
+            0,
+            512,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Escudo do Juramento",
+          "id": "armor-05",
+          "proposed_cell": [
+            512,
+            512,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Manto da Fortaleza",
+          "id": "armor-06",
+          "proposed_cell": [
+            1024,
+            512,
+            512,
+            512
+          ]
+        }
+      ],
+      "source": "armor.png"
+    },
+    {
+      "id": "relics",
+      "name": "Relíquias",
+      "note": "Redesenho das seis relíquias que já existem no jogo.",
+      "items": [
+        {
+          "name": "Lente de precisão",
+          "id": "relics-01",
+          "proposed_cell": [
+            0,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Placa do Rebocador",
+          "id": "relics-02",
+          "proposed_cell": [
+            512,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Semente luminosa",
+          "id": "relics-03",
+          "proposed_cell": [
+            1024,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Broto ancestral",
+          "id": "relics-04",
+          "proposed_cell": [
+            0,
+            512,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Bobina de tempestade",
+          "id": "relics-05",
+          "proposed_cell": [
+            512,
+            512,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Fragmento do farol",
+          "id": "relics-06",
+          "proposed_cell": [
+            1024,
+            512,
+            512,
+            512
+          ]
+        }
+      ],
+      "source": "relics.png"
+    },
+    {
+      "id": "materials",
+      "name": "Materiais",
+      "note": "Sucata, núcleos e sementes; mais três propostas para a Forja.",
+      "items": [
+        {
+          "name": "Sucata",
+          "id": "materials-01",
+          "proposed_cell": [
+            0,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Núcleo de energia",
+          "id": "materials-02",
+          "proposed_cell": [
+            512,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Sementes",
+          "id": "materials-03",
+          "proposed_cell": [
+            1024,
+            0,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Lingotes de aço",
+          "id": "materials-04",
+          "proposed_cell": [
+            0,
+            512,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Cristais de tempestade",
+          "id": "materials-05",
+          "proposed_cell": [
+            512,
+            512,
+            512,
+            512
+          ]
+        },
+        {
+          "name": "Fibra ancestral",
+          "id": "materials-06",
+          "proposed_cell": [
+            1024,
+            512,
+            512,
+            512
+          ]
+        }
+      ],
+      "source": "materials.png"
+    }
+  ]
+}

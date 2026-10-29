@@ -1,0 +1,57 @@
+{
+  "actor": "effects-arcane",
+  "aseprite": "aseprite/effects-arcane--reward.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-arcane--reward",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-arcane--reward.png",
+  "source": "sources/effects--arcane.png",
+  "state": "reward",
+  "title": "Combate · arcano",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      45,
+      40,
+      60,
+      62
+    ],
+    [
+      15,
+      21,
+      79,
+      77
+    ],
+    [
+      12,
+      17,
+      82,
+      79
+    ],
+    [
+      23,
+      22,
+      70,
+      75
+    ]
+  ],
+  "sha256": "23db5d05f95e444132255bdcda22ec03173d43ac1abb32ecc723a59929096a86",
+  "gif": "previews/effects-arcane--reward.gif"
+}

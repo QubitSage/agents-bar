@@ -1,0 +1,78 @@
+{
+  "actor": "ui-bar-health",
+  "aseprite": "aseprite/ui-bar-health.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "fillRect": {
+    "height": 6,
+    "width": 172,
+    "x": 10,
+    "y": 7
+  },
+  "frames": 5,
+  "height": 20,
+  "id": "ui-bar-health",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 7,
+    "left": 10,
+    "right": 10,
+    "top": 7
+  },
+  "preview": "static/ui-bar-health.png",
+  "rows": 1,
+  "sheet": "sheets/ui-bar-health.png",
+  "state": "states",
+  "states": [
+    "100",
+    "75",
+    "50",
+    "25",
+    "0"
+  ],
+  "title": "Vida",
+  "width": 192,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ]
+  ],
+  "sha256": "d500487490adb443fc3f8a59e2c4b5d7b418122cb200a60cd2d9a5213749bdba",
+  "events": []
+}

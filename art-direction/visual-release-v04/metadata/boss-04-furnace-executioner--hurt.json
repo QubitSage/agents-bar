@@ -1,0 +1,57 @@
+{
+  "actor": "boss-04-furnace-executioner",
+  "aseprite": "aseprite/boss-04-furnace-executioner--hurt.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-04-furnace-executioner--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-04-furnace-executioner--hurt.png",
+  "source": "sources/boss-04-furnace-executioner--motion.png",
+  "state": "hurt",
+  "title": "Carrasco das Mil Forjas",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      79,
+      105,
+      224,
+      271
+    ],
+    [
+      64,
+      122,
+      232,
+      271
+    ],
+    [
+      39,
+      117,
+      246,
+      271
+    ],
+    [
+      48,
+      106,
+      230,
+      271
+    ]
+  ],
+  "sha256": "959149e4970a8a0708e579d368d84b3ac35fe310bdfc82485e3bc156813a5b03",
+  "gif": "previews/boss-04-furnace-executioner--hurt.gif"
+}

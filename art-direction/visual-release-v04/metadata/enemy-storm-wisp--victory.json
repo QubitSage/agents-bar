@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-wisp",
+  "aseprite": "aseprite/enemy-storm-wisp--victory.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-wisp--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-wisp--victory.png",
+  "source": "sources/enemy-storm-wisp--combat.png",
+  "state": "victory",
+  "title": "Centelha",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      59,
+      120,
+      140,
+      181
+    ],
+    [
+      59,
+      90,
+      143,
+      181
+    ],
+    [
+      45,
+      96,
+      152,
+      181
+    ],
+    [
+      50,
+      102,
+      146,
+      181
+    ]
+  ],
+  "sha256": "3694395b80d59ffb26f7712634975eb3d6e10b89a8c3d6d476963c8fbebeb019",
+  "gif": "previews/enemy-storm-wisp--victory.gif"
+}

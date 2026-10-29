@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-10",
+  "actor": "atlas-props-10",
+  "title": "Cristal",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-10.png",
+  "aseprite": "aseprite/atlas-props-10.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      9,
+      4,
+      55,
+      60
+    ]
+  ],
+  "sha256": "33493780a4a4d5aee0ee2e43c37147c32173431f5117471a364c6412c7b29d34",
+  "events": []
+}

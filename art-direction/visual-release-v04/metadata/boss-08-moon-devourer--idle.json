@@ -1,0 +1,57 @@
+{
+  "actor": "boss-08-moon-devourer",
+  "aseprite": "aseprite/boss-08-moon-devourer--idle.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-08-moon-devourer--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-08-moon-devourer--idle.png",
+  "source": "sources/boss-08-moon-devourer--motion.png",
+  "state": "idle",
+  "title": "Devorador de Luas",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      67,
+      111,
+      232,
+      271
+    ],
+    [
+      74,
+      102,
+      238,
+      271
+    ],
+    [
+      65,
+      112,
+      241,
+      271
+    ],
+    [
+      70,
+      109,
+      230,
+      271
+    ]
+  ],
+  "sha256": "bed837e5bf7630f61329adcd4d1eb15e9863a1256f49f634abf812436f6c6e8a",
+  "gif": "previews/boss-08-moon-devourer--idle.gif"
+}

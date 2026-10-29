@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-01",
+  "actor": "atlas-props-01",
+  "title": "Baú",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-01.png",
+  "aseprite": "aseprite/atlas-props-01.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      7,
+      60,
+      60
+    ]
+  ],
+  "sha256": "e268800cf5e76f2752aef51bc8297d11328737922fe6169e0772d84b5caa557c",
+  "events": []
+}

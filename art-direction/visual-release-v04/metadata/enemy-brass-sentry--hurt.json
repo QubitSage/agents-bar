@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-brass-sentry",
+  "aseprite": "aseprite/enemy-brass-sentry--hurt.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-brass-sentry--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-brass-sentry--hurt.png",
+  "source": "sources/enemy-brass-sentry--motion.png",
+  "state": "hurt",
+  "title": "Vigia de latão",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      50,
+      85,
+      159,
+      181
+    ],
+    [
+      58,
+      99,
+      140,
+      181
+    ],
+    [
+      51,
+      90,
+      141,
+      181
+    ],
+    [
+      46,
+      87,
+      137,
+      181
+    ]
+  ],
+  "sha256": "4a9a7d41b1366d8fd15a80bcc3d380ca8013e05225c811c4cf6f0b3ac76a88c9",
+  "gif": "previews/enemy-brass-sentry--hurt.gif"
+}

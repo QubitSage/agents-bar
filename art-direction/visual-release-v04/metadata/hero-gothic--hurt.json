@@ -1,0 +1,57 @@
+{
+  "actor": "hero-gothic",
+  "aseprite": "aseprite/hero-gothic--hurt.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-gothic--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-gothic--hurt.png",
+  "source": "sources/hero-gothic--motion.png",
+  "state": "hurt",
+  "title": "Cavaleiro sombrio",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      67,
+      86,
+      140,
+      181
+    ],
+    [
+      65,
+      99,
+      136,
+      181
+    ],
+    [
+      62,
+      86,
+      136,
+      181
+    ],
+    [
+      62,
+      83,
+      133,
+      181
+    ]
+  ],
+  "sha256": "ab578d0ded2b67bb9c15fbddcc9aaf673fcd23130237fceca21a10267b5017a5",
+  "gif": "previews/hero-gothic--hurt.gif"
+}

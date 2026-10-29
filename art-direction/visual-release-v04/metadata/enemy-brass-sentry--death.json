@@ -1,0 +1,62 @@
+{
+  "actor": "enemy-brass-sentry",
+  "aseprite": "aseprite/enemy-brass-sentry--death.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-brass-sentry--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-brass-sentry--death.png",
+  "source": "sources/enemy-brass-sentry--motion.png",
+  "state": "death",
+  "title": "Vigia de latão",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      95,
+      147,
+      181
+    ],
+    [
+      61,
+      110,
+      143,
+      181
+    ],
+    [
+      43,
+      130,
+      141,
+      181
+    ],
+    [
+      40,
+      147,
+      139,
+      181
+    ]
+  ],
+  "sha256": "589a1d9e612dfd01be2915cbf8a9799641a6b45b6488966c2bc11db8dfc7934f",
+  "gif": "previews/enemy-brass-sentry--death.gif"
+}

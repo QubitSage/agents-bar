@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-05",
+  "actor": "atlas-terrain-05",
+  "title": "Forja · Pilar",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-05.png",
+  "aseprite": "aseprite/atlas-terrain-05.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      28,
+      4,
+      67,
+      60
+    ]
+  ],
+  "sha256": "401b67debf7278e91b57b156caeee474bac67ea74946dff35f081c0c75dbece1",
+  "events": []
+}

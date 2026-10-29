@@ -1,0 +1,73 @@
+{
+  "actor": "scene-garden-3",
+  "aseprite": "aseprite/scene-garden-3.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-garden-3",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-wild--foliage",
+      110,
+      88,
+      42,
+      35
+    ],
+    [
+      "environment-wild--fireflies",
+      170,
+      14,
+      140,
+      90
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-garden-3.png",
+  "state": "ambient",
+  "title": "Coração da estufa",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "99dc305984be5a0180d415015cdd330fa33a78592377d98f42724c9073803664",
+  "events": [],
+  "gif": "previews/scene-garden-3.gif"
+}

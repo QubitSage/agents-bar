@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-03",
+  "actor": "atlas-relics-03",
+  "title": "Semente vítrea",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-03.png",
+  "aseprite": "aseprite/atlas-relics-03.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      11,
+      4,
+      36,
+      44
+    ]
+  ],
+  "sha256": "9a1ab1a698e03230b215390f4c644ba6f3e2d2c5d55c95700dc1d01c1edf32a9",
+  "events": []
+}

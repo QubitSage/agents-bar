@@ -1,0 +1,57 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--victory.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 128,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--victory.png",
+  "source": "sources/companion-luma--combat.png",
+  "state": "victory",
+  "title": "Luma",
+  "width": 256,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      85,
+      105,
+      173,
+      181
+    ],
+    [
+      75,
+      58,
+      184,
+      181
+    ],
+    [
+      77,
+      48,
+      184,
+      181
+    ],
+    [
+      97,
+      81,
+      167,
+      181
+    ]
+  ],
+  "sha256": "f9352206386cf341dcbeb79f0e10b784f5df3476387685acd1c22752665f3b49",
+  "gif": "previews/companion-luma--victory.gif"
+}

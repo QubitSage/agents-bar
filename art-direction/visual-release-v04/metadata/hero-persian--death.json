@@ -1,0 +1,62 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--death.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--death.png",
+  "source": "sources/hero-persian--motion.png",
+  "state": "death",
+  "title": "Andarilho persa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      55,
+      91,
+      141,
+      181
+    ],
+    [
+      59,
+      110,
+      142,
+      181
+    ],
+    [
+      48,
+      146,
+      144,
+      181
+    ],
+    [
+      42,
+      152,
+      142,
+      181
+    ]
+  ],
+  "sha256": "b19e861b23e70bc7198414f9e9ad73d8da20c66be0b0631a5d34a4ce73510fe1",
+  "gif": "previews/hero-persian--death.gif"
+}

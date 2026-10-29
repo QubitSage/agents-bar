@@ -1,0 +1,42 @@
+AGENTS BAR — HUD DESIGN REVIEW 01
+Propostas visuais para aprovação. Não é uma nova versão implementada do jogo.
+
+ABRIR
+Abra index.html em um navegador. No topo, escolha A/B/C, Tela e Estado.
+A navegação inferior/lateral também muda a tela mostrada.
+Controles de gameplay e configurações servem como indicação visual; não executam ações reais.
+
+PROPOSTAS
+A — Fortaleza: 884 × 574 px. RPG clássico, formação/personagem persistente, três áreas de leitura.
+B — Travessia: 820 × 568 px. Dois painéis contextualizados e barra inferior; recomendação inicial.
+C — Comando: 1032 × 566 px. Navegação lateral, sessões persistentes e combate maior.
+Dimensões são propostas de desenho; ainda precisam de aprovação e validação no jogo.
+
+12 TELAS POR PROPOSTA
+Personagem; Inventário; Forja; Mapa; Estação; Agentes; Histórico de uso;
+Diário/revisão; Menu/dimensões; Pro; Boss/ultimate; Barra recolhida.
+Estados adicionais: aprovação pendente, desconectado, falha e vitória.
+Cada prancha de barra mostra trabalhando, atenção e início desconectado.
+Total: 36 pranchas de telas + 12 estados adicionais + 3 apresentações.
+
+ARQUIVOS
+previews/ contém PNGs em resolução 2× para facilitar a análise.
+index.html, design.css e design.js são apenas a apresentação de design.
+assets/ contém cópias dos assets existentes, preservados. Não há alteração dos sprites originais.
+catalog.js descreve os recortes para mostrar quadros dos sprites.
+review-checks.json registra a conferência de navegação, imagens e dimensões das pranchas.
+
+VALIDAÇÃO DO DESENHO
+36 telas renderizadas em navegador headless isolado, sem usar o perfil pessoal.
+Zero erros de JavaScript, imagens ausentes ou excesso de conteúdo nos painéis e navegação auditados.
+Inspeção visual de telas de personagem, Forja, Estação e aprovação.
+Nenhuma cena do Godot foi executada e nenhum arquivo de runtime do jogo foi alterado nesta rodada.
+Dados, atributos, recursos e recompensas são fictícios, para avaliação de layout.
+Alguns espaços de equipamentos são estudos visuais, não novos sistemas aprovados.
+Arraste/resize aparecem no desenho dos controles; o comportamento no jogo vem após aprovação.
+
+PRÓXIMA DECISÃO
+Escolher a base A, B ou C e apontar ajustes de organização, paleta, tipografia e densidade.
+É possível combinar partes das propostas.
+Depois consolidar o desenho escolhido; implementar somente após aprovação explícita.
+

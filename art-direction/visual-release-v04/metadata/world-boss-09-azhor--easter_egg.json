@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--easter_egg.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    350,
+    450,
+    250,
+    500
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--easter_egg",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--easter_egg.png",
+  "source": "sources/azhor--ambient.png",
+  "state": "easter_egg",
+  "title": "AZHOR",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      38,
+      99,
+      270,
+      271
+    ],
+    [
+      46,
+      93,
+      266,
+      271
+    ],
+    [
+      27,
+      96,
+      262,
+      271
+    ],
+    [
+      40,
+      105,
+      260,
+      271
+    ]
+  ],
+  "sha256": "6b19f5a0868756ac0a68c9d41639941336bd9027a05194cb6ecc4ebe002082f0",
+  "gif": "previews/world-boss-09-azhor--easter_egg.gif"
+}

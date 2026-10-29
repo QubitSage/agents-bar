@@ -1,0 +1,57 @@
+{
+  "actor": "boss-08-moon-devourer",
+  "aseprite": "aseprite/boss-08-moon-devourer--walk.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-08-moon-devourer--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-08-moon-devourer--walk.png",
+  "source": "sources/boss-08-moon-devourer--motion.png",
+  "state": "walk",
+  "title": "Devorador de Luas",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      107,
+      234,
+      271
+    ],
+    [
+      75,
+      105,
+      238,
+      271
+    ],
+    [
+      68,
+      112,
+      241,
+      271
+    ],
+    [
+      81,
+      105,
+      235,
+      271
+    ]
+  ],
+  "sha256": "4b79a298732d116316d1cb62c1629f0e74ae54b7e2a97b402a4d0afecd5b589b",
+  "gif": "previews/boss-08-moon-devourer--walk.gif"
+}

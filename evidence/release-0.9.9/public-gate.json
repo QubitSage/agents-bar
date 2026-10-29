@@ -1,0 +1,22 @@
+{
+  "version": "0.9.9",
+  "publicReady": false,
+  "missingConfiguration": [
+    "online.api_url",
+    "online.portal_url",
+    "worker.PUBLIC_URL",
+    "worker.STRIPE_PRICE_ID",
+    "worker.database_id",
+    "online.public_key"
+  ],
+  "pendingAcceptance": [
+    "windows_visual",
+    "windows_install_upgrade",
+    "real_providers",
+    "stripe_test_mode",
+    "cloud_deployment",
+    "publisher_signing",
+    "commercial_content"
+  ],
+  "note": "Checks public configuration and recorded evidence, not accounts or payments. A passed record must refer to a real review."
+}

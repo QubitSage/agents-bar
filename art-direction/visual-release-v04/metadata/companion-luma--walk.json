@@ -1,0 +1,57 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--walk.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--walk.png",
+  "source": "sources/companion-luma--motion.png",
+  "state": "walk",
+  "title": "Luma",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      83,
+      141,
+      181
+    ],
+    [
+      58,
+      85,
+      139,
+      181
+    ],
+    [
+      63,
+      84,
+      139,
+      181
+    ],
+    [
+      59,
+      85,
+      137,
+      181
+    ]
+  ],
+  "sha256": "7a82881684e46f68128780432dcde2a05fb46714eb700ab489b97473eebdb134",
+  "gif": "previews/companion-luma--walk.gif"
+}

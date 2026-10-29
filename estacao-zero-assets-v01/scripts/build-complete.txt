@@ -1,0 +1,1 @@
+OK — Aseprite 1.3.18.6 — 3 characters, 72 animation frames, world, 5 modules, 12 props, 12 HUD icons, 10 UI components.

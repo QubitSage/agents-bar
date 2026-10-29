@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-12",
+  "actor": "atlas-props-12",
+  "title": "Placa de rota",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-12.png",
+  "aseprite": "aseprite/atlas-props-12.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      9,
+      4,
+      55,
+      60
+    ]
+  ],
+  "sha256": "7522492d2d37fbecf2bc045092bebb30ec1718de842858c416e193ee3af4fe5a",
+  "events": []
+}

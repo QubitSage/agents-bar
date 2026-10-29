@@ -1,0 +1,78 @@
+{
+  "actor": "ui-bar-experience",
+  "aseprite": "aseprite/ui-bar-experience.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "fillRect": {
+    "height": 6,
+    "width": 172,
+    "x": 10,
+    "y": 7
+  },
+  "frames": 5,
+  "height": 20,
+  "id": "ui-bar-experience",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 7,
+    "left": 10,
+    "right": 10,
+    "top": 7
+  },
+  "preview": "static/ui-bar-experience.png",
+  "rows": 1,
+  "sheet": "sheets/ui-bar-experience.png",
+  "state": "states",
+  "states": [
+    "100",
+    "75",
+    "50",
+    "25",
+    "0"
+  ],
+  "title": "Experiência",
+  "width": 192,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ],
+    [
+      1,
+      1,
+      191,
+      19
+    ]
+  ],
+  "sha256": "6c10eb1c03483c864cc0e40f86254f60b6a625fb76bf72f6c1286f34d5086ce9",
+  "events": []
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "hero-classic",
+  "aseprite": "aseprite/hero-classic--hurt.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-classic--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-classic--hurt.png",
+  "source": "sources/hero-classic--motion.png",
+  "state": "hurt",
+  "title": "Cavaleiro clássico",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      60,
+      88,
+      137,
+      181
+    ],
+    [
+      69,
+      102,
+      143,
+      181
+    ],
+    [
+      60,
+      91,
+      139,
+      181
+    ],
+    [
+      65,
+      86,
+      141,
+      181
+    ]
+  ],
+  "sha256": "5559779c5958ea8904bb9839283537475d1643294e27fce5f04a438166c141fd",
+  "gif": "previews/hero-classic--hurt.gif"
+}

@@ -1,0 +1,62 @@
+{
+  "actor": "hero-classic",
+  "aseprite": "aseprite/hero-classic--death.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-classic--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-classic--death.png",
+  "source": "sources/hero-classic--motion.png",
+  "state": "death",
+  "title": "Cavaleiro clássico",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      59,
+      93,
+      144,
+      181
+    ],
+    [
+      57,
+      115,
+      141,
+      181
+    ],
+    [
+      45,
+      141,
+      149,
+      181
+    ],
+    [
+      38,
+      150,
+      152,
+      181
+    ]
+  ],
+  "sha256": "3afee6cc419003fd471a68ef014add0b3db154fc0df562f2b72861ec03657d17",
+  "gif": "previews/hero-classic--death.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-08",
+  "actor": "atlas-terrain-08",
+  "title": "Jardim · Borda esquerda",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-08.png",
+  "aseprite": "aseprite/atlas-terrain-08.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      16,
+      4,
+      80,
+      60
+    ]
+  ],
+  "sha256": "3558a814cc29e94f6e14bd8ed1aba36144078081a6b6c025a3fbe32e6956a4bd",
+  "events": []
+}

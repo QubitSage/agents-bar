@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-17",
+  "actor": "atlas-terrain-17",
+  "title": "Torres · Pilar",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-17.png",
+  "aseprite": "aseprite/atlas-terrain-17.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      26,
+      4,
+      69,
+      60
+    ]
+  ],
+  "sha256": "897be89dbdadc036a78c2287d22bd5e478bfe5bc0faabf6c982bdba4ccfcb4f1",
+  "events": []
+}

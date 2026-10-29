@@ -1,0 +1,57 @@
+{
+  "actor": "npc-artisan",
+  "aseprite": "aseprite/npc-artisan--greet.aseprite",
+  "category": "npcs",
+  "columns": 4,
+  "durations": [
+    200,
+    200,
+    240,
+    200
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "npc-artisan--greet",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/npc-artisan--greet.png",
+  "source": "sources/npc-artisan--daily.png",
+  "state": "greet",
+  "title": "Artesã",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      73,
+      93,
+      120,
+      181
+    ],
+    [
+      72,
+      92,
+      126,
+      181
+    ],
+    [
+      74,
+      93,
+      125,
+      181
+    ],
+    [
+      70,
+      93,
+      122,
+      181
+    ]
+  ],
+  "sha256": "dde544f98213260b50f398dc1947d354c48aa1b4c74b4e6fce645a9617a227e3",
+  "gif": "previews/npc-artisan--greet.gif"
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "props-interactive",
+  "aseprite": "aseprite/props-interactive--lantern.aseprite",
+  "category": "props-animated",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "props-interactive--lantern",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 64,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/props-interactive--lantern.png",
+  "source": "sources/props--interactive.png",
+  "state": "lantern",
+  "title": "Objetos interativos",
+  "width": 128,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      38,
+      13,
+      103,
+      121
+    ],
+    [
+      34,
+      13,
+      100,
+      121
+    ],
+    [
+      29,
+      13,
+      95,
+      121
+    ],
+    [
+      27,
+      13,
+      92,
+      121
+    ]
+  ],
+  "sha256": "4379748774ca583e05748a3c255167166ab0cd00304b11473bb4d4f45e0bf9a6",
+  "gif": "previews/props-interactive--lantern.gif"
+}

@@ -1,0 +1,62 @@
+{
+  "actor": "boss-08-moon-devourer",
+  "aseprite": "aseprite/boss-08-moon-devourer--special.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    260,
+    190,
+    160,
+    300
+  ],
+  "events": [
+    {
+      "frame": 3,
+      "name": "visual_release"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-08-moon-devourer--special",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 160,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-08-moon-devourer--special.png",
+  "source": "sources/boss-08-moon-devourer--combat.png",
+  "state": "special",
+  "title": "Devorador de Luas",
+  "width": 320,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      68,
+      146,
+      269,
+      271
+    ],
+    [
+      65,
+      100,
+      256,
+      271
+    ],
+    [
+      20,
+      127,
+      300,
+      271
+    ],
+    [
+      79,
+      149,
+      233,
+      271
+    ]
+  ],
+  "sha256": "041b34d55ef6f0766a7c5c0a3af8f41f17414720e3ae6805e36d1db58aa28bbc",
+  "gif": "previews/boss-08-moon-devourer--special.gif"
+}

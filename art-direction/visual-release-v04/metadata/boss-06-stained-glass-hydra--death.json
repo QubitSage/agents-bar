@@ -1,0 +1,62 @@
+{
+  "actor": "boss-06-stained-glass-hydra",
+  "aseprite": "aseprite/boss-06-stained-glass-hydra--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-06-stained-glass-hydra--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-06-stained-glass-hydra--death.png",
+  "source": "sources/boss-06-stained-glass-hydra--motion.png",
+  "state": "death",
+  "title": "Hidra dos Juramentos",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      73,
+      138,
+      239,
+      271
+    ],
+    [
+      63,
+      164,
+      225,
+      271
+    ],
+    [
+      51,
+      201,
+      233,
+      271
+    ],
+    [
+      52,
+      227,
+      224,
+      271
+    ]
+  ],
+  "sha256": "4b2654a758bddd21de1b131fa85910d8bdfb4b9e3da11a068b50e00e34a76ed4",
+  "gif": "previews/boss-06-stained-glass-hydra--death.gif"
+}

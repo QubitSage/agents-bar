@@ -1,0 +1,72 @@
+{
+  "actor": "ui-portrait",
+  "aseprite": "aseprite/ui-portrait.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 64,
+  "id": "ui-portrait",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 10,
+    "left": 10,
+    "right": 10,
+    "top": 10
+  },
+  "preview": "static/ui-portrait.png",
+  "rows": 1,
+  "sheet": "sheets/ui-portrait.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Retrato",
+  "width": 64,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      63,
+      63
+    ],
+    [
+      1,
+      1,
+      63,
+      63
+    ],
+    [
+      1,
+      1,
+      63,
+      63
+    ],
+    [
+      1,
+      1,
+      63,
+      63
+    ],
+    [
+      1,
+      1,
+      63,
+      63
+    ]
+  ],
+  "sha256": "39b9326655f9183081d94514ae0e7c104984bf5d9bafd76a306c39922816ac76",
+  "events": []
+}

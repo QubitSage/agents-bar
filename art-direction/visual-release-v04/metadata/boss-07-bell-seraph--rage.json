@@ -1,0 +1,57 @@
+{
+  "actor": "boss-07-bell-seraph",
+  "aseprite": "aseprite/boss-07-bell-seraph--rage.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    180,
+    180,
+    250,
+    250
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-07-bell-seraph--rage",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-07-bell-seraph--rage.png",
+  "source": "sources/boss-07-bell-seraph--combat.png",
+  "state": "rage",
+  "title": "Serafim do Último Sino",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      153,
+      238,
+      271
+    ],
+    [
+      64,
+      103,
+      241,
+      271
+    ],
+    [
+      55,
+      93,
+      242,
+      271
+    ],
+    [
+      53,
+      123,
+      225,
+      271
+    ]
+  ],
+  "sha256": "c37d9161802e99b424fbcd56acbeb47579c565803aee9e10a8e6c2718d20a43a",
+  "gif": "previews/boss-07-bell-seraph--rage.gif"
+}

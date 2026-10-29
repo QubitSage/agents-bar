@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-sporeling",
+  "aseprite": "aseprite/enemy-sporeling--hurt.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-sporeling--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-sporeling--hurt.png",
+  "source": "sources/enemy-sporeling--motion.png",
+  "state": "hurt",
+  "title": "Esporídeo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      64,
+      103,
+      139,
+      181
+    ],
+    [
+      64,
+      120,
+      137,
+      181
+    ],
+    [
+      63,
+      106,
+      133,
+      181
+    ],
+    [
+      63,
+      108,
+      134,
+      181
+    ]
+  ],
+  "sha256": "6c26bbe62099edcc38581362ca848adef36c7833a08e84b7605bbcad1cab37e2",
+  "gif": "previews/enemy-sporeling--hurt.gif"
+}

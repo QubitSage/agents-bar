@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-18",
+  "actor": "atlas-terrain-18",
+  "title": "Torres · Ruína",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-18.png",
+  "aseprite": "aseprite/atlas-terrain-18.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      8,
+      92,
+      60
+    ]
+  ],
+  "sha256": "8649192f405878a5e64c86b78dd99281d06281cb9f17e20dbcfd306a9a35542c",
+  "events": []
+}

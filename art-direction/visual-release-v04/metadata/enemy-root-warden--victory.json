@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-root-warden",
+  "aseprite": "aseprite/enemy-root-warden--victory.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-root-warden--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 120,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-root-warden--victory.png",
+  "source": "sources/enemy-root-warden--combat.png",
+  "state": "victory",
+  "title": "Guardião de raízes",
+  "width": 240,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      76,
+      114,
+      180,
+      181
+    ],
+    [
+      52,
+      68,
+      184,
+      181
+    ],
+    [
+      57,
+      69,
+      193,
+      181
+    ],
+    [
+      85,
+      79,
+      171,
+      181
+    ]
+  ],
+  "sha256": "8b598016a855e9cb2d26dd8ae08866ed1507acd4c3d93e46d1e7544b8783bdfa",
+  "gif": "previews/enemy-root-warden--victory.gif"
+}

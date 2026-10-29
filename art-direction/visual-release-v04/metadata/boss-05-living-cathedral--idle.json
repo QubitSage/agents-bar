@@ -1,0 +1,57 @@
+{
+  "actor": "boss-05-living-cathedral",
+  "aseprite": "aseprite/boss-05-living-cathedral--idle.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-05-living-cathedral--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-05-living-cathedral--idle.png",
+  "source": "sources/boss-05-living-cathedral--motion.png",
+  "state": "idle",
+  "title": "Catedral Faminta",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      54,
+      111,
+      238,
+      271
+    ],
+    [
+      54,
+      102,
+      246,
+      271
+    ],
+    [
+      52,
+      110,
+      244,
+      271
+    ],
+    [
+      55,
+      112,
+      239,
+      271
+    ]
+  ],
+  "sha256": "06764f4ebffd0a38e7d1b18e83652877dda221b5a0dc02b1c3c08277c64d8a04",
+  "gif": "previews/boss-05-living-cathedral--idle.gif"
+}

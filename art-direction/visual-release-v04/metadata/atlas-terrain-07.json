@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-07",
+  "actor": "atlas-terrain-07",
+  "title": "Jardim · Piso",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-07.png",
+  "aseprite": "aseprite/atlas-terrain-07.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      22,
+      92,
+      60
+    ]
+  ],
+  "sha256": "4b0915a8906cc3f198fa034976f7fd92edf568353df8e165e7c9bbeb7748f726",
+  "events": []
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--idle.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--idle.png",
+  "source": "sources/companion-luma--motion.png",
+  "state": "idle",
+  "title": "Luma",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      67,
+      85,
+      136,
+      181
+    ],
+    [
+      65,
+      85,
+      136,
+      181
+    ],
+    [
+      61,
+      84,
+      137,
+      181
+    ],
+    [
+      66,
+      85,
+      136,
+      181
+    ]
+  ],
+  "sha256": "917d3894a2bcdeccc1a169891382f86d4dce196409c78104532f4d252771cd11",
+  "gif": "previews/companion-luma--idle.gif"
+}

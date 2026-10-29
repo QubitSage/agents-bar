@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-sentinel",
+  "aseprite": "aseprite/enemy-storm-sentinel--hurt.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-sentinel--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-sentinel--hurt.png",
+  "source": "sources/enemy-storm-sentinel--motion.png",
+  "state": "hurt",
+  "title": "Sentinela da tempestade",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      55,
+      87,
+      158,
+      181
+    ],
+    [
+      67,
+      81,
+      161,
+      181
+    ],
+    [
+      38,
+      94,
+      157,
+      181
+    ],
+    [
+      45,
+      82,
+      153,
+      181
+    ]
+  ],
+  "sha256": "a5ff0b6f0195224561f170046c74590736575fe7050bee1c8542489bb324b5f2",
+  "gif": "previews/enemy-storm-sentinel--hurt.gif"
+}

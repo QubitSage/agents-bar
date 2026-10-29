@@ -1,0 +1,57 @@
+{
+  "actor": "boss-05-living-cathedral",
+  "aseprite": "aseprite/boss-05-living-cathedral--rage.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    180,
+    180,
+    250,
+    250
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-05-living-cathedral--rage",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-05-living-cathedral--rage.png",
+  "source": "sources/boss-05-living-cathedral--combat.png",
+  "state": "rage",
+  "title": "Catedral Faminta",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      50,
+      150,
+      248,
+      271
+    ],
+    [
+      46,
+      94,
+      243,
+      271
+    ],
+    [
+      46,
+      93,
+      252,
+      271
+    ],
+    [
+      47,
+      127,
+      239,
+      271
+    ]
+  ],
+  "sha256": "e14c6d5c6744da9fccdd768f163e3f7e5780acd632d10aaa8c345074c32fa470",
+  "gif": "previews/boss-05-living-cathedral--rage.gif"
+}

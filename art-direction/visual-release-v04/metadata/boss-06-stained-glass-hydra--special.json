@@ -1,0 +1,62 @@
+{
+  "actor": "boss-06-stained-glass-hydra",
+  "aseprite": "aseprite/boss-06-stained-glass-hydra--special.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    260,
+    190,
+    160,
+    300
+  ],
+  "events": [
+    {
+      "frame": 3,
+      "name": "visual_release"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-06-stained-glass-hydra--special",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-06-stained-glass-hydra--special.png",
+  "source": "sources/boss-06-stained-glass-hydra--combat.png",
+  "state": "special",
+  "title": "Hidra dos Juramentos",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      65,
+      144,
+      238,
+      271
+    ],
+    [
+      53,
+      109,
+      227,
+      271
+    ],
+    [
+      38,
+      125,
+      245,
+      271
+    ],
+    [
+      69,
+      153,
+      223,
+      271
+    ]
+  ],
+  "sha256": "ce04af3875ffcd951006d2611099cb41d678bf59e4a7d8bc626faac76e866324",
+  "gif": "previews/boss-06-stained-glass-hydra--special.gif"
+}

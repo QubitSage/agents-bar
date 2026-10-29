@@ -1,0 +1,57 @@
+{
+  "actor": "environment-wild",
+  "aseprite": "aseprite/environment-wild--storm.aseprite",
+  "category": "environment-fx",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "environment-wild--storm",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 64,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/environment-wild--storm.png",
+  "source": "sources/environment--wild.png",
+  "state": "storm",
+  "title": "Ambiente · jardim e tempestade",
+  "width": 128,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      18,
+      31,
+      109,
+      100
+    ],
+    [
+      16,
+      21,
+      116,
+      104
+    ],
+    [
+      18,
+      27,
+      113,
+      99
+    ],
+    [
+      18,
+      31,
+      108,
+      101
+    ]
+  ],
+  "sha256": "de6d818431dfbf62d969db6cac7ff916990404cd6e97c943e920948e6748ff6b",
+  "gif": "previews/environment-wild--storm.gif"
+}

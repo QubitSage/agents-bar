@@ -1,0 +1,57 @@
+{
+  "actor": "effects-nature",
+  "aseprite": "aseprite/effects-nature--heal.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-nature--heal",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-nature--heal.png",
+  "source": "sources/effects--nature.png",
+  "state": "heal",
+  "title": "Combate · natureza",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      27,
+      46,
+      73,
+      77
+    ],
+    [
+      19,
+      24,
+      73,
+      79
+    ],
+    [
+      9,
+      22,
+      83,
+      79
+    ],
+    [
+      19,
+      22,
+      77,
+      79
+    ]
+  ],
+  "sha256": "83370db43e44c2f51d9aabf46b22c6f5543d4cc09feb63d05b025378f43f2720",
+  "gif": "previews/effects-nature--heal.gif"
+}

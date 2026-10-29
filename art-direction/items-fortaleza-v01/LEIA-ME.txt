@@ -1,0 +1,32 @@
+AGENTS BAR — ITENS / FORTALEZA v01
+
+Base visual escolhida pelo usuário: A — Fortaleza.
+Esta entrega contém propostas de desenho; não altera o jogo.
+
+CONTEÚDO
+weapons.png — seis armas.
+armor.png — seis peças do conjunto do Cavaleiro.
+relics.png — as seis relíquias atuais, redesenhadas.
+materials.png — sucata, núcleo, sementes e três propostas adicionais para materiais.
+index.html — galeria com nomes, filtros e leitura ilustrativa em slots de 48 pixels.
+colecao-24-itens.png — visão geral da coleção.
+catalog.json — nomes e regiões de apresentação.
+prompts.json — briefs completos usados na geração.
+
+MÉTODO
+Geração pelo image_gen integrado, não pelo Aseprite nesta etapa.
+Quatro pranchas originais RGBA de 1536 × 1024, com transparência conferida.
+O HTML apenas enquadra e apresenta as imagens originais; não edita seus pixels.
+Recortes de apresentação das armas consideram a divisão real entre as duas linhas.
+
+ESTADO
+Propostas visuais para aprovação. Os nomes de armas, armaduras e três novos materiais são provisórios.
+A prévia de 48 px é uma redução para avaliação, não uma garantia de sprite final otimizado.
+Limpeza de pixels, ajuste de paleta, redução final, recortes individuais e fontes Aseprite ficam para a produção após aprovação.
+Nenhuma estatística, raridade, receita ou custo novo foi aplicado ao jogo.
+Os assets atuais e a versão 0.7.0 permanecem intactos.
+
+DIREÇÃO
+Prata e aço com sombras azuladas, ouro antigo, azul real, energia ciano e acentos botânicos.
+Armas com silhuetas distintas; armadura como um conjunto coerente; relíquias e materiais sem confusão visual.
+

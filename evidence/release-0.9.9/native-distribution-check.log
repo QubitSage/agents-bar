@@ -1,0 +1,1 @@
+PASS: native extraction; full 0.8.0 install -> 0.9.9 upgrade -> rollback; fixture data preserved; no shortcut, UI or agent sessions. Elapsed 63.85s.

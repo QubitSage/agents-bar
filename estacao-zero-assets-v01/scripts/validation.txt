@@ -1,0 +1,5 @@
+io-explorer: OK, 24 frames / 5 tags / 3 layers; 18 distinct frames; atlas pixels and timings match, binary alpha.
+brasa-mechanic: OK, 24 frames / 5 tags / 3 layers; 17 distinct frames; atlas pixels and timings match, binary alpha.
+luma-botanist: OK, 24 frames / 5 tags / 3 layers; 15 distinct frames; atlas pixels and timings match, binary alpha.
+world: OK, 640x192, six editable layers.
+hud: 10 named slices; props: 12 named slices. OK.

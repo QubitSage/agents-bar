@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-14",
+  "actor": "atlas-terrain-14",
+  "title": "Torres · Borda esquerda",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-14.png",
+  "aseprite": "aseprite/atlas-terrain-14.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      16,
+      4,
+      79,
+      60
+    ]
+  ],
+  "sha256": "73525d9f87be1a8cc2254ba79bf2b0f4c264611302387d81f426911da42404c1",
+  "events": []
+}

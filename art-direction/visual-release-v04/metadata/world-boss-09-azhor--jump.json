@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--jump.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    180,
+    100,
+    200,
+    200
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--jump",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 152,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--jump.png",
+  "source": "sources/azhor--motion.png",
+  "state": "jump",
+  "title": "AZHOR",
+  "width": 304,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      38,
+      89,
+      275,
+      241
+    ],
+    [
+      46,
+      57,
+      272,
+      241
+    ],
+    [
+      47,
+      47,
+      262,
+      240
+    ],
+    [
+      16,
+      80,
+      280,
+      240
+    ]
+  ],
+  "sha256": "13cad1f5b48a37a873b3bf192f0d5783d31e824e83bdafbeca4c811dbbbcefea",
+  "gif": "previews/world-boss-09-azhor--jump.gif"
+}

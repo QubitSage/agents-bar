@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-sentinel",
+  "aseprite": "aseprite/enemy-storm-sentinel--victory.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-sentinel--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 128,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-sentinel--victory.png",
+  "source": "sources/enemy-storm-sentinel--combat.png",
+  "state": "victory",
+  "title": "Sentinela da tempestade",
+  "width": 256,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      65,
+      115,
+      193,
+      181
+    ],
+    [
+      72,
+      58,
+      177,
+      181
+    ],
+    [
+      66,
+      52,
+      188,
+      181
+    ],
+    [
+      89,
+      73,
+      196,
+      181
+    ]
+  ],
+  "sha256": "b6e90bb65eed049d92b8840fbda62506978d6ffb1437025126322ab6cc17a916",
+  "gif": "previews/enemy-storm-sentinel--victory.gif"
+}

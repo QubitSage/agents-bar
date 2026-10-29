@@ -1,0 +1,57 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--walk.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--walk.png",
+  "source": "sources/hero-persian--motion.png",
+  "state": "walk",
+  "title": "Andarilho persa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      84,
+      147,
+      181
+    ],
+    [
+      56,
+      84,
+      143,
+      181
+    ],
+    [
+      58,
+      86,
+      145,
+      181
+    ],
+    [
+      55,
+      85,
+      139,
+      181
+    ]
+  ],
+  "sha256": "a580c80ba2458534265386204d08e884d254d866e60117a4f6a220e557c3ab3a",
+  "gif": "previews/hero-persian--walk.gif"
+}

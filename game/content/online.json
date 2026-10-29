@@ -1,0 +1,6 @@
+{
+  "api_url": "",
+  "portal_url": "",
+  "license_public_key": {"n":"", "e":"AQAB"},
+  "plan": {"currency":"USD", "monthly_cents":200, "free_sessions":3, "pro_sessions":12, "free_history_days":1, "pro_history_days":90}
+}

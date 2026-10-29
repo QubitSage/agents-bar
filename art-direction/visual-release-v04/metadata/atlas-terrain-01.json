@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-01",
+  "actor": "atlas-terrain-01",
+  "title": "Forja · Piso",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-01.png",
+  "aseprite": "aseprite/atlas-terrain-01.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      29,
+      92,
+      60
+    ]
+  ],
+  "sha256": "b3e3ce7009469cce60e35524d29a1499aeccb18e8993fc27d7b5570ea2c1d8be",
+  "events": []
+}

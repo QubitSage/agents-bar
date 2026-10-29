@@ -1,0 +1,66 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--defense.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 128,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--defense.png",
+  "source": "sources/companion-luma--combat.png",
+  "state": "defense",
+  "title": "Luma",
+  "width": 256,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      96,
+      80,
+      171,
+      181
+    ],
+    [
+      78,
+      99,
+      172,
+      181
+    ],
+    [
+      70,
+      73,
+      193,
+      181
+    ],
+    [
+      101,
+      82,
+      172,
+      181
+    ]
+  ],
+  "sha256": "27d7855bc132a75bda4a59eb6f1eab0f704c4298b52bbc2b91aacdb11bc47f57",
+  "gif": "previews/companion-luma--defense.gif"
+}

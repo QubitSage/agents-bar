@@ -1,0 +1,57 @@
+{
+  "actor": "props-interactive",
+  "aseprite": "aseprite/props-interactive--crystal.aseprite",
+  "category": "props-animated",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "props-interactive--crystal",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 64,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/props-interactive--crystal.png",
+  "source": "sources/props--interactive.png",
+  "state": "crystal",
+  "title": "Objetos interativos",
+  "width": 128,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      34,
+      24,
+      104,
+      121
+    ],
+    [
+      32,
+      24,
+      102,
+      121
+    ],
+    [
+      27,
+      24,
+      101,
+      121
+    ],
+    [
+      24,
+      24,
+      95,
+      121
+    ]
+  ],
+  "sha256": "b8f9a355c96e21858c7e250b8d0da5983841e00b4a4ca51496e381dfba4853d5",
+  "gif": "previews/props-interactive--crystal.gif"
+}

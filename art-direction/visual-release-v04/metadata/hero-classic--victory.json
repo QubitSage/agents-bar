@@ -1,0 +1,57 @@
+{
+  "actor": "hero-classic",
+  "aseprite": "aseprite/hero-classic--victory.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-classic--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-classic--victory.png",
+  "source": "sources/hero-classic--combat.png",
+  "state": "victory",
+  "title": "Cavaleiro clássico",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      56,
+      114,
+      140,
+      181
+    ],
+    [
+      64,
+      60,
+      134,
+      181
+    ],
+    [
+      53,
+      57,
+      138,
+      181
+    ],
+    [
+      61,
+      84,
+      141,
+      181
+    ]
+  ],
+  "sha256": "2977b339cd6ed7cb3c3ef78eebf51e4e6bfe9bffaa8608384779498a2c7f2144",
+  "gif": "previews/hero-classic--victory.gif"
+}

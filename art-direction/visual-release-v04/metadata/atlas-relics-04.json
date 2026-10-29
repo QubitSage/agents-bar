@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-04",
+  "actor": "atlas-relics-04",
+  "title": "Broto ancestral",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-04.png",
+  "aseprite": "aseprite/atlas-relics-04.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      9,
+      4,
+      38,
+      44
+    ]
+  ],
+  "sha256": "691ae2826b056389571ea11a0a1a60aa1d43997e1b989e194b44f8ddd9228ec3",
+  "events": []
+}

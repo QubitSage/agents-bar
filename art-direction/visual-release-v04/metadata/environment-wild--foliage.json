@@ -1,0 +1,57 @@
+{
+  "actor": "environment-wild",
+  "aseprite": "aseprite/environment-wild--foliage.aseprite",
+  "category": "environment-fx",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "environment-wild--foliage",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 64,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/environment-wild--foliage.png",
+  "source": "sources/environment--wild.png",
+  "state": "foliage",
+  "title": "Ambiente · jardim e tempestade",
+  "width": 128,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      20,
+      18,
+      104,
+      112
+    ],
+    [
+      15,
+      30,
+      105,
+      112
+    ],
+    [
+      20,
+      19,
+      107,
+      111
+    ],
+    [
+      21,
+      33,
+      114,
+      111
+    ]
+  ],
+  "sha256": "b9045dd67ed37a5d3bafd8bf308760fd4a803c20a424e1ce1719799b5be63f25",
+  "gif": "previews/environment-wild--foliage.gif"
+}

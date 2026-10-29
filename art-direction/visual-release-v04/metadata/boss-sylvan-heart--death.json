@@ -1,0 +1,62 @@
+{
+  "actor": "boss-sylvan-heart",
+  "aseprite": "aseprite/boss-sylvan-heart--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-sylvan-heart--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-sylvan-heart--death.png",
+  "source": "sources/boss-sylvan-heart--motion.png",
+  "state": "death",
+  "title": "Coração Silvestre",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      91,
+      130,
+      232,
+      271
+    ],
+    [
+      84,
+      158,
+      210,
+      271
+    ],
+    [
+      48,
+      190,
+      226,
+      271
+    ],
+    [
+      46,
+      217,
+      243,
+      271
+    ]
+  ],
+  "sha256": "d4e6fb6fc7e1e3e88c26291bf39e5e9e4229595e728a2a576711ff16357be2e1",
+  "gif": "previews/boss-sylvan-heart--death.gif"
+}

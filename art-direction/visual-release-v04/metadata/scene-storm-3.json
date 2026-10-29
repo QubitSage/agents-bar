@@ -1,0 +1,73 @@
+{
+  "actor": "scene-storm-3",
+  "aseprite": "aseprite/scene-storm-3.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-storm-3",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-wild--storm",
+      245,
+      0,
+      100,
+      92
+    ],
+    [
+      "environment-forge--beacon",
+      387,
+      28,
+      32,
+      48
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-storm-3.png",
+  "state": "ambient",
+  "title": "Um novo horizonte",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "9b77838fe3af4e397c780a19e387ca55fa6790578f9e751c9bfe09a4c98b20b6",
+  "events": [],
+  "gif": "previews/scene-storm-3.gif"
+}

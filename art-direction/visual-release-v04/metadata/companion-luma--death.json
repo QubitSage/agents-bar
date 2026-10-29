@@ -1,0 +1,62 @@
+{
+  "actor": "companion-luma",
+  "aseprite": "aseprite/companion-luma--death.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-luma--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-luma--death.png",
+  "source": "sources/companion-luma--motion.png",
+  "state": "death",
+  "title": "Luma",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      60,
+      91,
+      153,
+      181
+    ],
+    [
+      52,
+      108,
+      143,
+      181
+    ],
+    [
+      41,
+      146,
+      142,
+      181
+    ],
+    [
+      39,
+      147,
+      147,
+      181
+    ]
+  ],
+  "sha256": "9a76dc63201ddaa004fd37502bd7c4fb5579b0875fe2f9b95d94c274a5a68cbf",
+  "gif": "previews/companion-luma--death.gif"
+}

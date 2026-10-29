@@ -1,0 +1,57 @@
+{
+  "actor": "boss-06-stained-glass-hydra",
+  "aseprite": "aseprite/boss-06-stained-glass-hydra--hurt.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-06-stained-glass-hydra--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-06-stained-glass-hydra--hurt.png",
+  "source": "sources/boss-06-stained-glass-hydra--motion.png",
+  "state": "hurt",
+  "title": "Hidra dos Juramentos",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      72,
+      110,
+      236,
+      271
+    ],
+    [
+      73,
+      138,
+      238,
+      271
+    ],
+    [
+      63,
+      112,
+      240,
+      271
+    ],
+    [
+      63,
+      111,
+      230,
+      271
+    ]
+  ],
+  "sha256": "7b42f14fa9b7483c3b6c91a7fd48b786695e100cc4499ece3856a05f34d81205",
+  "gif": "previews/boss-06-stained-glass-hydra--hurt.gif"
+}

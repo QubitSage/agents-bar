@@ -1,0 +1,57 @@
+{
+  "actor": "environment-forge",
+  "aseprite": "aseprite/environment-forge--beacon.aseprite",
+  "category": "environment-fx",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "environment-forge--beacon",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/environment-forge--beacon.png",
+  "source": "sources/environment--forge.png",
+  "state": "beacon",
+  "title": "Ambiente · forja e estação",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      33,
+      46,
+      63,
+      97
+    ],
+    [
+      19,
+      28,
+      79,
+      97
+    ],
+    [
+      26,
+      29,
+      72,
+      97
+    ],
+    [
+      29,
+      59,
+      61,
+      97
+    ]
+  ],
+  "sha256": "fa5628cae518c5155f35df8439ee5bdb1e258c3fed7710bff54f3e95e967056c",
+  "gif": "previews/environment-forge--beacon.gif"
+}

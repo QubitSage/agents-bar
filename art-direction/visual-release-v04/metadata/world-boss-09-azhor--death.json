@@ -1,0 +1,90 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--death.aseprite",
+  "category": "world-boss",
+  "columns": 8,
+  "durations": [
+    200,
+    170,
+    220,
+    600,
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 8,
+      "name": "finished"
+    }
+  ],
+  "frames": 8,
+  "height": 288,
+  "id": "world-boss-09-azhor--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--death.png",
+  "source": "sources/azhor--death.png",
+  "state": "death",
+  "title": "AZHOR",
+  "width": 288,
+  "uniqueFrames": 8,
+  "alphaBounds": [
+    [
+      32,
+      100,
+      258,
+      271
+    ],
+    [
+      38,
+      111,
+      257,
+      271
+    ],
+    [
+      26,
+      147,
+      257,
+      271
+    ],
+    [
+      28,
+      163,
+      257,
+      271
+    ],
+    [
+      30,
+      164,
+      265,
+      271
+    ],
+    [
+      31,
+      180,
+      264,
+      271
+    ],
+    [
+      28,
+      183,
+      258,
+      271
+    ],
+    [
+      30,
+      193,
+      258,
+      271
+    ]
+  ],
+  "sha256": "f63cc8eb90beddba9e51e51560004d9763afe6d6752e67ec442a4cb15ab247ee",
+  "gif": "previews/world-boss-09-azhor--death.gif"
+}

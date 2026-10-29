@@ -1,0 +1,57 @@
+{
+  "actor": "boss-storm-archon",
+  "aseprite": "aseprite/boss-storm-archon--idle.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-storm-archon--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-storm-archon--idle.png",
+  "source": "sources/boss-storm-archon--motion.png",
+  "state": "idle",
+  "title": "Arconte da Tempestade",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      69,
+      111,
+      232,
+      271
+    ],
+    [
+      68,
+      107,
+      235,
+      271
+    ],
+    [
+      71,
+      110,
+      234,
+      271
+    ],
+    [
+      63,
+      102,
+      226,
+      271
+    ]
+  ],
+  "sha256": "fea6fed6d5565600e21cbe93476879ca4d7fcac592a001d569ac5fccdc0e6ec7",
+  "gif": "previews/boss-storm-archon--idle.gif"
+}

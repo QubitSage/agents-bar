@@ -1,0 +1,72 @@
+{
+  "actor": "ui-compact",
+  "aseprite": "aseprite/ui-compact.aseprite",
+  "category": "hud",
+  "columns": 5,
+  "durations": [
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "frames": 5,
+  "height": 64,
+  "id": "ui-compact",
+  "loop": false,
+  "method": "Pixel-native Aseprite Lua UI geometry",
+  "nineSlice": {
+    "bottom": 10,
+    "left": 10,
+    "right": 10,
+    "top": 10
+  },
+  "preview": "static/ui-compact.png",
+  "rows": 1,
+  "sheet": "sheets/ui-compact.png",
+  "state": "states",
+  "states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled",
+    "focus"
+  ],
+  "title": "Modo compacto",
+  "width": 288,
+  "uniqueFrames": 5,
+  "alphaBounds": [
+    [
+      1,
+      1,
+      287,
+      63
+    ],
+    [
+      1,
+      1,
+      287,
+      63
+    ],
+    [
+      1,
+      1,
+      287,
+      63
+    ],
+    [
+      1,
+      1,
+      287,
+      63
+    ],
+    [
+      1,
+      1,
+      287,
+      63
+    ]
+  ],
+  "sha256": "9f8ba6f24605a038b37a81a0fab7f537a778c00af6dbaef8c59b0db5c45d615e",
+  "events": []
+}

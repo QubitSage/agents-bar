@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-13",
+  "actor": "atlas-terrain-13",
+  "title": "Torres · Piso",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-13.png",
+  "aseprite": "aseprite/atlas-terrain-13.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      29,
+      92,
+      60
+    ]
+  ],
+  "sha256": "dfba44b5526ed78015e2e06b88e1f025444322b821965d4d748a8f571d2b30b7",
+  "events": []
+}

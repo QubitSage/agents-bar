@@ -1,0 +1,66 @@
+{
+  "actor": "enemy-root-warden",
+  "aseprite": "aseprite/enemy-root-warden--defense.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-root-warden--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 120,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-root-warden--defense.png",
+  "source": "sources/enemy-root-warden--combat.png",
+  "state": "defense",
+  "title": "Guardião de raízes",
+  "width": 240,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      78,
+      82,
+      168,
+      181
+    ],
+    [
+      61,
+      91,
+      161,
+      181
+    ],
+    [
+      61,
+      90,
+      166,
+      181
+    ],
+    [
+      78,
+      82,
+      173,
+      181
+    ]
+  ],
+  "sha256": "b8843c23d6175f7332f76065767381eae05e6f518023aa05a3ca61ca0e1f3003",
+  "gif": "previews/enemy-root-warden--defense.gif"
+}

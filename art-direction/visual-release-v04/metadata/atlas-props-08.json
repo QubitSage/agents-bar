@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-08",
+  "actor": "atlas-props-08",
+  "title": "Mapa",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-08.png",
+  "aseprite": "aseprite/atlas-props-08.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      13,
+      60,
+      60
+    ]
+  ],
+  "sha256": "1f48fefd4845e2469e5c0a6c946c776fac6c2c54faf4aa45b3c5c466bf3ac7df",
+  "events": []
+}

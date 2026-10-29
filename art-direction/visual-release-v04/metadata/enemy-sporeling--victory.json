@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-sporeling",
+  "aseprite": "aseprite/enemy-sporeling--victory.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    180,
+    200,
+    260,
+    220
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-sporeling--victory",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-sporeling--victory.png",
+  "source": "sources/enemy-sporeling--combat.png",
+  "state": "victory",
+  "title": "Esporídeo",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      126,
+      135,
+      181
+    ],
+    [
+      56,
+      106,
+      132,
+      181
+    ],
+    [
+      52,
+      113,
+      143,
+      181
+    ],
+    [
+      60,
+      119,
+      127,
+      181
+    ]
+  ],
+  "sha256": "22fc306ba9912bdf02b592d715a2bdc9779917286b7a74d1d0691bbbc4a9ff02",
+  "gif": "previews/enemy-sporeling--victory.gif"
+}

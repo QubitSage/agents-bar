@@ -1,0 +1,89 @@
+{
+  "id": "world-boss-09-azhor--attack_basic",
+  "actor": "world-boss-09-azhor",
+  "title": "AZHOR",
+  "category": "world-boss",
+  "state": "attack_basic",
+  "width": 288,
+  "height": 208,
+  "columns": 4,
+  "rows": 2,
+  "frames": 8,
+  "durations": [
+    260,
+    150,
+    130,
+    80,
+    110,
+    120,
+    150,
+    380
+  ],
+  "loop": false,
+  "pivot": {
+    "x": 144,
+    "y": 190
+  },
+  "events": [
+    {
+      "frame": 5,
+      "name": "visual_impact"
+    }
+  ],
+  "aseprite": "aseprite/world-boss-09-azhor--attack_basic.aseprite",
+  "sheet": "sheets/world-boss-09-azhor--attack_basic.png",
+  "gif": "previews/world-boss-09-azhor--attack_basic.gif",
+  "method": "Approved v02 poses preserved unchanged",
+  "uniqueFrames": 8,
+  "alphaBounds": [
+    [
+      31,
+      22,
+      269,
+      192
+    ],
+    [
+      37,
+      45,
+      253,
+      191
+    ],
+    [
+      31,
+      22,
+      255,
+      192
+    ],
+    [
+      2,
+      50,
+      273,
+      192
+    ],
+    [
+      16,
+      48,
+      283,
+      189
+    ],
+    [
+      34,
+      54,
+      257,
+      189
+    ],
+    [
+      35,
+      29,
+      254,
+      191
+    ],
+    [
+      21,
+      29,
+      264,
+      191
+    ]
+  ],
+  "sha256": "d803c1d69ac227c95addef02d4bf3ca5d0c2345d41056a4d7d2aff621d3cd1de"
+}

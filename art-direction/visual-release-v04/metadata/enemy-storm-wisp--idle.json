@@ -1,0 +1,57 @@
+{
+  "actor": "enemy-storm-wisp",
+  "aseprite": "aseprite/enemy-storm-wisp--idle.aseprite",
+  "category": "enemies",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "enemy-storm-wisp--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/enemy-storm-wisp--idle.png",
+  "source": "sources/enemy-storm-wisp--motion.png",
+  "state": "idle",
+  "title": "Centelha",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      65,
+      100,
+      159,
+      181
+    ],
+    [
+      60,
+      102,
+      143,
+      181
+    ],
+    [
+      46,
+      107,
+      141,
+      181
+    ],
+    [
+      40,
+      102,
+      128,
+      181
+    ]
+  ],
+  "sha256": "463137d582d27424d2b29a6b8ffefbdad0c84044317b10178466ad1055a875e9",
+  "gif": "previews/enemy-storm-wisp--idle.gif"
+}

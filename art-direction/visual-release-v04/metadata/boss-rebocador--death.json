@@ -1,0 +1,62 @@
+{
+  "actor": "boss-rebocador",
+  "aseprite": "aseprite/boss-rebocador--death.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    200,
+    170,
+    220,
+    600
+  ],
+  "events": [
+    {
+      "frame": 4,
+      "name": "finished"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-rebocador--death",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-rebocador--death.png",
+  "source": "sources/boss-rebocador--motion.png",
+  "state": "death",
+  "title": "Rebocador",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      58,
+      117,
+      245,
+      271
+    ],
+    [
+      57,
+      133,
+      227,
+      271
+    ],
+    [
+      59,
+      182,
+      230,
+      271
+    ],
+    [
+      52,
+      206,
+      225,
+      271
+    ]
+  ],
+  "sha256": "54a09ae5a00f405c76a6c3cbe208d22d6c1644a723085366bf47974220d30973",
+  "gif": "previews/boss-rebocador--death.gif"
+}

@@ -1,0 +1,62 @@
+{
+  "actor": "hero-persian",
+  "aseprite": "aseprite/hero-persian--special.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    260,
+    190,
+    160,
+    300
+  ],
+  "events": [
+    {
+      "frame": 3,
+      "name": "visual_release"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-persian--special",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 112,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-persian--special.png",
+  "source": "sources/hero-persian--combat.png",
+  "state": "special",
+  "title": "Andarilho persa",
+  "width": 224,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      66,
+      109,
+      151,
+      181
+    ],
+    [
+      57,
+      95,
+      167,
+      181
+    ],
+    [
+      15,
+      75,
+      208,
+      181
+    ],
+    [
+      69,
+      114,
+      151,
+      181
+    ]
+  ],
+  "sha256": "49709ff5b80cd479df642df4c9aa9279a28e9eb8635189c174f511de9a27cc2c",
+  "gif": "previews/hero-persian--special.gif"
+}

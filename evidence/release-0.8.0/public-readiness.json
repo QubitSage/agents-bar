@@ -1,0 +1,19 @@
+{
+  "publicConfigurationReady": false,
+  "missing": [
+    "game/content/online.json: api_url",
+    "game/content/online.json: portal_url",
+    "game/content/online.json: chave pública RSA",
+    "server/wrangler.toml: PUBLIC_URL",
+    "server/wrangler.toml: STRIPE_PRICE_ID de teste",
+    "server/wrangler.toml: database_id"
+  ],
+  "notVerified": [
+    "contas Cloudflare/Stripe",
+    "segredos no servidor",
+    "implantação HTTPS",
+    "pagamento/renovação/cancelamento em Stripe test mode",
+    "recuperação de licença e aceite comercial"
+  ],
+  "note": "Este comando não faz deploy, não lê credenciais e não prova prontidão comercial."
+}

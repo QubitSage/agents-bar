@@ -1,0 +1,30 @@
+{
+  "id": "atlas-relics-09",
+  "actor": "atlas-relics-09",
+  "title": "Sementes",
+  "category": "relics",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 48,
+  "height": 48,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-relics-09.png",
+  "aseprite": "aseprite/atlas-relics-09.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      5,
+      44,
+      44
+    ]
+  ],
+  "sha256": "268eaeeefb9e61d0a6e0099c843e8fcc3424dbd0da62e1c8cb6d78960751e0b2",
+  "events": []
+}

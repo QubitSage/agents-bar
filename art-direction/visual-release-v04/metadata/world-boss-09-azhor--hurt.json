@@ -1,0 +1,57 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--hurt.aseprite",
+  "category": "world-boss",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "world-boss-09-azhor--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 152,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--hurt.png",
+  "source": "sources/azhor--motion.png",
+  "state": "hurt",
+  "title": "AZHOR",
+  "width": 304,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      40,
+      111,
+      275,
+      271
+    ],
+    [
+      44,
+      112,
+      266,
+      271
+    ],
+    [
+      38,
+      111,
+      267,
+      271
+    ],
+    [
+      38,
+      100,
+      271,
+      271
+    ]
+  ],
+  "sha256": "bd8aa6342a999685563370b4085e1718d83e43237c89e9e0879f98c1ba8b31a2",
+  "gif": "previews/world-boss-09-azhor--hurt.gif"
+}

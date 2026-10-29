@@ -1,0 +1,57 @@
+{
+  "actor": "hero-kawaii",
+  "aseprite": "aseprite/hero-kawaii--walk.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    130,
+    130,
+    130,
+    130
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-kawaii--walk",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-kawaii--walk.png",
+  "source": "sources/hero-kawaii--motion.png",
+  "state": "walk",
+  "title": "Cavaleiro estelar",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      60,
+      85,
+      141,
+      181
+    ],
+    [
+      63,
+      84,
+      140,
+      181
+    ],
+    [
+      61,
+      86,
+      139,
+      181
+    ],
+    [
+      59,
+      85,
+      137,
+      181
+    ]
+  ],
+  "sha256": "bc1117613df7203a79c3ff959f6f2b087502c03ed012a640687e559911f7017e",
+  "gif": "previews/hero-kawaii--walk.gif"
+}

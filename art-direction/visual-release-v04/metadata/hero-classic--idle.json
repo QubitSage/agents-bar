@@ -1,0 +1,57 @@
+{
+  "actor": "hero-classic",
+  "aseprite": "aseprite/hero-classic--idle.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    240,
+    220,
+    240,
+    260
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-classic--idle",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-classic--idle.png",
+  "source": "sources/hero-classic--motion.png",
+  "state": "idle",
+  "title": "Cavaleiro clássico",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      84,
+      138,
+      181
+    ],
+    [
+      63,
+      83,
+      138,
+      181
+    ],
+    [
+      62,
+      85,
+      138,
+      181
+    ],
+    [
+      66,
+      84,
+      141,
+      181
+    ]
+  ],
+  "sha256": "62c75f1df054b21b7a869ecc51961e98905bde7266f9180b7384304d05b8fdaf",
+  "gif": "previews/hero-classic--idle.gif"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-02",
+  "actor": "atlas-props-02",
+  "title": "Barril",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-02.png",
+  "aseprite": "aseprite/atlas-props-02.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      11,
+      4,
+      53,
+      60
+    ]
+  ],
+  "sha256": "2b16183398c42c6bc8b7172b2e76df9026c3fd616335f02aece9d3ef0ac7b299",
+  "events": []
+}

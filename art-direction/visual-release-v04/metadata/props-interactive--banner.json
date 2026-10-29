@@ -1,0 +1,57 @@
+{
+  "actor": "props-interactive",
+  "aseprite": "aseprite/props-interactive--banner.aseprite",
+  "category": "props-animated",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "props-interactive--banner",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 64,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/props-interactive--banner.png",
+  "source": "sources/props--interactive.png",
+  "state": "banner",
+  "title": "Objetos interativos",
+  "width": 128,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      22,
+      18,
+      102,
+      121
+    ],
+    [
+      24,
+      18,
+      96,
+      121
+    ],
+    [
+      22,
+      18,
+      112,
+      121
+    ],
+    [
+      18,
+      18,
+      111,
+      121
+    ]
+  ],
+  "sha256": "7278d497a9f1f5fdfa125a7f9cc8de8fe9ddfa445d53b764fec37a2905b5c560",
+  "gif": "previews/props-interactive--banner.gif"
+}

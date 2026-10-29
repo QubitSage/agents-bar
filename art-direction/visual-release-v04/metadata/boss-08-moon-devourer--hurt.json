@@ -1,0 +1,57 @@
+{
+  "actor": "boss-08-moon-devourer",
+  "aseprite": "aseprite/boss-08-moon-devourer--hurt.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-08-moon-devourer--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-08-moon-devourer--hurt.png",
+  "source": "sources/boss-08-moon-devourer--motion.png",
+  "state": "hurt",
+  "title": "Devorador de Luas",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      60,
+      111,
+      232,
+      271
+    ],
+    [
+      85,
+      129,
+      231,
+      271
+    ],
+    [
+      68,
+      106,
+      236,
+      271
+    ],
+    [
+      71,
+      107,
+      236,
+      271
+    ]
+  ],
+  "sha256": "fd622ac6273bec48ced8361daa86eb7a8b7815c9b9c8e5137152420feec8584e",
+  "gif": "previews/boss-08-moon-devourer--hurt.gif"
+}

@@ -1,0 +1,57 @@
+{
+  "actor": "companion-brasa",
+  "aseprite": "aseprite/companion-brasa--hurt.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-brasa--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-brasa--hurt.png",
+  "source": "sources/companion-brasa--motion.png",
+  "state": "hurt",
+  "title": "Brasa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      63,
+      88,
+      152,
+      181
+    ],
+    [
+      67,
+      98,
+      149,
+      181
+    ],
+    [
+      66,
+      87,
+      142,
+      181
+    ],
+    [
+      52,
+      85,
+      148,
+      181
+    ]
+  ],
+  "sha256": "cca7d5deedf41f35ecc921a4cea3e7ef5e8360f05ceb834d76318ef1880142f0",
+  "gif": "previews/companion-brasa--hurt.gif"
+}

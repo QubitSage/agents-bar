@@ -1,0 +1,57 @@
+{
+  "actor": "environment-forge",
+  "aseprite": "aseprite/environment-forge--flame.aseprite",
+  "category": "environment-fx",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 128,
+  "id": "environment-forge--flame",
+  "loop": true,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 120
+  },
+  "rows": 1,
+  "sheet": "sheets/environment-forge--flame.png",
+  "source": "sources/environment--forge.png",
+  "state": "flame",
+  "title": "Ambiente · forja e estação",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      30,
+      63,
+      64,
+      99
+    ],
+    [
+      30,
+      30,
+      69,
+      99
+    ],
+    [
+      31,
+      44,
+      69,
+      99
+    ],
+    [
+      33,
+      66,
+      64,
+      99
+    ]
+  ],
+  "sha256": "d3cb3970b997881ebfa69364ac3692aede6af49f1ae8e1705b4f4294566e9569",
+  "gif": "previews/environment-forge--flame.gif"
+}

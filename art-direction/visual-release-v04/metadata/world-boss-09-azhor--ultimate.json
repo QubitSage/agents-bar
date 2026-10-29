@@ -1,0 +1,93 @@
+{
+  "id": "world-boss-09-azhor--ultimate",
+  "actor": "world-boss-09-azhor",
+  "title": "AZHOR",
+  "category": "world-boss",
+  "state": "ultimate",
+  "width": 288,
+  "height": 256,
+  "columns": 4,
+  "rows": 2,
+  "frames": 8,
+  "durations": [
+    360,
+    220,
+    170,
+    400,
+    200,
+    220,
+    280,
+    500
+  ],
+  "loop": false,
+  "pivot": {
+    "x": 144,
+    "y": 236
+  },
+  "events": [
+    {
+      "frame": 5,
+      "name": "visual_release"
+    },
+    {
+      "frame": 6,
+      "name": "visual_impact"
+    }
+  ],
+  "aseprite": "aseprite/world-boss-09-azhor--ultimate.aseprite",
+  "sheet": "sheets/world-boss-09-azhor--ultimate.png",
+  "gif": "previews/world-boss-09-azhor--ultimate.gif",
+  "method": "Approved v02 poses preserved unchanged",
+  "uniqueFrames": 8,
+  "alphaBounds": [
+    [
+      36,
+      87,
+      251,
+      238
+    ],
+    [
+      36,
+      118,
+      258,
+      241
+    ],
+    [
+      46,
+      58,
+      256,
+      241
+    ],
+    [
+      77,
+      9,
+      214,
+      209
+    ],
+    [
+      47,
+      38,
+      250,
+      239
+    ],
+    [
+      14,
+      100,
+      271,
+      240
+    ],
+    [
+      35,
+      121,
+      249,
+      239
+    ],
+    [
+      27,
+      84,
+      243,
+      238
+    ]
+  ],
+  "sha256": "3bd05881dcc2f58c2119fa8e16b97950aa8ac9b71b3c1da4b10ea33a1f9f7089"
+}

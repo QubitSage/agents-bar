@@ -1,0 +1,62 @@
+{
+  "actor": "companion-brasa",
+  "aseprite": "aseprite/companion-brasa--attack.aseprite",
+  "category": "companions",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 192,
+  "id": "companion-brasa--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/companion-brasa--attack.png",
+  "source": "sources/companion-brasa--combat.png",
+  "state": "attack",
+  "title": "Brasa",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      45,
+      61,
+      164,
+      181
+    ],
+    [
+      44,
+      93,
+      174,
+      181
+    ],
+    [
+      31,
+      91,
+      159,
+      181
+    ],
+    [
+      45,
+      85,
+      150,
+      181
+    ]
+  ],
+  "sha256": "b75093890d62d0156aef706715ca6ac37ef7e2bfb15cd1eea82eae27262bdc59",
+  "gif": "previews/companion-brasa--attack.gif"
+}

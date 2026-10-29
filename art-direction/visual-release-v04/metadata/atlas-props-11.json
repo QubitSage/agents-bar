@@ -1,0 +1,30 @@
+{
+  "id": "atlas-props-11",
+  "actor": "atlas-props-11",
+  "title": "Coluna quebrada",
+  "category": "props",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 64,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-props-11.png",
+  "aseprite": "aseprite/atlas-props-11.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      7,
+      5,
+      57,
+      60
+    ]
+  ],
+  "sha256": "5e7be048cd0876773e61db48868be57a4ab8518b5c23c513afb5f0cb292644f5",
+  "events": []
+}

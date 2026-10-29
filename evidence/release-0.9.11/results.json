@@ -1,0 +1,17 @@
+{
+  "version": "0.9.11",
+  "pythonTests": 71,
+  "backendTests": 12,
+  "godotLogicChecks": 5232,
+  "battleFramingChecks": 1296,
+  "isolatedHudChecksPerRun": 48,
+  "sourceAndPackagePassed": true,
+  "installerPayloadVerified": true,
+  "manifestFilesVerified": 367,
+  "visibleGameWindowOpened": false,
+  "realSessionsUsed": false,
+  "personalSaveUsed": false,
+  "visualAcceptance": "pending user test",
+  "preview": "Illustrative HTML; syntax and asset paths checked, no browser render verified",
+  "retry": "First suite run had one Windows thread initialization failure in a fixture PowerShell process; complete retry passed."
+}

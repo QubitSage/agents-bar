@@ -1,0 +1,94 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--defense.aseprite",
+  "category": "world-boss",
+  "columns": 8,
+  "durations": [
+    180,
+    150,
+    130,
+    110,
+    100,
+    140,
+    170,
+    280
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 7,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 8,
+  "height": 288,
+  "id": "world-boss-09-azhor--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--defense.png",
+  "source": "sources/azhor--defense.png",
+  "state": "defense",
+  "title": "AZHOR",
+  "width": 288,
+  "uniqueFrames": 8,
+  "alphaBounds": [
+    [
+      35,
+      96,
+      262,
+      271
+    ],
+    [
+      25,
+      117,
+      267,
+      271
+    ],
+    [
+      39,
+      122,
+      263,
+      271
+    ],
+    [
+      37,
+      139,
+      253,
+      271
+    ],
+    [
+      42,
+      146,
+      262,
+      271
+    ],
+    [
+      47,
+      111,
+      263,
+      271
+    ],
+    [
+      36,
+      97,
+      260,
+      271
+    ],
+    [
+      37,
+      99,
+      261,
+      271
+    ]
+  ],
+  "sha256": "4a9067a236cac8fd456c233d059e7d60cbcdb9e714d50eeca6ad058b786b7a42",
+  "gif": "previews/world-boss-09-azhor--defense.gif"
+}

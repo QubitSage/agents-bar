@@ -1,0 +1,57 @@
+{
+  "actor": "effects-arcane",
+  "aseprite": "aseprite/effects-arcane--lightning.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-arcane--lightning",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-arcane--lightning.png",
+  "source": "sources/effects--arcane.png",
+  "state": "lightning",
+  "title": "Combate · arcano",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      29,
+      25,
+      70,
+      75
+    ],
+    [
+      20,
+      20,
+      69,
+      83
+    ],
+    [
+      20,
+      29,
+      73,
+      76
+    ],
+    [
+      35,
+      54,
+      68,
+      74
+    ]
+  ],
+  "sha256": "e480395e5e5f522b6b3038462eae3816ed54fd64f45e7a23c429db1f78626725",
+  "gif": "previews/effects-arcane--lightning.gif"
+}

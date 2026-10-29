@@ -1,0 +1,57 @@
+{
+  "actor": "hero-kawaii",
+  "aseprite": "aseprite/hero-kawaii--hurt.aseprite",
+  "category": "heroes",
+  "columns": 4,
+  "durations": [
+    80,
+    110,
+    150,
+    180
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 192,
+  "id": "hero-kawaii--hurt",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 96,
+    "y": 180
+  },
+  "rows": 1,
+  "sheet": "sheets/hero-kawaii--hurt.png",
+  "source": "sources/hero-kawaii--motion.png",
+  "state": "hurt",
+  "title": "Cavaleiro estelar",
+  "width": 192,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      61,
+      88,
+      142,
+      181
+    ],
+    [
+      56,
+      94,
+      146,
+      181
+    ],
+    [
+      57,
+      95,
+      139,
+      181
+    ],
+    [
+      56,
+      89,
+      133,
+      181
+    ]
+  ],
+  "sha256": "58953df08fc9c3ed42597211b800847d77729dfddc23010527420fdfb55216ee",
+  "gif": "previews/hero-kawaii--hurt.gif"
+}

@@ -1,0 +1,73 @@
+{
+  "actor": "scene-scrap-1",
+  "aseprite": "aseprite/scene-scrap-1.aseprite",
+  "category": "scenes",
+  "columns": 4,
+  "durations": [
+    220,
+    220,
+    220,
+    220
+  ],
+  "frames": 4,
+  "height": 160,
+  "id": "scene-scrap-1",
+  "layers": [
+    "Cenário fixo",
+    "Elementos animados"
+  ],
+  "loop": true,
+  "method": "Static approved background plus separate hand-pose generated FX cels in Aseprite",
+  "placements": [
+    [
+      "environment-forge--smoke",
+      342,
+      18,
+      30,
+      52
+    ],
+    [
+      "environment-forge--beacon",
+      25,
+      52,
+      22,
+      40
+    ]
+  ],
+  "rows": 1,
+  "sheet": "sheets/scene-scrap-1.png",
+  "state": "ambient",
+  "title": "Primeiro sinal",
+  "visualGroundY": 126,
+  "width": 480,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ],
+    [
+      0,
+      0,
+      480,
+      160
+    ]
+  ],
+  "sha256": "b593a936dc0b6e121fbaf06765e16fe90b338759afe92e478150c211b8adefa0",
+  "events": [],
+  "gif": "previews/scene-scrap-1.gif"
+}

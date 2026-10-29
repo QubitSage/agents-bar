@@ -1,0 +1,62 @@
+{
+  "actor": "boss-storm-archon",
+  "aseprite": "aseprite/boss-storm-archon--attack.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    220,
+    80,
+    120,
+    220
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-storm-archon--attack",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 160,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-storm-archon--attack.png",
+  "source": "sources/boss-storm-archon--combat.png",
+  "state": "attack",
+  "title": "Arconte da Tempestade",
+  "width": 320,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      56,
+      103,
+      256,
+      271
+    ],
+    [
+      34,
+      110,
+      287,
+      271
+    ],
+    [
+      36,
+      126,
+      299,
+      271
+    ],
+    [
+      87,
+      110,
+      242,
+      271
+    ]
+  ],
+  "sha256": "27a2e5f875cfabb7749179ec26d19ed979c4887f2605eba1f499cbcc6d293472",
+  "gif": "previews/boss-storm-archon--attack.gif"
+}

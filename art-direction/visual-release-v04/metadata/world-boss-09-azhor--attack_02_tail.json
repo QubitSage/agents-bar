@@ -1,0 +1,90 @@
+{
+  "actor": "world-boss-09-azhor",
+  "aseprite": "aseprite/world-boss-09-azhor--attack_02_tail.aseprite",
+  "category": "world-boss",
+  "columns": 8,
+  "durations": [
+    180,
+    150,
+    130,
+    110,
+    100,
+    140,
+    170,
+    280
+  ],
+  "events": [
+    {
+      "frame": 5,
+      "name": "visual_impact"
+    }
+  ],
+  "frames": 8,
+  "height": 288,
+  "id": "world-boss-09-azhor--attack_02_tail",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 160,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/world-boss-09-azhor--attack_02_tail.png",
+  "source": "sources/azhor--attack_02_tail.png",
+  "state": "attack_02_tail",
+  "title": "AZHOR",
+  "width": 320,
+  "uniqueFrames": 8,
+  "alphaBounds": [
+    [
+      55,
+      96,
+      295,
+      271
+    ],
+    [
+      57,
+      99,
+      294,
+      271
+    ],
+    [
+      57,
+      68,
+      280,
+      271
+    ],
+    [
+      20,
+      119,
+      286,
+      271
+    ],
+    [
+      41,
+      113,
+      300,
+      271
+    ],
+    [
+      72,
+      110,
+      280,
+      271
+    ],
+    [
+      46,
+      114,
+      275,
+      271
+    ],
+    [
+      45,
+      98,
+      284,
+      271
+    ]
+  ],
+  "sha256": "661207a13bb198f74a9acbc429cf769a13e3cc92b25eac468bd833aff73f0346",
+  "gif": "previews/world-boss-09-azhor--attack_02_tail.gif"
+}

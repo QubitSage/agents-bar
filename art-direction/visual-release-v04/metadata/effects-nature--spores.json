@@ -1,0 +1,57 @@
+{
+  "actor": "effects-nature",
+  "aseprite": "aseprite/effects-nature--spores.aseprite",
+  "category": "effects",
+  "columns": 4,
+  "durations": [
+    140,
+    140,
+    140,
+    160
+  ],
+  "events": [],
+  "frames": 4,
+  "height": 96,
+  "id": "effects-nature--spores",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 48,
+    "y": 90
+  },
+  "rows": 1,
+  "sheet": "sheets/effects-nature--spores.png",
+  "source": "sources/effects--nature.png",
+  "state": "spores",
+  "title": "Combate · natureza",
+  "width": 96,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      33,
+      41,
+      68,
+      69
+    ],
+    [
+      19,
+      27,
+      79,
+      75
+    ],
+    [
+      13,
+      31,
+      86,
+      72
+    ],
+    [
+      23,
+      34,
+      69,
+      69
+    ]
+  ],
+  "sha256": "79094f074833960e27ffe11adef95ca729a409da017791711418bdf1949698f9",
+  "gif": "previews/effects-nature--spores.gif"
+}

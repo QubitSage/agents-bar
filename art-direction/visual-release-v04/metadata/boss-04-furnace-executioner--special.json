@@ -1,0 +1,62 @@
+{
+  "actor": "boss-04-furnace-executioner",
+  "aseprite": "aseprite/boss-04-furnace-executioner--special.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    260,
+    190,
+    160,
+    300
+  ],
+  "events": [
+    {
+      "frame": 3,
+      "name": "visual_release"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-04-furnace-executioner--special",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 152,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-04-furnace-executioner--special.png",
+  "source": "sources/boss-04-furnace-executioner--combat.png",
+  "state": "special",
+  "title": "Carrasco das Mil Forjas",
+  "width": 304,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      77,
+      134,
+      241,
+      271
+    ],
+    [
+      60,
+      96,
+      250,
+      271
+    ],
+    [
+      18,
+      106,
+      285,
+      271
+    ],
+    [
+      73,
+      129,
+      216,
+      271
+    ]
+  ],
+  "sha256": "8da865f1a3dc20ed0f7bab0ab93699e870a2a2701e98f1c051b66d3843301e78",
+  "gif": "previews/boss-04-furnace-executioner--special.gif"
+}

@@ -1,0 +1,66 @@
+{
+  "actor": "boss-04-furnace-executioner",
+  "aseprite": "aseprite/boss-04-furnace-executioner--defense.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 288,
+  "id": "boss-04-furnace-executioner--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 152,
+    "y": 270
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-04-furnace-executioner--defense.png",
+  "source": "sources/boss-04-furnace-executioner--combat.png",
+  "state": "defense",
+  "title": "Carrasco das Mil Forjas",
+  "width": 304,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      63,
+      112,
+      229,
+      271
+    ],
+    [
+      69,
+      144,
+      222,
+      271
+    ],
+    [
+      61,
+      145,
+      225,
+      271
+    ],
+    [
+      71,
+      111,
+      234,
+      271
+    ]
+  ],
+  "sha256": "92e62e1e9158e332b950f5c0abb4e52c1f3af684a57de9d7f7f344b2bd1efb94",
+  "gif": "previews/boss-04-furnace-executioner--defense.gif"
+}

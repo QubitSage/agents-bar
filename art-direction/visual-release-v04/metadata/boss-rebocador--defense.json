@@ -1,0 +1,66 @@
+{
+  "actor": "boss-rebocador",
+  "aseprite": "aseprite/boss-rebocador--defense.aseprite",
+  "category": "bosses",
+  "columns": 4,
+  "durations": [
+    160,
+    200,
+    150,
+    200
+  ],
+  "events": [
+    {
+      "frame": 2,
+      "name": "guard_pose_start"
+    },
+    {
+      "frame": 3,
+      "name": "guard_pose_end"
+    }
+  ],
+  "frames": 4,
+  "height": 304,
+  "id": "boss-rebocador--defense",
+  "loop": false,
+  "method": "Generated complete poses; Aseprite indexed cels and exports",
+  "pivot": {
+    "x": 144,
+    "y": 285
+  },
+  "rows": 1,
+  "sheet": "sheets/boss-rebocador--defense.png",
+  "source": "sources/boss-rebocador--combat.png",
+  "state": "defense",
+  "title": "Rebocador",
+  "width": 288,
+  "uniqueFrames": 4,
+  "alphaBounds": [
+    [
+      47,
+      117,
+      259,
+      286
+    ],
+    [
+      65,
+      138,
+      225,
+      286
+    ],
+    [
+      41,
+      126,
+      247,
+      286
+    ],
+    [
+      42,
+      117,
+      248,
+      286
+    ]
+  ],
+  "sha256": "b82031c0168435a60e3e7df19bb0d0e86f3e56db748413c3b8e46cd21c5f81a8",
+  "gif": "previews/boss-rebocador--defense.gif"
+}

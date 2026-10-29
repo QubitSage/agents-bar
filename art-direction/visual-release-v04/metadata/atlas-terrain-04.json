@@ -1,0 +1,30 @@
+{
+  "id": "atlas-terrain-04",
+  "actor": "atlas-terrain-04",
+  "title": "Forja · Escada",
+  "category": "terrain",
+  "state": "static",
+  "frames": 1,
+  "columns": 1,
+  "rows": 1,
+  "width": 96,
+  "height": 64,
+  "durations": [
+    1000
+  ],
+  "loop": false,
+  "sheet": "static/atlas-terrain-04.png",
+  "aseprite": "aseprite/atlas-terrain-04.aseprite",
+  "method": "Existing approved static asset preserved",
+  "uniqueFrames": 1,
+  "alphaBounds": [
+    [
+      4,
+      4,
+      91,
+      60
+    ]
+  ],
+  "sha256": "ad2364eb28765059eb3b11cf645d7d983336bf28149339fb95f3c1f27f581bbf",
+  "events": []
+}
